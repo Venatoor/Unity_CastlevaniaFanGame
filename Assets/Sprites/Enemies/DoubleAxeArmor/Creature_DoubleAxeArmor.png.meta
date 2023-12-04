@@ -1,0 +1,3060 @@
+fileFormatVersion: 2
+guid: e9fd0714a91f79d4ca0568db22624ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3614795116333085086
+    second: Creature_DoubleAxeArmor_0
+  - first:
+      213: -7291429191303572259
+    second: Creature_DoubleAxeArmor_1
+  - first:
+      213: -2996593164657332488
+    second: Creature_DoubleAxeArmor_2
+  - first:
+      213: 8913566038068062043
+    second: Creature_DoubleAxeArmor_3
+  - first:
+      213: -7880177189843218947
+    second: Creature_DoubleAxeArmor_4
+  - first:
+      213: -5063879832875771776
+    second: Creature_DoubleAxeArmor_5
+  - first:
+      213: 2309058208780776729
+    second: Creature_DoubleAxeArmor_6
+  - first:
+      213: 2878495233313715719
+    second: Creature_DoubleAxeArmor_7
+  - first:
+      213: 3892139934128212624
+    second: Creature_DoubleAxeArmor_8
+  - first:
+      213: 2730576774621469415
+    second: Creature_DoubleAxeArmor_9
+  - first:
+      213: -4228498790603539155
+    second: Creature_DoubleAxeArmor_10
+  - first:
+      213: 4734272297672167481
+    second: Creature_DoubleAxeArmor_11
+  - first:
+      213: -4924011445518929533
+    second: Creature_DoubleAxeArmor_12
+  - first:
+      213: -3576427956023738850
+    second: Creature_DoubleAxeArmor_13
+  - first:
+      213: -3338310167933266293
+    second: Creature_DoubleAxeArmor_14
+  - first:
+      213: -4946468784096296339
+    second: Creature_DoubleAxeArmor_15
+  - first:
+      213: -3974114800510914506
+    second: Creature_DoubleAxeArmor_16
+  - first:
+      213: -9106323366339386387
+    second: Creature_DoubleAxeArmor_17
+  - first:
+      213: 6177989128990731180
+    second: Creature_DoubleAxeArmor_18
+  - first:
+      213: 8062755073197901253
+    second: Creature_DoubleAxeArmor_19
+  - first:
+      213: 7316417817752742324
+    second: Creature_DoubleAxeArmor_20
+  - first:
+      213: -2781882627077280780
+    second: Creature_DoubleAxeArmor_21
+  - first:
+      213: 4627481661780180221
+    second: Creature_DoubleAxeArmor_22
+  - first:
+      213: 36124434956024328
+    second: Creature_DoubleAxeArmor_23
+  - first:
+      213: 4504955734336597167
+    second: Creature_DoubleAxeArmor_24
+  - first:
+      213: 7274710414586444867
+    second: Creature_DoubleAxeArmor_25
+  - first:
+      213: -7449762447942025534
+    second: Creature_DoubleAxeArmor_26
+  - first:
+      213: 2093330467308157134
+    second: Creature_DoubleAxeArmor_27
+  - first:
+      213: -6622250713247373483
+    second: Creature_DoubleAxeArmor_28
+  - first:
+      213: -621728158591190718
+    second: Creature_DoubleAxeArmor_29
+  - first:
+      213: 7880375081756767213
+    second: Creature_DoubleAxeArmor_30
+  - first:
+      213: -944007111622676520
+    second: Creature_DoubleAxeArmor_31
+  - first:
+      213: 6592367468449698955
+    second: Creature_DoubleAxeArmor_32
+  - first:
+      213: -4832585924579636593
+    second: Creature_DoubleAxeArmor_33
+  - first:
+      213: 4867730612146359385
+    second: Creature_DoubleAxeArmor_34
+  - first:
+      213: 543585540116401355
+    second: Creature_DoubleAxeArmor_35
+  - first:
+      213: -1325171310158259175
+    second: Creature_DoubleAxeArmor_36
+  - first:
+      213: -1722271032635032131
+    second: Creature_DoubleAxeArmor_37
+  - first:
+      213: -7394987301772837414
+    second: Creature_DoubleAxeArmor_38
+  - first:
+      213: -7922789628463128793
+    second: Creature_DoubleAxeArmor_39
+  - first:
+      213: 5039407640969266841
+    second: Creature_DoubleAxeArmor_40
+  - first:
+      213: -5349740715615674574
+    second: Creature_DoubleAxeArmor_41
+  - first:
+      213: 4714673752197814159
+    second: Creature_DoubleAxeArmor_42
+  - first:
+      213: 2383122703442566718
+    second: Creature_DoubleAxeArmor_43
+  - first:
+      213: 3252102585781219255
+    second: Creature_DoubleAxeArmor_44
+  - first:
+      213: 2705997894461693355
+    second: Creature_DoubleAxeArmor_45
+  - first:
+      213: -4719367903049348255
+    second: Creature_DoubleAxeArmor_46
+  - first:
+      213: -311346715798055683
+    second: Creature_DoubleAxeArmor_47
+  - first:
+      213: 1176967540576766914
+    second: Creature_DoubleAxeArmor_48
+  - first:
+      213: -2190631355123593418
+    second: Creature_DoubleAxeArmor_49
+  - first:
+      213: 2972924821169993608
+    second: Creature_DoubleAxeArmor_50
+  - first:
+      213: -6956928921681793538
+    second: Creature_DoubleAxeArmor_51
+  - first:
+      213: -1787948585464969027
+    second: Creature_DoubleAxeArmor_52
+  - first:
+      213: 3306378853722258144
+    second: Creature_DoubleAxeArmor_53
+  - first:
+      213: -905599584591458675
+    second: Creature_DoubleAxeArmor_54
+  - first:
+      213: -7483431625792379673
+    second: Creature_DoubleAxeArmor_55
+  - first:
+      213: -7387315046829393603
+    second: Creature_DoubleAxeArmor_56
+  - first:
+      213: 5563550956674109531
+    second: Creature_DoubleAxeArmor_57
+  - first:
+      213: 6845991969858434948
+    second: Creature_DoubleAxeArmor_58
+  - first:
+      213: 7541160484217512757
+    second: Creature_DoubleAxeArmor_59
+  - first:
+      213: -7589724685893853664
+    second: Creature_DoubleAxeArmor_60
+  - first:
+      213: 8237371290604364381
+    second: Creature_DoubleAxeArmor_61
+  - first:
+      213: -7572145860732570239
+    second: Creature_DoubleAxeArmor_62
+  - first:
+      213: 3220713905915656319
+    second: Creature_DoubleAxeArmor_63
+  - first:
+      213: 2880769624710912343
+    second: Creature_DoubleAxeArmor_64
+  - first:
+      213: -2290124361436260127
+    second: Creature_DoubleAxeArmor_65
+  - first:
+      213: 5295422830319739958
+    second: Creature_DoubleAxeArmor_66
+  - first:
+      213: 4598037695514749247
+    second: Creature_DoubleAxeArmor_67
+  - first:
+      213: 5869330495703126612
+    second: Creature_DoubleAxeArmor_68
+  - first:
+      213: 4484327442704973117
+    second: Creature_DoubleAxeArmor_69
+  - first:
+      213: -2265995374169575196
+    second: Creature_DoubleAxeArmor_70
+  - first:
+      213: 3504567380552675763
+    second: Creature_DoubleAxeArmor_71
+  - first:
+      213: -630597208107508580
+    second: Creature_DoubleAxeArmor_72
+  - first:
+      213: -3226039000881325330
+    second: Creature_DoubleAxeArmor_73
+  - first:
+      213: -5904314555040244643
+    second: Creature_DoubleAxeArmor_74
+  - first:
+      213: 3745295108842970761
+    second: Creature_DoubleAxeArmor_75
+  - first:
+      213: 2849960314353745265
+    second: Creature_DoubleAxeArmor_76
+  - first:
+      213: -5867450983189620519
+    second: Creature_DoubleAxeArmor_77
+  - first:
+      213: 9018906514785926127
+    second: Creature_DoubleAxeArmor_78
+  - first:
+      213: 1584659642569675098
+    second: Creature_DoubleAxeArmor_79
+  - first:
+      213: -7452799241247972702
+    second: Creature_DoubleAxeArmor_80
+  - first:
+      213: -2242163840818346500
+    second: Creature_DoubleAxeArmor_81
+  - first:
+      213: -2135622962630531732
+    second: Creature_DoubleAxeArmor_82
+  - first:
+      213: -6132360668667018540
+    second: Creature_DoubleAxeArmor_83
+  - first:
+      213: -8477229379999952243
+    second: Creature_DoubleAxeArmor_84
+  - first:
+      213: -1553455573918468591
+    second: Creature_DoubleAxeArmor_85
+  - first:
+      213: 5938064937572509689
+    second: Creature_DoubleAxeArmor_86
+  - first:
+      213: 5881663741483987803
+    second: Creature_DoubleAxeArmor_87
+  - first:
+      213: 314017354764552889
+    second: Creature_DoubleAxeArmor_88
+  - first:
+      213: -6824881601004049781
+    second: Creature_DoubleAxeArmor_89
+  - first:
+      213: -996902054958655206
+    second: Creature_DoubleAxeArmor_90
+  - first:
+      213: -1157178129926013176
+    second: Creature_DoubleAxeArmor_91
+  - first:
+      213: 2905726257020840975
+    second: Creature_DoubleAxeArmor_92
+  - first:
+      213: 7666983350303954255
+    second: Creature_DoubleAxeArmor_93
+  - first:
+      213: -127732166051183584
+    second: Creature_DoubleAxeArmor_94
+  - first:
+      213: 2862932363650101201
+    second: Creature_DoubleAxeArmor_95
+  - first:
+      213: 8335571905411209882
+    second: Creature_DoubleAxeArmor_96
+  - first:
+      213: -182623271729239459
+    second: Creature_DoubleAxeArmor_97
+  - first:
+      213: 6909119475651434969
+    second: Creature_DoubleAxeArmor_98
+  - first:
+      213: -7712794358236970330
+    second: Creature_DoubleAxeArmor_99
+  - first:
+      213: -2833673717568063477
+    second: Creature_DoubleAxeArmor_100
+  - first:
+      213: -2413162046501677028
+    second: Creature_DoubleAxeArmor_101
+  - first:
+      213: -6142102141733458462
+    second: Creature_DoubleAxeArmor_102
+  - first:
+      213: -3199279617268691111
+    second: Creature_DoubleAxeArmor_103
+  - first:
+      213: 1945568037809303268
+    second: Creature_DoubleAxeArmor_104
+  - first:
+      213: -3799421983548088352
+    second: Creature_DoubleAxeArmor_105
+  - first:
+      213: 3665136908982868160
+    second: Creature_DoubleAxeArmor_106
+  - first:
+      213: -6471296510110823656
+    second: Creature_DoubleAxeArmor_107
+  - first:
+      213: 2586302420460691050
+    second: Creature_DoubleAxeArmor_108
+  - first:
+      213: -202478316532663523
+    second: Creature_DoubleAxeArmor_109
+  - first:
+      213: 26638095913223555
+    second: Creature_DoubleAxeArmor_110
+  - first:
+      213: 3935126653484104028
+    second: Creature_DoubleAxeArmor_111
+  - first:
+      213: 5378444415311801177
+    second: Creature_DoubleAxeArmor_112
+  - first:
+      213: 8285562379441212136
+    second: Creature_DoubleAxeArmor_113
+  - first:
+      213: 7723871535894167920
+    second: Creature_DoubleAxeArmor_114
+  - first:
+      213: -4378663249055030237
+    second: Creature_DoubleAxeArmor_115
+  - first:
+      213: -1227178270760144215
+    second: Creature_DoubleAxeArmor_116
+  - first:
+      213: 6800430669127021496
+    second: Creature_DoubleAxeArmor_117
+  - first:
+      213: 4999014343726700532
+    second: Creature_DoubleAxeArmor_118
+  - first:
+      213: 1147167481416351562
+    second: Creature_DoubleAxeArmor_119
+  - first:
+      213: 6185991705892319813
+    second: Creature_DoubleAxeArmor_120
+  - first:
+      213: -4884603387973345674
+    second: Creature_DoubleAxeArmor_121
+  - first:
+      213: -6197348079032287531
+    second: Creature_DoubleAxeArmor_122
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1783
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e46236efaa5ddc0800000000000000
+      internalID: -3614795116333085086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1783
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4df6b38c3afca90800000000000000
+      internalID: -7291429191303572259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1783
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe6c34b466f966d0800000000000000
+      internalID: -2996593164657332488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1783
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576805e51953bb70800000000000000
+      internalID: 8913566038068062043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1783
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4248c89cf3a290800000000000000
+      internalID: -7880177189843218947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1706
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088dc202f1c79b9b0800000000000000
+      internalID: -5063879832875771776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1706
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f31cf43c6b0020800000000000000
+      internalID: 2309058208780776729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1706
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b15de92872f720800000000000000
+      internalID: 2878495233313715719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1706
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a03dd06a8a30630800000000000000
+      internalID: 3892139934128212624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1706
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea9e3bfb15f4e520800000000000000
+      internalID: 2730576774621469415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1629
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d38e4e0ca5155c0800000000000000
+      internalID: -4228498790603539155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1629
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d8bc429383b140800000000000000
+      internalID: 4734272297672167481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1629
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f2e7cda56aabb0800000000000000
+      internalID: -4924011445518929533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1629
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebd6409b9fd5ec0800000000000000
+      internalID: -3576427956023738850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1629
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b865342e690fba1d0800000000000000
+      internalID: -3338310167933266293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1543
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c16f29dc9a5bb0800000000000000
+      internalID: -4946468784096296339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1542
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630bcea05ab19d8c0800000000000000
+      internalID: -3974114800510914506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1542
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3608b4527df9180800000000000000
+      internalID: -9106323366339386387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1542
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caba7b36160acb550800000000000000
+      internalID: 6177989128990731180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1542
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c580f05509a4ef60800000000000000
+      internalID: 8062755073197901253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1464
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ad7fbd33298560800000000000000
+      internalID: 7316417817752742324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1475
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6a3e5d74c469d0800000000000000
+      internalID: -2781882627077280780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1475
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcba0fcd0e183040800000000000000
+      internalID: 4627481661780180221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1475
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af3417bf6508000800000000000000
+      internalID: 36124434956024328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1475
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facedf14f51d48e30800000000000000
+      internalID: 4504955734336597167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1398
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c72493496f4f460800000000000000
+      internalID: 7274710414586444867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1398
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cefe5d26802d9890800000000000000
+      internalID: -7449762447942025534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1398
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8b76518f00d0d10800000000000000
+      internalID: 2093330467308157134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1398
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557205fff0a0914a0800000000000000
+      internalID: -6622250713247373483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_29
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1398
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497058a88d2f57f0800000000000000
+      internalID: -621728158591190718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1321
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b3f48267bc5d60800000000000000
+      internalID: 7880375081756767213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1321
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa946988636e2f0800000000000000
+      internalID: -944007111622676520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1321
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8419c1e84bcc7b50800000000000000
+      internalID: 6592367468449698955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1321
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac0eaa4b43fecb0800000000000000
+      internalID: -4832585924579636593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1321
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c474f8337ad8340800000000000000
+      internalID: 4867730612146359385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1244
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc4daf2b243b8700800000000000000
+      internalID: 543585540116401355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1244
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5a77e6bb0c9de0800000000000000
+      internalID: -1325171310158259175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1244
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf7dcee934918e0800000000000000
+      internalID: -1722271032635032131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_38
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1244
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3e47ba3abf5990800000000000000
+      internalID: -7394987301772837414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1244
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5e454fc89c0290800000000000000
+      internalID: -7922789628463128793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1167
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996cc5eac829fe540800000000000000
+      internalID: 5039407640969266841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1167
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f984dc927e1c5b0800000000000000
+      internalID: -5349740715615674574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1167
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87db975cc2ed6140800000000000000
+      internalID: 4714673752197814159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_43
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1166
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3edcd2f87d821120800000000000000
+      internalID: 2383122703442566718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_44
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1167
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf6e96421ac12d20800000000000000
+      internalID: 3252102585781219255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1090
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad185e7fb2ad8520800000000000000
+      internalID: 2705997894461693355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1090
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0d5e75ef618eb0800000000000000
+      internalID: -4719367903049348255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1090
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df45fd2cfcfddabf0800000000000000
+      internalID: -311346715798055683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1090
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4e380ebd655010800000000000000
+      internalID: 1176967540576766914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1090
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f860493605991e0800000000000000
+      internalID: -2190631355123593418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1013
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88777c5af53f14920800000000000000
+      internalID: 2972924821169993608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1013
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde38f4106047f90800000000000000
+      internalID: -6956928921681793538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1013
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c2b60c3eef27e0800000000000000
+      internalID: -1787948585464969027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1013
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7afcac0e92ed20800000000000000
+      internalID: 3306378853722258144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1013
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4fa3d9f9ae63f0800000000000000
+      internalID: -905599584591458675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 936
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a8b3d592852890800000000000000
+      internalID: -7483431625792379673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_56
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 954
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f5d5ca1cfa7990800000000000000
+      internalID: -7387315046829393603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 956
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50585e3e14b53d40800000000000000
+      internalID: 5563550956674109531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 935
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b69acc69d10f50800000000000000
+      internalID: 6845991969858434948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 951
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336fff618597a860800000000000000
+      internalID: 7541160484217512757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 953
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e984a3c91eba690800000000000000
+      internalID: -7589724685893853664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 936
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52697b9b85015270800000000000000
+      internalID: 8237371290604364381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_62
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 952
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185379765755ae690800000000000000
+      internalID: -7572145860732570239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 949
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78734dbb3642bc20800000000000000
+      internalID: 3220713905915656319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 936
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75911a0f5bc8af720800000000000000
+      internalID: 2880769624710912343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 936
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89f11e608d730e0800000000000000
+      internalID: -2290124361436260127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_66
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 948
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a3b0020f1d7940800000000000000
+      internalID: 5295422830319739958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_67
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 859
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3923013ce28fcf30800000000000000
+      internalID: 4598037695514749247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 859
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45290c12dfc047150800000000000000
+      internalID: 5869330495703126612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_69
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 859
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d37f6dc088b3e30800000000000000
+      internalID: 4484327442704973117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 859
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0b1f386319d80e0800000000000000
+      internalID: -2265995374169575196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_71
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 859
+        width: 58
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b17341f679b2a030800000000000000
+      internalID: 3504567380552675763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 771
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c16662e2baf37f0800000000000000
+      internalID: -630597208107508580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_73
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 771
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea99e8fe9eca33d0800000000000000
+      internalID: -3226039000881325330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 771
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c58a0d139af0ea0800000000000000
+      internalID: -5904314555040244643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_75
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 772
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed79dde06f9f330800000000000000
+      internalID: 3745295108842970761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 772
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df3016ec71d8720800000000000000
+      internalID: 2849960314353745265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 695
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d857f9fa60a29ea0800000000000000
+      internalID: -5867450983189620519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 695
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb7544e0b7992d70800000000000000
+      internalID: 9018906514785926127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 694
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51534d8c87ddf510800000000000000
+      internalID: 1584659642569675098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_80
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 694
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a22d13a396529890800000000000000
+      internalID: -7452799241247972702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 694
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf50cc3cddb32e0e0800000000000000
+      internalID: -2242163840818346500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_82
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 628
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656d320b3ebc52e0800000000000000
+      internalID: -2135622962630531732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 628
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d28685667a75eaa0800000000000000
+      internalID: -6132360668667018540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_84
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 628
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82199d0bc4da5a80800000000000000
+      internalID: -8477229379999952243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 628
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163d36d264017ae0800000000000000
+      internalID: -1553455573918468591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 628
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f72639799e386250800000000000000
+      internalID: 5938064937572509689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_87
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 551
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b27fa20edf9150800000000000000
+      internalID: 5881663741483987803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 551
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba8c04de1d9b5400800000000000000
+      internalID: 314017354764552889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_89
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 551
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aed0af7562941a0800000000000000
+      internalID: -6824881601004049781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_90
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 551
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191552ecda4a22f0800000000000000
+      internalID: -996902054958655206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_91
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 551
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fb8ef2f90e0ffe0800000000000000
+      internalID: -1157178129926013176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_92
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 474
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca044b2a6335820800000000000000
+      internalID: 2905726257020840975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_93
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 474
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4593b55cb8966a60800000000000000
+      internalID: 7666983350303954255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_94
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 474
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c02095443a3ef0800000000000000
+      internalID: -127732166051183584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_95
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 474
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df6557f0dd2bb720800000000000000
+      internalID: 2862932363650101201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_96
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 474
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad2c5fb76eda370800000000000000
+      internalID: 8335571905411209882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_97
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 397
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aebd81a11377df0800000000000000
+      internalID: -182623271729239459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_98
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 397
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9dfe89e8f12ef50800000000000000
+      internalID: 6909119475651434969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 397
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a206a33566a6f490800000000000000
+      internalID: -7712794358236970330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 397
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08befe64c4cca8d0800000000000000
+      internalID: -2833673717568063477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_101
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 397
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1810d877e9b28ed0800000000000000
+      internalID: -2413162046501677028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_102
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 320
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edafc3f4aed2caa0800000000000000
+      internalID: -6142102141733458462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_103
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 320
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4d8b7320e993d0800000000000000
+      internalID: -3199279617268691111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 320
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee2af382db000b10800000000000000
+      internalID: 1945568037809303268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 320
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5ece06ddb54bc0800000000000000
+      internalID: -3799421983548088352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_106
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 320
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d819999e2dd230800000000000000
+      internalID: 3665136908982868160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 243
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b8e964c165136a0800000000000000
+      internalID: -6471296510110823656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 243
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eda4d395464e320800000000000000
+      internalID: 2586302420460691050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf95c3b07a03df0800000000000000
+      internalID: -202478316532663523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_110
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 243
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38586640533ae5000800000000000000
+      internalID: 26638095913223555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_111
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 243
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59771797d06c9630800000000000000
+      internalID: 3935126653484104028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_112
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 166
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95be7d213b214aa40800000000000000
+      internalID: 5378444415311801177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 166
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0fe6d51b3cf270800000000000000
+      internalID: 8285562379441212136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_114
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 166
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07109b33d34b03b60800000000000000
+      internalID: 7723871535894167920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_115
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 166
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324640169fcdb33c0800000000000000
+      internalID: -4378663249055030237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_116
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 166
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a273475ddf28fee0800000000000000
+      internalID: -1227178270760144215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_117
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 89
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fcf0d9abff5e50800000000000000
+      internalID: 6800430669127021496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_118
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f799e84f01106540800000000000000
+      internalID: 4999014343726700532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 89
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f73b31fbe8bef00800000000000000
+      internalID: 1147167481416351562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_120
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 89
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54279358eae09d550800000000000000
+      internalID: 6185991705892319813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 89
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67edd2f2917663cb0800000000000000
+      internalID: -4884603387973345674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DoubleAxeArmor_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb4dfc1c89ef9a0800000000000000
+      internalID: -6197348079032287531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

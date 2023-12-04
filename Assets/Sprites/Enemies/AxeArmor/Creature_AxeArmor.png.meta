@@ -1,0 +1,2220 @@
+fileFormatVersion: 2
+guid: 4566833d73d48ae4ebe561cbac646ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8383710908661346698
+    second: Creature_AxeArmor_0
+  - first:
+      213: -3501440127786538184
+    second: Creature_AxeArmor_1
+  - first:
+      213: -1012208004171545268
+    second: Creature_AxeArmor_2
+  - first:
+      213: -4231492152397501582
+    second: Creature_AxeArmor_3
+  - first:
+      213: 2857433889054744793
+    second: Creature_AxeArmor_4
+  - first:
+      213: -7469183397536383606
+    second: Creature_AxeArmor_5
+  - first:
+      213: 2399276433198436422
+    second: Creature_AxeArmor_6
+  - first:
+      213: -4737115371025292438
+    second: Creature_AxeArmor_7
+  - first:
+      213: 6509928645035448076
+    second: Creature_AxeArmor_8
+  - first:
+      213: 2652632328667105847
+    second: Creature_AxeArmor_9
+  - first:
+      213: -286496849508375675
+    second: Creature_AxeArmor_10
+  - first:
+      213: -3232300914453867402
+    second: Creature_AxeArmor_11
+  - first:
+      213: -2431966039716043883
+    second: Creature_AxeArmor_12
+  - first:
+      213: -5216237453527038820
+    second: Creature_AxeArmor_13
+  - first:
+      213: -3534249388996303114
+    second: Creature_AxeArmor_14
+  - first:
+      213: -5236628858157459561
+    second: Creature_AxeArmor_15
+  - first:
+      213: 7599895016977643904
+    second: Creature_AxeArmor_16
+  - first:
+      213: -2246635511554339861
+    second: Creature_AxeArmor_17
+  - first:
+      213: 3496025949330276029
+    second: Creature_AxeArmor_18
+  - first:
+      213: 2110680837726445342
+    second: Creature_AxeArmor_19
+  - first:
+      213: 5257296693583796560
+    second: Creature_AxeArmor_20
+  - first:
+      213: 4599220240705713793
+    second: Creature_AxeArmor_21
+  - first:
+      213: 7361627334517347893
+    second: Creature_AxeArmor_22
+  - first:
+      213: -4436669311314762283
+    second: Creature_AxeArmor_23
+  - first:
+      213: -8851811481837186270
+    second: Creature_AxeArmor_24
+  - first:
+      213: -8064951007448345928
+    second: Creature_AxeArmor_25
+  - first:
+      213: 1077015578073490574
+    second: Creature_AxeArmor_26
+  - first:
+      213: 7830365587035039758
+    second: Creature_AxeArmor_27
+  - first:
+      213: 5931169304992598575
+    second: Creature_AxeArmor_28
+  - first:
+      213: 7597979273884463536
+    second: Creature_AxeArmor_29
+  - first:
+      213: -3492239588846392912
+    second: Creature_AxeArmor_30
+  - first:
+      213: -161911764401270640
+    second: Creature_AxeArmor_31
+  - first:
+      213: 1279697244237363645
+    second: Creature_AxeArmor_32
+  - first:
+      213: 5749124981050010989
+    second: Creature_AxeArmor_33
+  - first:
+      213: -8848521048854305577
+    second: Creature_AxeArmor_34
+  - first:
+      213: -8167969243639630460
+    second: Creature_AxeArmor_35
+  - first:
+      213: -7547517902282804690
+    second: Creature_AxeArmor_36
+  - first:
+      213: 1650730706928189563
+    second: Creature_AxeArmor_37
+  - first:
+      213: 6909293322350911293
+    second: Creature_AxeArmor_38
+  - first:
+      213: 144133393780849516
+    second: Creature_AxeArmor_39
+  - first:
+      213: 6646049855200162930
+    second: Creature_AxeArmor_40
+  - first:
+      213: -493590444281393269
+    second: Creature_AxeArmor_41
+  - first:
+      213: -3458532059787414596
+    second: Creature_AxeArmor_42
+  - first:
+      213: -4547114750349075533
+    second: Creature_AxeArmor_43
+  - first:
+      213: 6556743698717169242
+    second: Creature_AxeArmor_44
+  - first:
+      213: 7894104072576919539
+    second: Creature_AxeArmor_45
+  - first:
+      213: 1192069195244546731
+    second: Creature_AxeArmor_46
+  - first:
+      213: 2850732192959918555
+    second: Creature_AxeArmor_47
+  - first:
+      213: -5917563647210946782
+    second: Creature_AxeArmor_48
+  - first:
+      213: -1499161641178635112
+    second: Creature_AxeArmor_49
+  - first:
+      213: -7477210512282946644
+    second: Creature_AxeArmor_50
+  - first:
+      213: -6385886232937594579
+    second: Creature_AxeArmor_51
+  - first:
+      213: -5557639570670396909
+    second: Creature_AxeArmor_52
+  - first:
+      213: -8758310423232786926
+    second: Creature_AxeArmor_53
+  - first:
+      213: -8168348336728977592
+    second: Creature_AxeArmor_54
+  - first:
+      213: -7631518669451413210
+    second: Creature_AxeArmor_55
+  - first:
+      213: -1267051162176873757
+    second: Creature_AxeArmor_56
+  - first:
+      213: 5438307370999164437
+    second: Creature_AxeArmor_57
+  - first:
+      213: 2821594953299517757
+    second: Creature_AxeArmor_58
+  - first:
+      213: 6145118210465099529
+    second: Creature_AxeArmor_59
+  - first:
+      213: 6591723228523502290
+    second: Creature_AxeArmor_60
+  - first:
+      213: 4626025664319694188
+    second: Creature_AxeArmor_61
+  - first:
+      213: -1917546134656847343
+    second: Creature_AxeArmor_62
+  - first:
+      213: -4840830601325472201
+    second: Creature_AxeArmor_63
+  - first:
+      213: 6352875793667100379
+    second: Creature_AxeArmor_64
+  - first:
+      213: -5819818857064695186
+    second: Creature_AxeArmor_65
+  - first:
+      213: -5653351805158174182
+    second: Creature_AxeArmor_66
+  - first:
+      213: -172963471272042829
+    second: Creature_AxeArmor_67
+  - first:
+      213: -3907442627178458883
+    second: Creature_AxeArmor_68
+  - first:
+      213: -7662995145784083689
+    second: Creature_AxeArmor_69
+  - first:
+      213: -4571903655424520586
+    second: Creature_AxeArmor_70
+  - first:
+      213: 523185800412646060
+    second: Creature_AxeArmor_71
+  - first:
+      213: 3473282214075591274
+    second: Creature_AxeArmor_72
+  - first:
+      213: -5833519804589846827
+    second: Creature_AxeArmor_73
+  - first:
+      213: 7540773291900568274
+    second: Creature_AxeArmor_74
+  - first:
+      213: 3084988358931979585
+    second: Creature_AxeArmor_75
+  - first:
+      213: 8200797182166851710
+    second: Creature_AxeArmor_76
+  - first:
+      213: -5675219586167056135
+    second: Creature_AxeArmor_77
+  - first:
+      213: 6804354448485499877
+    second: Creature_AxeArmor_78
+  - first:
+      213: -5046059853785544970
+    second: Creature_AxeArmor_79
+  - first:
+      213: 5951923197175249776
+    second: Creature_AxeArmor_80
+  - first:
+      213: 6284128977792972980
+    second: Creature_AxeArmor_81
+  - first:
+      213: 7283477883434911036
+    second: Creature_AxeArmor_82
+  - first:
+      213: -4851327448102800142
+    second: Creature_AxeArmor_83
+  - first:
+      213: -39931962256146745
+    second: Creature_AxeArmor_84
+  - first:
+      213: 6864540387317902924
+    second: Creature_AxeArmor_85
+  - first:
+      213: -7939455471755544318
+    second: Creature_AxeArmor_86
+  - first:
+      213: 1052450917410397100
+    second: Creature_AxeArmor_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_AxeArmor_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1762
+        width: 20
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4cade85317ab80800000000000000
+      internalID: -8383710908661346698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1762
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b2cf451c2686fc0800000000000000
+      internalID: -3501440127786538184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1762
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c454c80ee2ae3f1f0800000000000000
+      internalID: -1012208004171545268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1692
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b6e7a8e48b645c0800000000000000
+      internalID: -4231492152397501582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1692
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d065469bf4a7a720800000000000000
+      internalID: 2857433889054744793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1692
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d399bf541285890800000000000000
+      internalID: -7469183397536383606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1622
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64052ce3431fb4120800000000000000
+      internalID: 2399276433198436422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1622
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63aef91ba2624eb0800000000000000
+      internalID: -4737115371025292438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1622
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c075a709c99e75a50800000000000000
+      internalID: 6509928645035448076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1552
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8be57c0b00d420800000000000000
+      internalID: 2652632328667105847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1552
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e8cf12a8260cf0800000000000000
+      internalID: -286496849508375675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1552
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6749eca917f8423d0800000000000000
+      internalID: -3232300914453867402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1482
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59369e0a5cbef3ed0800000000000000
+      internalID: -2431966039716043883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1482
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ce6e3ca33c97b0800000000000000
+      internalID: -5216237453527038820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6eb3de7e2d3fec0800000000000000
+      internalID: -3534249388996303114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1425
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79717f06cc1c357b0800000000000000
+      internalID: -5236628858157459561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1412
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b6318040487960800000000000000
+      internalID: 7599895016977643904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1424
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb860ac7e852d0e0800000000000000
+      internalID: -2246635511554339861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1412
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef0630411648030800000000000000
+      internalID: 3496025949330276029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1412
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f98eef905aa4d10800000000000000
+      internalID: 2110680837726445342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1342
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d5eb0d7ba5f840800000000000000
+      internalID: 5257296693583796560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1342
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186fc03f076b3df30800000000000000
+      internalID: 4599220240705713793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1342
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53656b2ae01c92660800000000000000
+      internalID: 7361627334517347893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1342
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e43194c8cd62c0800000000000000
+      internalID: -4436669311314762283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1272
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223de5e2b5c082580800000000000000
+      internalID: -8851811481837186270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1262
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2dc16e9c9831090800000000000000
+      internalID: -8064951007448345928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1262
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e1a446f352fe00800000000000000
+      internalID: 1077015578073490574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1192
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aaaca30c0bac60800000000000000
+      internalID: 7830365587035039758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1192
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac8c6ee0fbf4250800000000000000
+      internalID: 5931169304992598575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f9aec4e1717960800000000000000
+      internalID: 7597979273884463536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9214cb892198fc0800000000000000
+      internalID: -3492239588846392912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1132
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090d7edab16c0cdf0800000000000000
+      internalID: -161911764401270640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1132
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db970de0dd562c110800000000000000
+      internalID: 1279697244237363645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1062
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6fc8c5bef8cf40800000000000000
+      internalID: 5749124981050010989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1062
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e87fccfcb33580800000000000000
+      internalID: -8848521048854305577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1062
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853b88af3b85ae80800000000000000
+      internalID: -8167969243639630460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 992
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223882d474d14790800000000000000
+      internalID: -7547517902282804690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 992
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c84ef4d298e610800000000000000
+      internalID: 1650730706928189563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 992
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f54bf6badb2ef50800000000000000
+      internalID: 6909293322350911293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 922
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3498de80100200800000000000000
+      internalID: 144133393780849516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 922
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274fdba81238b3c50800000000000000
+      internalID: 6646049855200162930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 922
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f84182b1a6629f0800000000000000
+      internalID: -493590444281393269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 852
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3321c6a63d000d0800000000000000
+      internalID: -3458532059787414596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 852
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1188e93765e0c0800000000000000
+      internalID: -4547114750349075533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 852
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565155a7ab3efa50800000000000000
+      internalID: 6556743698717169242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 782
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f769e944dd7d8d60800000000000000
+      internalID: 7894104072576919539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_46
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 782
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaac320e941b8010800000000000000
+      internalID: 1192069195244546731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_47
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 782
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1752f53d5df8720800000000000000
+      internalID: 2850732192959918555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 712
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ff938273790eda0800000000000000
+      internalID: -5917563647210946782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 712
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e7a42e68e13be0800000000000000
+      internalID: -1499161641178635112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 712
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3fe80b7ac9b3890800000000000000
+      internalID: -7477210512282946644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 642
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2182b51e46c067a0800000000000000
+      internalID: -6385886232937594579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a5980914c4fd2b0800000000000000
+      internalID: -5557639570670396909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 642
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ecb96d21b347680800000000000000
+      internalID: -8758310423232786926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 572
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fcd9b277234ae80800000000000000
+      internalID: -8168348336728977592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 572
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62936922436671690800000000000000
+      internalID: -7631518669451413210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 572
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea933e5ea78a6ee0800000000000000
+      internalID: -1267051162176873757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_57
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 502
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2bc39dbfb87b40800000000000000
+      internalID: 5438307370999164437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 502
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e37b19a1582720800000000000000
+      internalID: 2821594953299517757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 522
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f6e854478d74550800000000000000
+      internalID: 6145118210465099529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_60
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 501
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da95d51a518a7b50800000000000000
+      internalID: 6591723228523502290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 517
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ad9bf4d1f23040800000000000000
+      internalID: 4626025664319694188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 449
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112fa5b33f18365e0800000000000000
+      internalID: -1917546134656847343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 432
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369726473ae1dcb0800000000000000
+      internalID: -4840830601325472201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 441
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde84b710e2f92850800000000000000
+      internalID: 6352875793667100379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 448
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af98f8599db3fa0800000000000000
+      internalID: -5819818857064695186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 432
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12db376c724b81b0800000000000000
+      internalID: -5653351805158174182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 432
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be16b7a3a2899df0800000000000000
+      internalID: -172963471272042829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 432
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df01fc212a9f5c9c0800000000000000
+      internalID: -3907442627178458883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 362
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3ff3e38297a590800000000000000
+      internalID: -7662995145784083689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 362
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e8c1f29d55d80c0800000000000000
+      internalID: -4571903655424520586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 362
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caacf19a6bab24700800000000000000
+      internalID: 523185800412646060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 292
+        width: 63
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a68ae75c3933030800000000000000
+      internalID: 3473282214075591274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 292
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de473125ac2b0fa0800000000000000
+      internalID: -5833519804589846827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_74
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 292
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28c733b5536a860800000000000000
+      internalID: 7540773291900568274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 281
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d1b56419410da20800000000000000
+      internalID: 3084988358931979585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70641666951fc170800000000000000
+      internalID: 8200797182166851710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 211
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f85c20ead19d31b0800000000000000
+      internalID: -5675219586167056135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_78
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 212
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c3d3e15ced6e50800000000000000
+      internalID: 6804354448485499877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_79
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 142
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c0c35c4bc8f9b0800000000000000
+      internalID: -5046059853785544970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 142
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bb90afc9a799250800000000000000
+      internalID: 5951923197175249776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_81
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 141
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b614b206b53750800000000000000
+      internalID: 6284128977792972980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 71
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c354d83ab8c141560800000000000000
+      internalID: 7283477883434911036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_83
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 71
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4fabea36f9cacb0800000000000000
+      internalID: -4851327448102800142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb9868712227ff0800000000000000
+      internalID: -39931962256146745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_85
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee764cc1fb34f50800000000000000
+      internalID: 6864540387317902924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_86
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209baff305361d190800000000000000
+      internalID: -7939455471755544318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_AxeArmor_87
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 12
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd7c3888e0b9e00800000000000000
+      internalID: 1052450917410397100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 7f61667fa155a7e40b29a9fbc1086bba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -258839831269635237
+    second: Creature_FireDemon_0
+  - first:
+      213: 5971672690177468831
+    second: Creature_FireDemon_1
+  - first:
+      213: 7052761777385851578
+    second: Creature_FireDemon_2
+  - first:
+      213: 4457612345202192586
+    second: Creature_FireDemon_3
+  - first:
+      213: -4834730416065634183
+    second: Creature_FireDemon_4
+  - first:
+      213: 6559258216481856792
+    second: Creature_FireDemon_5
+  - first:
+      213: 9125582008048851824
+    second: Creature_FireDemon_6
+  - first:
+      213: -6020301977415168666
+    second: Creature_FireDemon_7
+  - first:
+      213: -4808132194959285853
+    second: Creature_FireDemon_8
+  - first:
+      213: 7917164079444217573
+    second: Creature_FireDemon_9
+  - first:
+      213: 4720635309463032878
+    second: Creature_FireDemon_10
+  - first:
+      213: 7056250978152816241
+    second: Creature_FireDemon_11
+  - first:
+      213: 1280873909974538845
+    second: Creature_FireDemon_12
+  - first:
+      213: 2316692478737505152
+    second: Creature_FireDemon_13
+  - first:
+      213: 6991451788745975585
+    second: Creature_FireDemon_14
+  - first:
+      213: -1946676183824150723
+    second: Creature_FireDemon_15
+  - first:
+      213: 2485524368331339458
+    second: Creature_FireDemon_16
+  - first:
+      213: 7204957097662487978
+    second: Creature_FireDemon_17
+  - first:
+      213: -6129960552730842254
+    second: Creature_FireDemon_18
+  - first:
+      213: 5624014192538907051
+    second: Creature_FireDemon_19
+  - first:
+      213: -5008107736218181258
+    second: Creature_FireDemon_20
+  - first:
+      213: -5806048170659687111
+    second: Creature_FireDemon_21
+  - first:
+      213: -1699401187853077407
+    second: Creature_FireDemon_22
+  - first:
+      213: -1922045545274106888
+    second: Creature_FireDemon_23
+  - first:
+      213: 1380272524089192586
+    second: Creature_FireDemon_24
+  - first:
+      213: 4112045101132356273
+    second: Creature_FireDemon_25
+  - first:
+      213: 3451668348091005278
+    second: Creature_FireDemon_26
+  - first:
+      213: 2162121927443829186
+    second: Creature_FireDemon_27
+  - first:
+      213: 4280151733633244001
+    second: Creature_FireDemon_28
+  - first:
+      213: -1703057980931450180
+    second: Creature_FireDemon_29
+  - first:
+      213: 6541139445847055965
+    second: Creature_FireDemon_30
+  - first:
+      213: 1922194160970448078
+    second: Creature_FireDemon_31
+  - first:
+      213: 3367683210304564271
+    second: Creature_FireDemon_32
+  - first:
+      213: 8995814027536647116
+    second: Creature_FireDemon_33
+  - first:
+      213: 7140545611302916301
+    second: Creature_FireDemon_34
+  - first:
+      213: -1943743248609029428
+    second: Creature_FireDemon_35
+  - first:
+      213: -6387525768112346854
+    second: Creature_FireDemon_36
+  - first:
+      213: -8992280383707443155
+    second: Creature_FireDemon_37
+  - first:
+      213: -7298909186195521516
+    second: Creature_FireDemon_38
+  - first:
+      213: 5517503266182559775
+    second: Creature_FireDemon_39
+  - first:
+      213: 4157225543892433051
+    second: Creature_FireDemon_40
+  - first:
+      213: 5701278520464314131
+    second: Creature_FireDemon_41
+  - first:
+      213: 5622076567767341797
+    second: Creature_FireDemon_42
+  - first:
+      213: -4256633816737986350
+    second: Creature_FireDemon_43
+  - first:
+      213: -6082776489624832596
+    second: Creature_FireDemon_44
+  - first:
+      213: -3755460474485833367
+    second: Creature_FireDemon_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_FireDemon_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1179
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b837b7b8a686cf0800000000000000
+      internalID: -258839831269635237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1206
+        width: 157
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99ede42ca4afd250800000000000000
+      internalID: 5971672690177468831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1175
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba498a287170e160800000000000000
+      internalID: 7052761777385851578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1037
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03c2e7fce9cdd30800000000000000
+      internalID: 4457612345202192586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1072
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970a1a55d4697ecb0800000000000000
+      internalID: -4834730416065634183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1072
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d967f689a270b50800000000000000
+      internalID: 6559258216481856792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 944
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9276ac7494ae70800000000000000
+      internalID: 9125582008048851824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 921
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d469b9f37937ca0800000000000000
+      internalID: -6020301977415168666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 971
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a125564e35164db0800000000000000
+      internalID: -4808132194959285853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 949
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee41c788ca6fdd60800000000000000
+      internalID: 7917164079444217573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 849
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d5be8dc0138140800000000000000
+      internalID: 4720635309463032878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 821
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1dc601e6dce160800000000000000
+      internalID: 7056250978152816241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 821
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1916e80496c110800000000000000
+      internalID: 1280873909974538845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 843
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd7f8f88b862020800000000000000
+      internalID: 2316692478737505152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 821
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127297c0c50a60160800000000000000
+      internalID: 6991451788745975585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_15
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 848
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc27223540cf4e0800000000000000
+      internalID: -1946676183824150723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 833
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c677fe7e3b5e7220800000000000000
+      internalID: 2485524368331339458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 665
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1a1c8e462df360800000000000000
+      internalID: 7204957097662487978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 665
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b225fea510eeaa0800000000000000
+      internalID: -6129960552730842254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 667
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1790e5c138c0e40800000000000000
+      internalID: 5624014192538907051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 539
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67164d94c80af7ab0800000000000000
+      internalID: -5008107736218181258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 561
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d50753f5cc6fa0800000000000000
+      internalID: -5806048170659687111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 561
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f32b9f938a68e0800000000000000
+      internalID: -1699401187853077407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 578
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb90df82c58355e0800000000000000
+      internalID: -1922045545274106888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 578
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8071933c86b72310800000000000000
+      internalID: 1380272524089192586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1161ab3be01930800000000000000
+      internalID: 4112045101132356273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 449
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e597c6a231ac6ef20800000000000000
+      internalID: 3451668348091005278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 445
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15f560076610e10800000000000000
+      internalID: 2162121927443829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 445
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5bf31357266b30800000000000000
+      internalID: 4280151733633244001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_29
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 466
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbadfae1ac58d58e0800000000000000
+      internalID: -1703057980931450180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 432
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e52086babc6ca50800000000000000
+      internalID: 6541139445847055965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 441
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc39f9b7610daa10800000000000000
+      internalID: 1922194160970448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 303
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c204a790a6cbe20800000000000000
+      internalID: 3367683210304564271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 332
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc34cc8323d87dc70800000000000000
+      internalID: 8995814027536647116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 303
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05f28b660581360800000000000000
+      internalID: 7140545611302916301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 338
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2581450df6605e0800000000000000
+      internalID: -1943743248609029428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 287
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19620e0823fa57a0800000000000000
+      internalID: -6387525768112346854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 320
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20976852a0053380800000000000000
+      internalID: -8992280383707443155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 327
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100bf434c015ba90800000000000000
+      internalID: -7298909186195521516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 155
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187ed3dcfb129c40800000000000000
+      internalID: 5517503266182559775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 147
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9873e23b9e61b930800000000000000
+      internalID: 4157225543892433051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 155
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f07d19b920f1f40800000000000000
+      internalID: 5701278520464314131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ead1d1f9d0a50e40800000000000000
+      internalID: 5622076567767341797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_43
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 53
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ca66a8166de4c0800000000000000
+      internalID: -4256633816737986350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_44
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 64
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca570d7b203a59ba0800000000000000
+      internalID: -6082776489624832596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_FireDemon_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 53
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618042889ce1ebc0800000000000000
+      internalID: -3755460474485833367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

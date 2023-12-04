@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: b5bae10fc1551474bb3a9735d752f1de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 880643854659585011
+    second: FireSpells_0
+  - first:
+      213: -7025694017564190324
+    second: FireSpells_1
+  - first:
+      213: -1263744872695821979
+    second: FireSpells_2
+  - first:
+      213: -4470849498061168587
+    second: FireSpells_3
+  - first:
+      213: -196857960666876253
+    second: FireSpells_4
+  - first:
+      213: -3868308836117304023
+    second: FireSpells_5
+  - first:
+      213: -2176407891614067521
+    second: FireSpells_6
+  - first:
+      213: -5550294554339650986
+    second: FireSpells_7
+  - first:
+      213: -75914973604100882
+    second: FireSpells_8
+  - first:
+      213: 6671892897304788368
+    second: FireSpells_9
+  - first:
+      213: -3768870100373831050
+    second: FireSpells_10
+  - first:
+      213: 1514749691088640502
+    second: FireSpells_11
+  - first:
+      213: -3187253443095114926
+    second: FireSpells_12
+  - first:
+      213: 4584187070650486791
+    second: FireSpells_13
+  - first:
+      213: -4437584662720848283
+    second: FireSpells_14
+  - first:
+      213: -5814665329817521551
+    second: FireSpells_15
+  - first:
+      213: -4475463803016477875
+    second: FireSpells_16
+  - first:
+      213: 21647483163677884
+    second: FireSpells_17
+  - first:
+      213: 1399447671289164600
+    second: FireSpells_18
+  - first:
+      213: 7452373472183955483
+    second: FireSpells_19
+  - first:
+      213: -2163452026918131118
+    second: FireSpells_20
+  - first:
+      213: 290619094357505040
+    second: FireSpells_21
+  - first:
+      213: -2153216726977878273
+    second: FireSpells_22
+  - first:
+      213: 4140786519999358503
+    second: FireSpells_23
+  - first:
+      213: -8919491350056065846
+    second: FireSpells_24
+  - first:
+      213: -5162933019570821970
+    second: FireSpells_25
+  - first:
+      213: -8716210958018772063
+    second: FireSpells_26
+  - first:
+      213: 8768398415809031310
+    second: FireSpells_27
+  - first:
+      213: -3283435064631173183
+    second: FireSpells_28
+  - first:
+      213: -6492492792257396141
+    second: FireSpells_29
+  - first:
+      213: 316489979647579913
+    second: FireSpells_30
+  - first:
+      213: 6160101630896270300
+    second: FireSpells_31
+  - first:
+      213: 3343693829468621285
+    second: FireSpells_32
+  - first:
+      213: -121077421600183854
+    second: FireSpells_33
+  - first:
+      213: -7639297356642314527
+    second: FireSpells_34
+  - first:
+      213: 6789666029908779051
+    second: FireSpells_35
+  - first:
+      213: -7556508127049273242
+    second: FireSpells_36
+  - first:
+      213: 2046646434423067369
+    second: FireSpells_37
+  - first:
+      213: 1418488400086943764
+    second: FireSpells_38
+  - first:
+      213: 3565104094296094213
+    second: FireSpells_39
+  - first:
+      213: 9174027552271742941
+    second: FireSpells_40
+  - first:
+      213: 2798810269873620167
+    second: FireSpells_41
+  - first:
+      213: -8643557589578576873
+    second: FireSpells_42
+  - first:
+      213: -9168623796223678368
+    second: FireSpells_43
+  - first:
+      213: -2452934834485443190
+    second: FireSpells_44
+  - first:
+      213: 4872572075602930297
+    second: FireSpells_45
+  - first:
+      213: 5677833418506130590
+    second: FireSpells_46
+  - first:
+      213: -6498091746647230303
+    second: FireSpells_47
+  - first:
+      213: -8350521788847701823
+    second: FireSpells_48
+  - first:
+      213: 3468351283015233091
+    second: FireSpells_49
+  - first:
+      213: 1730152811543558561
+    second: FireSpells_50
+  - first:
+      213: -3191021902618189361
+    second: FireSpells_51
+  - first:
+      213: -462236072038953019
+    second: FireSpells_52
+  - first:
+      213: -4311069175639362481
+    second: FireSpells_53
+  - first:
+      213: 241194115082934514
+    second: FireSpells_54
+  - first:
+      213: 6990494664115223589
+    second: FireSpells_55
+  - first:
+      213: 8564536198810585972
+    second: FireSpells_56
+  - first:
+      213: 8659570673570581544
+    second: FireSpells_57
+  - first:
+      213: -7363908686312927434
+    second: FireSpells_58
+  - first:
+      213: -3276429287165366051
+    second: FireSpells_59
+  - first:
+      213: 5529209625087825599
+    second: FireSpells_60
+  - first:
+      213: -3402892237759254004
+    second: FireSpells_61
+  - first:
+      213: -761882057873920454
+    second: FireSpells_62
+  - first:
+      213: 7083278510730293
+    second: FireSpells_63
+  - first:
+      213: 6260162126620287385
+    second: FireSpells_64
+  - first:
+      213: 1287902640312064002
+    second: FireSpells_65
+  - first:
+      213: -2057201330211512024
+    second: FireSpells_66
+  - first:
+      213: 2080312288719723611
+    second: FireSpells_67
+  - first:
+      213: -808048354510936285
+    second: FireSpells_68
+  - first:
+      213: -5992901298695425146
+    second: FireSpells_69
+  - first:
+      213: 6626951466277792052
+    second: FireSpells_70
+  - first:
+      213: -126666834042796810
+    second: FireSpells_71
+  - first:
+      213: 458726942849606417
+    second: FireSpells_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSpells_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 655
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f38d928beca83c00800000000000000
+      internalID: 880643854659585011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 651
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89df76c388bf7e90800000000000000
+      internalID: -7025694017564190324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 640
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698e30ebb6467ee0800000000000000
+      internalID: -1263744872695821979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 642
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a4dfa11a54f1c0800000000000000
+      internalID: -4470849498061168587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 655
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63e3f4abe944df0800000000000000
+      internalID: -196857960666876253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 656
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d29b5db91015ac0800000000000000
+      internalID: -3868308836117304023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 655
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49cfdbd88dbc1e0800000000000000
+      internalID: -2176407891614067521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 578
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652dcc1728469f2b0800000000000000
+      internalID: -5550294554339650986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 578
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4c135dbbb42fef0800000000000000
+      internalID: -75914973604100882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 578
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbd4bad33579c50800000000000000
+      internalID: 6671892897304788368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 612
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67280aeac9842bbc0800000000000000
+      internalID: -3768870100373831050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 578
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f998fc81d8750510800000000000000
+      internalID: 1514749691088640502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bcc2b51e994c3d0800000000000000
+      internalID: -3187253443095114926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 606
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7009f0a4add4e9f30800000000000000
+      internalID: 4584187070650486791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 577
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5dc5b2488a62c0800000000000000
+      internalID: -4437584662720848283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 612
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1727270a0b82e4fa0800000000000000
+      internalID: -5814665329817521551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4385181265f3e1c0800000000000000
+      internalID: -4475463803016477875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 594
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb490407548ec4000800000000000000
+      internalID: 21647483163677884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 583
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83330f01e36db6310800000000000000
+      internalID: 1399447671289164600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 605
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10b11740362c6760800000000000000
+      internalID: 7452373472183955483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 583
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a22fe08dfd9f1e0800000000000000
+      internalID: -2163452026918131118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 594
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ff1cc68c780400800000000000000
+      internalID: 290619094357505040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 601
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ed088bcc3e12e0800000000000000
+      internalID: -2153216726977878273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 587
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726a94fa667077930800000000000000
+      internalID: 4140786519999358503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 538
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42db6efd9973480800000000000000
+      internalID: -8919491350056065846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 510
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a859e5c39958b0800000000000000
+      internalID: -5162933019570821970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 510
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a38ceb605cc90780800000000000000
+      internalID: -8716210958018772063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 532
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c2567f6eb9fa970800000000000000
+      internalID: 8768398415809031310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 510
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd8918435ee62d0800000000000000
+      internalID: -3283435064631173183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 537
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c6b2443806e5a0800000000000000
+      internalID: -6492492792257396141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075ddba5f5646400800000000000000
+      internalID: 316489979647579913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 503
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb60e1bbc31d7550800000000000000
+      internalID: 6160101630896270300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 445
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9842f72df276e20800000000000000
+      internalID: 3343693829468621285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 503
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9633ff9b8d15ef0800000000000000
+      internalID: -121077421600183854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 522
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e611c36783cbf590800000000000000
+      internalID: -7639297356642314527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 503
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ef30f74db93e50800000000000000
+      internalID: 6789666029908779051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 503
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66030e005e3e12790800000000000000
+      internalID: -7556508127049273242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 503
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25b98a616276c10800000000000000
+      internalID: 2046646434423067369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 430
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c1353fab7fa310800000000000000
+      internalID: 1418488400086943764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 430
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063fc7f84bc97130800000000000000
+      internalID: 3565104094296094213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 430
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bdc4e371b05f70800000000000000
+      internalID: 9174027552271742941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_41
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 430
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c448899c1f57d620800000000000000
+      internalID: 2798810269873620167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 471
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c8985fa2aeb0880800000000000000
+      internalID: -8643557589578576873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 445
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e4ea1c3182c080800000000000000
+      internalID: -9168623796223678368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854055a3cc65fdd0800000000000000
+      internalID: -2452934834485443190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 445
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aeccc9c7ade9340800000000000000
+      internalID: 4872572075602930297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 467
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9456e36967bbce40800000000000000
+      internalID: 5677833418506130590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b13b1cf322d5a0800000000000000
+      internalID: -6498091746647230303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_48
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 478
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0c29e0dacfc1c80800000000000000
+      internalID: -8350521788847701823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 431
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea464ad1f022030800000000000000
+      internalID: 3468351283015233091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 430
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9723bb0dcb20810800000000000000
+      internalID: 1730152811543558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 277
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a3ff7c7637b3d0800000000000000
+      internalID: -3191021902618189361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 276
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0fb3ddbec599f0800000000000000
+      internalID: -462236072038953019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 286
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4431effc610c24c0800000000000000
+      internalID: -4311069175639362481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_54
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 295
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8de6f05c4e85300800000000000000
+      internalID: 241194115082934514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 217
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf9da1cd9330160800000000000000
+      internalID: 6990494664115223589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 217
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4414cb485bd670800000000000000
+      internalID: 8564536198810585972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 218
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8091b5a9fc2870800000000000000
+      internalID: 8659570673570581544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 218
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f87e1c0142ec990800000000000000
+      internalID: -7363908686312927434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 219
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd072de2ce8c782d0800000000000000
+      internalID: -3276429287165366051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 179
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d708ebd2bbbc40800000000000000
+      internalID: 5529209625087825599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02fc6ff98f76c0d0800000000000000
+      internalID: -3402892237759254004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 99
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6ea31e404d65f0800000000000000
+      internalID: -761882057873920454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 99
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2a7b443a291000800000000000000
+      internalID: 7083278510730293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 100
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916e81594090e650800000000000000
+      internalID: 6260162126620287385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 98
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089615b0ac8fd110800000000000000
+      internalID: 1287902640312064002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82128492a4a5373e0800000000000000
+      internalID: -2057201330211512024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 98
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd40f2101cedc10800000000000000
+      internalID: 2080312288719723611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 17
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32769048d4c39c4f0800000000000000
+      internalID: -808048354510936285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68338454500f4dca0800000000000000
+      internalID: -5992901298695425146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 7
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ed3b5f39a7fb50800000000000000
+      internalID: 6626951466277792052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44e008f2dfd3ef0800000000000000
+      internalID: -126666834042796810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireSpells_72
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 18
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a37d59b9bd5600800000000000000
+      internalID: 458726942849606417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4b9645711262124ca877debc88e0d19, type: 3}
+  m_Name: AttackState
+  m_EditorClassIdentifier: 
+  entryAction: {fileID: 0}
+  exitAction: {fileID: 0}
+  actions:
+  - {fileID: 11400000, guid: c89edfba86467f94bb74c842f97e501a, type: 2}
+  transitions:
+  - {fileID: 11400000, guid: 297460220ad82e94799018041f958481, type: 2}
+  - {fileID: 11400000, guid: 6ab2dd30ef94d8045beb7994b452fd51, type: 2}
+  concernedSteerings: []

@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: a697a44ec063f0b459ee74514fd50f34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1751638274741012947
+    second: Creature_Merman_0
+  - first:
+      213: 1509813484573713885
+    second: Creature_Merman_1
+  - first:
+      213: -4042784967510942457
+    second: Creature_Merman_2
+  - first:
+      213: -6660768902796231085
+    second: Creature_Merman_3
+  - first:
+      213: 5272123821411624766
+    second: Creature_Merman_4
+  - first:
+      213: -9014762748638572795
+    second: Creature_Merman_5
+  - first:
+      213: -6682527667604341445
+    second: Creature_Merman_6
+  - first:
+      213: -8526612457086851731
+    second: Creature_Merman_7
+  - first:
+      213: -5972538657543979638
+    second: Creature_Merman_8
+  - first:
+      213: -3820253522336726046
+    second: Creature_Merman_9
+  - first:
+      213: -9108803765676574209
+    second: Creature_Merman_10
+  - first:
+      213: -7636905791025775776
+    second: Creature_Merman_11
+  - first:
+      213: -4524948861272988528
+    second: Creature_Merman_12
+  - first:
+      213: 4417858524962048456
+    second: Creature_Merman_13
+  - first:
+      213: -7885445425172159657
+    second: Creature_Merman_14
+  - first:
+      213: 4557002933500292352
+    second: Creature_Merman_15
+  - first:
+      213: -5174766062851668685
+    second: Creature_Merman_16
+  - first:
+      213: 4550900338616114180
+    second: Creature_Merman_17
+  - first:
+      213: 5141325721630999991
+    second: Creature_Merman_18
+  - first:
+      213: -3811260561596463095
+    second: Creature_Merman_19
+  - first:
+      213: 4451284694661820607
+    second: Creature_Merman_20
+  - first:
+      213: -3094391161756554016
+    second: Creature_Merman_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_Merman_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1964
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26751b054ee0b7e0800000000000000
+      internalID: -1751638274741012947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1892
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd56c196d5fe3f410800000000000000
+      internalID: 1509813484573713885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1820
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d983cdd7425e7c0800000000000000
+      internalID: -4042784967510942457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1752
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ebcd129f13093a0800000000000000
+      internalID: -6660768902796231085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1679
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e376d13cea85a2940800000000000000
+      internalID: 5272123821411624766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1585
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f49f8da0125e280800000000000000
+      internalID: -9014762748638572795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1514
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d39baed74e243a0800000000000000
+      internalID: -6682527667604341445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1410
+        width: 29
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65eaed65236ba980800000000000000
+      internalID: -8526612457086851731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1244
+        width: 27
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7dcd1cb74d1da0800000000000000
+      internalID: -5972538657543979638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1172
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e34f2979abbbfac0800000000000000
+      internalID: -3820253522336726046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1100
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff97b125c37079180800000000000000
+      internalID: -9108803765676574209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1028
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf8c625a2440690800000000000000
+      internalID: -7636905791025775776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 956
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e3012cf62431c0800000000000000
+      internalID: -4524948861272988528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 884
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94b40fbe26f4d30800000000000000
+      internalID: 4417858524962048456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 812
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75362e82a25419290800000000000000
+      internalID: -7885445425172159657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da2b3260abd3f30800000000000000
+      internalID: 4557002933500292352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 657
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335caf3dea98f28b0800000000000000
+      internalID: -5174766062851668685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 604
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1b6b0fbb082f30800000000000000
+      internalID: 4550900338616114180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 547
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b505600188a95740800000000000000
+      internalID: 5141325721630999991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 473
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908469f46beab1bc0800000000000000
+      internalID: -3811260561596463095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0737b88d326cd30800000000000000
+      internalID: 4451284694661820607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Merman_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 42
+        width: 30
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec646712a38e05d0800000000000000
+      internalID: -3094391161756554016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: f50f72dabcf8ae946a2ccc62a9acdb71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1636576388614701291
+    second: Hazard_Spike_0
+  - first:
+      213: -9104095169833771332
+    second: Hazard_Spike_1
+  - first:
+      213: -1421800687552956928
+    second: Hazard_Spike_2
+  - first:
+      213: 4855081533244258791
+    second: Hazard_Spike_3
+  - first:
+      213: 1301324791274342270
+    second: Hazard_Spike_4
+  - first:
+      213: 5487118293090792808
+    second: Hazard_Spike_5
+  - first:
+      213: -8256803870851238758
+    second: Hazard_Spike_6
+  - first:
+      213: -7385219787387544528
+    second: Hazard_Spike_7
+  - first:
+      213: 233906849888228782
+    second: Hazard_Spike_8
+  - first:
+      213: 7664489397833600765
+    second: Hazard_Spike_9
+  - first:
+      213: 7026505615059362939
+    second: Hazard_Spike_10
+  - first:
+      213: -1205287994596234995
+    second: Hazard_Spike_11
+  - first:
+      213: 2412529912286021593
+    second: Hazard_Spike_12
+  - first:
+      213: -2482230259083307296
+    second: Hazard_Spike_13
+  - first:
+      213: 972932850973457540
+    second: Hazard_Spike_14
+  - first:
+      213: 526354626482204235
+    second: Hazard_Spike_15
+  - first:
+      213: 606530995983590666
+    second: Hazard_Spike_16
+  - first:
+      213: -1355129213038035801
+    second: Hazard_Spike_17
+  - first:
+      213: -6700547597182171443
+    second: Hazard_Spike_18
+  - first:
+      213: -6342316907969889791
+    second: Hazard_Spike_19
+  - first:
+      213: -7415351680433787809
+    second: Hazard_Spike_20
+  - first:
+      213: -1968602060430820723
+    second: Hazard_Spike_21
+  - first:
+      213: 4024146286218682785
+    second: Hazard_Spike_22
+  - first:
+      213: -5433782925613849348
+    second: Hazard_Spike_23
+  - first:
+      213: -8611317112799026905
+    second: Hazard_Spike_24
+  - first:
+      213: -4233980444971799088
+    second: Hazard_Spike_25
+  - first:
+      213: -7761164656490382708
+    second: Hazard_Spike_26
+  - first:
+      213: -5099400235588731419
+    second: Hazard_Spike_27
+  - first:
+      213: -3636027610259396653
+    second: Hazard_Spike_28
+  - first:
+      213: -8739380752387601107
+    second: Hazard_Spike_29
+  - first:
+      213: -6023951181573743167
+    second: Hazard_Spike_30
+  - first:
+      213: 2695443418507489709
+    second: Hazard_Spike_31
+  - first:
+      213: -8131561410681391023
+    second: Hazard_Spike_32
+  - first:
+      213: -2514693036131785262
+    second: Hazard_Spike_33
+  - first:
+      213: 6156329747250603633
+    second: Hazard_Spike_34
+  - first:
+      213: -6228681521524517955
+    second: Hazard_Spike_35
+  - first:
+      213: 4709712370630900956
+    second: Hazard_Spike_36
+  - first:
+      213: 5318237102425406304
+    second: Hazard_Spike_37
+  - first:
+      213: 7591649328765703196
+    second: Hazard_Spike_38
+  - first:
+      213: 372228748471119929
+    second: Hazard_Spike_39
+  - first:
+      213: 1377524241557891180
+    second: Hazard_Spike_40
+  - first:
+      213: 919298024367319476
+    second: Hazard_Spike_41
+  - first:
+      213: 5270790071488435976
+    second: Hazard_Spike_42
+  - first:
+      213: 2984255143219061979
+    second: Hazard_Spike_43
+  - first:
+      213: 6039610583980250195
+    second: Hazard_Spike_44
+  - first:
+      213: 404929495490095727
+    second: Hazard_Spike_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazard_Spike_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f34dc0276b949e0800000000000000
+      internalID: -1636576388614701291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 43
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe55b8bda1c7a180800000000000000
+      internalID: -9104095169833771332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fff4cecfb44ce0800000000000000
+      internalID: -1421800687552956928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e935906ee6b06340800000000000000
+      internalID: 4855081533244258791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770151c00c3f0210800000000000000
+      internalID: 1301324791274342270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865793cf309262c40800000000000000
+      internalID: 5487118293090792808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 43
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9477d930a0f96d80800000000000000
+      internalID: -8256803870851238758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 43
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c54906bbd628990800000000000000
+      internalID: -7385219787387544528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55e1a6a010f3300800000000000000
+      internalID: 233906849888228782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 43
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8e96cf7cbd5a60800000000000000
+      internalID: 7664489397833600765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 48
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a6edf0a9238160800000000000000
+      internalID: 7026505615059362939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096c0e64f4f54fe0800000000000000
+      internalID: -1205287994596234995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 43
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d700df4c270b7120800000000000000
+      internalID: 2412529912286021593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 43
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61d941bb85d8dd0800000000000000
+      internalID: -2482230259083307296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb49ce54d808d00800000000000000
+      internalID: 972932850973457540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eea597ebcfd4700800000000000000
+      internalID: 526354626482204235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05add03ab4da6800800000000000000
+      internalID: 606530995983590666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 23
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acfc18192d913de0800000000000000
+      internalID: -1355129213038035801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 23
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc60c5d167fd203a0800000000000000
+      internalID: -6700547597182171443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a308f00609bf7a0800000000000000
+      internalID: -6342316907969889791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ce5235fe0671990800000000000000
+      internalID: -7415351680433787809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a3beb2bde1ea4e0800000000000000
+      internalID: -1968602060430820723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a54af9b3a8d730800000000000000
+      internalID: 4024146286218682785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42434f7335794b0800000000000000
+      internalID: -5433782925613849348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212f5be5b47e7880800000000000000
+      internalID: -8611317112799026905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd6187c731ed35c0800000000000000
+      internalID: -4233980444971799088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 23
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8af2968dddca4490800000000000000
+      internalID: -7761164656490382708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 24
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb036e08a4b39b0800000000000000
+      internalID: -5099400235588731419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 23
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e9f8272c3a8dc0800000000000000
+      internalID: -3636027610259396653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d0d09428b77b680800000000000000
+      internalID: -8739380752387601107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 6
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd900e0150a66ca0800000000000000
+      internalID: -6023951181573743167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bd401283286520800000000000000
+      internalID: 2695443418507489709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bf07daf3e62f80800000000000000
+      internalID: -8131561410681391023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5673ec1040a1dd0800000000000000
+      internalID: -2514693036131785262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176ea09994daf6550800000000000000
+      internalID: 6156329747250603633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3dd7a38274f89a0800000000000000
+      internalID: -6228681521524517955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb7bda2724c5140800000000000000
+      internalID: 4709712370630900956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b7e59a77c2ec940800000000000000
+      internalID: 5318237102425406304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 6
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14996c97d4fa5960800000000000000
+      internalID: 7591649328765703196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9303fc7131c6a2500800000000000000
+      internalID: 372228748471119929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c682c8fcff2fd1310800000000000000
+      internalID: 1377524241557891180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e129bea002cc00800000000000000
+      internalID: 919298024367319476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_42
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80759b8e4ab952940800000000000000
+      internalID: 5270790071488435976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd464b2dd343a6920800000000000000
+      internalID: 2984255143219061979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35415dfa3d101d350800000000000000
+      internalID: 6039610583980250195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_Spike_45
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae3c11b399e9500800000000000000
+      internalID: 404929495490095727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

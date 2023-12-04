@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: e810d87b908c08a42b94cfa3adf0a6f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1115376341536175528
+    second: Creature_InvisibleMan_0
+  - first:
+      213: 3288222598994374037
+    second: Creature_InvisibleMan_1
+  - first:
+      213: -3711846833249977345
+    second: Creature_InvisibleMan_2
+  - first:
+      213: 1498630928789532654
+    second: Creature_InvisibleMan_3
+  - first:
+      213: 7621671968908294117
+    second: Creature_InvisibleMan_4
+  - first:
+      213: -5838205259134408336
+    second: Creature_InvisibleMan_5
+  - first:
+      213: 8452128232630603243
+    second: Creature_InvisibleMan_6
+  - first:
+      213: 5146296582140687981
+    second: Creature_InvisibleMan_7
+  - first:
+      213: -7027263391680048893
+    second: Creature_InvisibleMan_8
+  - first:
+      213: 8765035420423040302
+    second: Creature_InvisibleMan_9
+  - first:
+      213: -7018015557864276586
+    second: Creature_InvisibleMan_10
+  - first:
+      213: -7086594324687033984
+    second: Creature_InvisibleMan_11
+  - first:
+      213: -968132341455446509
+    second: Creature_InvisibleMan_12
+  - first:
+      213: 5361315783917201367
+    second: Creature_InvisibleMan_13
+  - first:
+      213: -4123164311958458087
+    second: Creature_InvisibleMan_14
+  - first:
+      213: -442510379778889917
+    second: Creature_InvisibleMan_15
+  - first:
+      213: 8067536364730403079
+    second: Creature_InvisibleMan_16
+  - first:
+      213: 5431482404903867450
+    second: Creature_InvisibleMan_17
+  - first:
+      213: -2279553532323421985
+    second: Creature_InvisibleMan_18
+  - first:
+      213: -7079312820031443563
+    second: Creature_InvisibleMan_19
+  - first:
+      213: -1674000195304199207
+    second: Creature_InvisibleMan_20
+  - first:
+      213: 4787857174033679975
+    second: Creature_InvisibleMan_21
+  - first:
+      213: 3316848818680690962
+    second: Creature_InvisibleMan_22
+  - first:
+      213: -7412269252815981063
+    second: Creature_InvisibleMan_23
+  - first:
+      213: -4933081686267153311
+    second: Creature_InvisibleMan_24
+  - first:
+      213: -8452703348016259525
+    second: Creature_InvisibleMan_25
+  - first:
+      213: -4704680563065027361
+    second: Creature_InvisibleMan_26
+  - first:
+      213: -4393060474456454356
+    second: Creature_InvisibleMan_27
+  - first:
+      213: -4966410373038066364
+    second: Creature_InvisibleMan_28
+  - first:
+      213: -8319193997032662527
+    second: Creature_InvisibleMan_29
+  - first:
+      213: -6677855350422446177
+    second: Creature_InvisibleMan_30
+  - first:
+      213: 7639392430544998935
+    second: Creature_InvisibleMan_31
+  - first:
+      213: 5977116430908668787
+    second: Creature_InvisibleMan_32
+  - first:
+      213: 6006555859440319923
+    second: Creature_InvisibleMan_33
+  - first:
+      213: 1426218621190980799
+    second: Creature_InvisibleMan_34
+  - first:
+      213: -700514573818480901
+    second: Creature_InvisibleMan_35
+  - first:
+      213: -8855701348322516278
+    second: Creature_InvisibleMan_36
+  - first:
+      213: -8806507790896416290
+    second: Creature_InvisibleMan_37
+  - first:
+      213: 6141187899299668019
+    second: Creature_InvisibleMan_38
+  - first:
+      213: 5377104965239263199
+    second: Creature_InvisibleMan_39
+  - first:
+      213: -6762237350735133950
+    second: Creature_InvisibleMan_40
+  - first:
+      213: -258721615273144909
+    second: Creature_InvisibleMan_41
+  - first:
+      213: -5890315975410598241
+    second: Creature_InvisibleMan_42
+  - first:
+      213: -8599266587947728338
+    second: Creature_InvisibleMan_43
+  - first:
+      213: 22378907091087551
+    second: Creature_InvisibleMan_44
+  - first:
+      213: -5372631073885478328
+    second: Creature_InvisibleMan_45
+  - first:
+      213: 1125516439666641192
+    second: Creature_InvisibleMan_46
+  - first:
+      213: 6493901227491227106
+    second: Creature_InvisibleMan_47
+  - first:
+      213: -4220048035944754662
+    second: Creature_InvisibleMan_48
+  - first:
+      213: -6921374042977599793
+    second: Creature_InvisibleMan_49
+  - first:
+      213: 7636922510068468193
+    second: Creature_InvisibleMan_50
+  - first:
+      213: -1920833232432579788
+    second: Creature_InvisibleMan_51
+  - first:
+      213: -6217948081611677658
+    second: Creature_InvisibleMan_52
+  - first:
+      213: 8696086712649154141
+    second: Creature_InvisibleMan_53
+  - first:
+      213: -7971790283531292337
+    second: Creature_InvisibleMan_54
+  - first:
+      213: 209294078612628069
+    second: Creature_InvisibleMan_55
+  - first:
+      213: 8267163127553493461
+    second: Creature_InvisibleMan_56
+  - first:
+      213: -4154902975355918081
+    second: Creature_InvisibleMan_57
+  - first:
+      213: -6845215268517535359
+    second: Creature_InvisibleMan_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1296
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a573248fdc9a7f00800000000000000
+      internalID: 1115376341536175528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1296
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da873380d12ad20800000000000000
+      internalID: 3288222598994374037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1348
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf97ba8fedc7cc0800000000000000
+      internalID: -3711846833249977345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe9efb3e43cc410800000000000000
+      internalID: 1498630928789532654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1280
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b45d364e95c960800000000000000
+      internalID: 7621671968908294117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1228
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e97bbf378afea0800000000000000
+      internalID: -5838205259134408336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1228
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4ff5a8ddfb4570800000000000000
+      internalID: 8452128232630603243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1228
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d667d47a9715b6740800000000000000
+      internalID: 5146296582140687981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1160
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ddc36d252a7e90800000000000000
+      internalID: -7027263391680048893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1164
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d28069649a3a970800000000000000
+      internalID: 8765035420423040302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db55d78000b9e90800000000000000
+      internalID: -7018015557864276586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1092
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eab1120c57ad90800000000000000
+      internalID: -7086594324687033984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1092
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e1bfbc3c08092f0800000000000000
+      internalID: -968132341455446509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1092
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7641dcc48376a40800000000000000
+      internalID: 5361315783917201367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1024
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f52b57e397c6c0800000000000000
+      internalID: -4123164311958458087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472bd37723ebd9f0800000000000000
+      internalID: -442510379778889917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7094d408495a5ff60800000000000000
+      internalID: 8067536364730403079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 956
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3454145870806b40800000000000000
+      internalID: 5431482404903867450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 956
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02063d3266d50e0800000000000000
+      internalID: -2279553532323421985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 957
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d282c7f7a31cd90800000000000000
+      internalID: -7079312820031443563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 896
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db65fc01b1c4c8e0800000000000000
+      internalID: -1674000195304199207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 896
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766459d8bb2e17240800000000000000
+      internalID: 4787857174033679975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 898
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f22b5d60d70e20800000000000000
+      internalID: 3316848818680690962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 817
+        width: 152
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57a5ee264522990800000000000000
+      internalID: -7412269252815981063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164bf0ac75c2a8bb0800000000000000
+      internalID: -4933081686267153311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5cbdd617f1ba80800000000000000
+      internalID: -8452703348016259525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd403d054fd95beb0800000000000000
+      internalID: -4704680563065027361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 684
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bc63f16c6b803c0800000000000000
+      internalID: -4393060474456454356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 684
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44530423414c31bb0800000000000000
+      internalID: -4966410373038066364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 684
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5e4df2294c8c80800000000000000
+      internalID: -8319193997032662527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 614
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd0a880fd7353a0800000000000000
+      internalID: -6677855350422446177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 616
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712517ab0f2940a60800000000000000
+      internalID: 7639392430544998935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 616
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b367dc9bbf2f250800000000000000
+      internalID: 5977116430908668787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 548
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3b75eab29b5350800000000000000
+      internalID: 6006555859440319923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 553
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c2209742fac310800000000000000
+      internalID: 1426218621190980799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 548
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6b093e4b54746f0800000000000000
+      internalID: -700514573818480901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 480
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e9401b8a3a1580800000000000000
+      internalID: -8855701348322516278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 480
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b8e3b2dff8c580800000000000000
+      internalID: -8806507790896416290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 480
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302fa46bd1e93550800000000000000
+      internalID: 6141187899299668019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 412
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf431d0a705f9a40800000000000000
+      internalID: 5377104965239263199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_40
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 412
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203cd8615f4b722a0800000000000000
+      internalID: -6762237350735133950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 412
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdcde9cf06d86cf0800000000000000
+      internalID: -258721615273144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 344
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb7de14d4614ea0800000000000000
+      internalID: -5890315975410598241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 344
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228d70699449a880800000000000000
+      internalID: -8599266587947728338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 344
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb030a75f718f4000800000000000000
+      internalID: 22378907091087551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a4d3f0849075b0800000000000000
+      internalID: -5372631073885478328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 276
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82941371d33ae9f00800000000000000
+      internalID: 1125516439666641192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 276
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5761f92c8fe1a50800000000000000
+      internalID: 6493901227491227106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 208
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129d6a8ba06f65c0800000000000000
+      internalID: -4220048035944754662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 217
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcef5ba9af652ff90800000000000000
+      internalID: -6921374042977599793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 212
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9c0dd8f8ccbf960800000000000000
+      internalID: 7636922510068468193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 151
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b37142a54d755e0800000000000000
+      internalID: -1920833232432579788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 153
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e6b3f92965b9a0800000000000000
+      internalID: -6217948081611677658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e72739ac4bea870800000000000000
+      internalID: 8696086712649154141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 73
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41f43639f28e5190800000000000000
+      internalID: -7971790283531292337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5626c490bdf87e200800000000000000
+      internalID: 209294078612628069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_56
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 72
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9880e201ddab270800000000000000
+      internalID: 8267163127553493461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff862bde1c1d656c0800000000000000
+      internalID: -4154902975355918081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_InvisibleMan_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181aee41bf8e001a0800000000000000
+      internalID: -6845215268517535359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

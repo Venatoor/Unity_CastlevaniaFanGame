@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: d9934077d199fda46b1f706cbaf746f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -78459994606672964
+    second: Morbius_0
+  - first:
+      213: 6066990266536105768
+    second: Morbius_1
+  - first:
+      213: -2276993121131180630
+    second: Morbius_2
+  - first:
+      213: -8738323314333510013
+    second: Morbius_3
+  - first:
+      213: 1147590461517888965
+    second: Morbius_4
+  - first:
+      213: -4062166701078954032
+    second: Morbius_5
+  - first:
+      213: 901170217933756307
+    second: Morbius_6
+  - first:
+      213: 6874156401601269210
+    second: Morbius_7
+  - first:
+      213: 4133505573817417566
+    second: Morbius_8
+  - first:
+      213: -5499115108057195038
+    second: Morbius_9
+  - first:
+      213: 5688698770919213642
+    second: Morbius_10
+  - first:
+      213: -5620763758689985384
+    second: Morbius_11
+  - first:
+      213: 224933209294272607
+    second: Morbius_12
+  - first:
+      213: 818844802674609383
+    second: Morbius_13
+  - first:
+      213: 1881075547356650570
+    second: Morbius_14
+  - first:
+      213: -7871729585995200752
+    second: Morbius_15
+  - first:
+      213: 8660627894449796392
+    second: Morbius_16
+  - first:
+      213: 8440989863658988609
+    second: Morbius_17
+  - first:
+      213: -1142659240602965260
+    second: Morbius_18
+  - first:
+      213: 1972747787850333478
+    second: Morbius_19
+  - first:
+      213: -2423757290417202014
+    second: Morbius_20
+  - first:
+      213: 5269174943244116444
+    second: Morbius_21
+  - first:
+      213: 6191464788135612723
+    second: Morbius_22
+  - first:
+      213: 5308529963800264580
+    second: Morbius_23
+  - first:
+      213: -8086208280565164683
+    second: Morbius_24
+  - first:
+      213: 4243302993146127209
+    second: Morbius_25
+  - first:
+      213: -1459064303802980337
+    second: Morbius_26
+  - first:
+      213: -1720608850463944014
+    second: Morbius_27
+  - first:
+      213: 7320852832560374627
+    second: Morbius_28
+  - first:
+      213: -39798975423444750
+    second: Morbius_29
+  - first:
+      213: -4713142904985533048
+    second: Morbius_30
+  - first:
+      213: 8977766398326143193
+    second: Morbius_31
+  - first:
+      213: -6916763876456333230
+    second: Morbius_32
+  - first:
+      213: -8918637485447986573
+    second: Morbius_33
+  - first:
+      213: -2244997699699106773
+    second: Morbius_34
+  - first:
+      213: 6147054679106232288
+    second: Morbius_35
+  - first:
+      213: 2583966818556039790
+    second: Morbius_36
+  - first:
+      213: 4645433539050298346
+    second: Morbius_37
+  - first:
+      213: -2946466743565825284
+    second: Morbius_38
+  - first:
+      213: -7838358984803370333
+    second: Morbius_39
+  - first:
+      213: 4938470078101387106
+    second: Morbius_40
+  - first:
+      213: -5040800779366704598
+    second: Morbius_41
+  - first:
+      213: -2060644889019747744
+    second: Morbius_42
+  - first:
+      213: -6564982576803056219
+    second: Morbius_43
+  - first:
+      213: -4790874941686554343
+    second: Morbius_44
+  - first:
+      213: -333748157350108677
+    second: Morbius_45
+  - first:
+      213: -3842254007985123988
+    second: Morbius_46
+  - first:
+      213: 4868422223618883577
+    second: Morbius_47
+  - first:
+      213: -1803258750035462515
+    second: Morbius_48
+  - first:
+      213: -1939177492189169299
+    second: Morbius_49
+  - first:
+      213: -8555168377788711299
+    second: Morbius_50
+  - first:
+      213: -6182418646175286699
+    second: Morbius_51
+  - first:
+      213: -7680701432874066402
+    second: Morbius_52
+  - first:
+      213: -3614564324601676656
+    second: Morbius_53
+  - first:
+      213: -3984978939709087088
+    second: Morbius_54
+  - first:
+      213: -1697015632670225439
+    second: Morbius_55
+  - first:
+      213: 1395012942577476896
+    second: Morbius_56
+  - first:
+      213: -2235628318740092060
+    second: Morbius_57
+  - first:
+      213: 692723852826721508
+    second: Morbius_58
+  - first:
+      213: -1679028741790297321
+    second: Morbius_59
+  - first:
+      213: -3808205891012838835
+    second: Morbius_60
+  - first:
+      213: 9132922402877571223
+    second: Morbius_61
+  - first:
+      213: 5444525387467671635
+    second: Morbius_62
+  - first:
+      213: 4417910481351223344
+    second: Morbius_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Morbius_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e364fc0149eef0800000000000000
+      internalID: -78459994606672964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82713acc087423450800000000000000
+      internalID: 6066990266536105768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 45
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadc7f202de7660e0800000000000000
+      internalID: -2276993121131180630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 49
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38613a44e3d3bb680800000000000000
+      internalID: -8738323314333510013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 48
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd766ec17f0def00800000000000000
+      internalID: 1147590461517888965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb4cb58e840a7c0800000000000000
+      internalID: -4062166701078954032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 37
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975a12e989918c00800000000000000
+      internalID: 901170217933756307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addcbef83d8e56f50800000000000000
+      internalID: 6874156401601269210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ffb7c4b692d5930800000000000000
+      internalID: 4133505573817417566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 10
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed544dd1f73fa3b0800000000000000
+      internalID: -5499115108057195038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 11
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a47d2646152fe40800000000000000
+      internalID: 5688698770919213642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 10
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd4ec34290ff1b0800000000000000
+      internalID: -5620763758689985384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 8
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587c26ef8f1f1300800000000000000
+      internalID: 224933209294272607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 8
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4895720f1d5b00800000000000000
+      internalID: 818844802674609383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cddd37e3cea1a10800000000000000
+      internalID: 1881075547356650570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c2d2d5aff1c290800000000000000
+      internalID: -7871729585995200752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_16
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 10
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f48c1f2bb03870800000000000000
+      internalID: 8660627894449796392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_17
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 11
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14421180f8b642570800000000000000
+      internalID: 8440989863658988609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 15
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faea8889757420f0800000000000000
+      internalID: -1142659240602965260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_19
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 16
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db14639ab906b10800000000000000
+      internalID: 1972747787850333478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_20
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 28
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5be206951d5ed0800000000000000
+      internalID: -2423757290417202014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_21
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 30
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1647f81bedf1940800000000000000
+      internalID: 5269174943244116444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_22
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319928cb608ce550800000000000000
+      internalID: 6191464788135612723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_23
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 31
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ff4d350efaba940800000000000000
+      internalID: 5308529963800264580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_24
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755711596408cf80800000000000000
+      internalID: -8086208280565164683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_25
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 32
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963a3dc179d33ea30800000000000000
+      internalID: 4243302993146127209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_26
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 29
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ee530fbc50cbe0800000000000000
+      internalID: -1459064303802980337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_27
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 29
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b214bedd5b2f18e0800000000000000
+      internalID: -1720608850463944014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_28
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3636ca91dd4e89560800000000000000
+      internalID: 7320852832560374627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_29
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8067fea0b927ff0800000000000000
+      internalID: -39798975423444750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_30
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854faccf7d879eb0800000000000000
+      internalID: -4713142904985533048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_31
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8faa819fe679c70800000000000000
+      internalID: 8977766398326143193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_32
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 29
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500194a6e7b200a0800000000000000
+      internalID: -6916763876456333230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_33
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 10
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c36fb572aa3480800000000000000
+      internalID: -8918637485447986573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c9dd39c7a28d0e0800000000000000
+      internalID: -2244997699699106773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_35
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 8
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef970389a9be4550800000000000000
+      internalID: 6147054679106232288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 6
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62dd6b81281cd320800000000000000
+      internalID: 2583966818556039790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_37
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 11
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb57c2f035e77040800000000000000
+      internalID: 4645433539050298346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_38
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 16
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac1479b1c0c17d0800000000000000
+      internalID: -2946466743565825284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_39
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabdc0680e883390800000000000000
+      internalID: -7838358984803370333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_40
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267f023fe58f88440800000000000000
+      internalID: 4938470078101387106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_41
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad552066a7b0ab0800000000000000
+      internalID: -5040800779366704598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_42
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 23
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f0c5246e1763e0800000000000000
+      internalID: -2060644889019747744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_43
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57601112f74e4a0800000000000000
+      internalID: -6564982576803056219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_44
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e379af94638db0800000000000000
+      internalID: -4790874941686554343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_45
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 31
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a4b4b1d94e5bf0800000000000000
+      internalID: -333748157350108677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_46
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 28
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc93d36529daac0800000000000000
+      internalID: -3842254007985123988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_47
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffbb67e73c109340800000000000000
+      internalID: 4868422223618883577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_48
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86750e88b989f6e0800000000000000
+      internalID: -1803258750035462515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_49
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b1a55858a615e0800000000000000
+      internalID: -1939177492189169299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_50
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 24
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebf3800bfe54980800000000000000
+      internalID: -8555168377788711299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_51
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 24
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a78f54ff2a33aa0800000000000000
+      internalID: -6182418646175286699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_52
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 19
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e15bbadbaa86590800000000000000
+      internalID: -7680701432874066402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_53
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 29
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3156c5ec76ddc0800000000000000
+      internalID: -3614564324601676656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_54
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922a3584c282b8c0800000000000000
+      internalID: -3984978939709087088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_55
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 19
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0864f54df278e0800000000000000
+      internalID: -1697015632670225439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_56
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025276351e41c5310800000000000000
+      internalID: 1395012942577476896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_57
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b61b393e379f0e0800000000000000
+      internalID: -2235628318740092060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_58
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 12
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3d278cac0d9900800000000000000
+      internalID: 692723852826721508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_59
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131be55144e2b8e0800000000000000
+      internalID: -1679028741790297321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_60
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a31aa3be8862bc0800000000000000
+      internalID: -3808205891012838835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_61
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79089b08988aebe70800000000000000
+      internalID: 9132922402877571223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_62
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 8
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3584b9a5ef6de8b40800000000000000
+      internalID: 5444525387467671635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Morbius_63
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0382a6afc229f4d30800000000000000
+      internalID: 4417910481351223344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

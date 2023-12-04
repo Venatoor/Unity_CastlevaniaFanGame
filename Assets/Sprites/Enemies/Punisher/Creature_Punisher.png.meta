@@ -1,0 +1,1188 @@
+fileFormatVersion: 2
+guid: f1f35e18296301342a653da101b78419
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3560972623741765017
+    second: Creature_Punisher_0
+  - first:
+      213: 854496656229223457
+    second: Creature_Punisher_1
+  - first:
+      213: 6427919181155605329
+    second: Creature_Punisher_2
+  - first:
+      213: 8334424561537895790
+    second: Creature_Punisher_3
+  - first:
+      213: -7540016561687468650
+    second: Creature_Punisher_4
+  - first:
+      213: -4443742041306844364
+    second: Creature_Punisher_5
+  - first:
+      213: -7316110693049638204
+    second: Creature_Punisher_6
+  - first:
+      213: 8192153165002768136
+    second: Creature_Punisher_7
+  - first:
+      213: 2913804962567890531
+    second: Creature_Punisher_8
+  - first:
+      213: -7573829166421023988
+    second: Creature_Punisher_9
+  - first:
+      213: -3881723593119506996
+    second: Creature_Punisher_10
+  - first:
+      213: -7218881861925412474
+    second: Creature_Punisher_11
+  - first:
+      213: -1409879416763621909
+    second: Creature_Punisher_12
+  - first:
+      213: 3629089759804373322
+    second: Creature_Punisher_13
+  - first:
+      213: 4338110810306502602
+    second: Creature_Punisher_14
+  - first:
+      213: -3793564308619396080
+    second: Creature_Punisher_15
+  - first:
+      213: -9095636608641929553
+    second: Creature_Punisher_16
+  - first:
+      213: -5829984505577664598
+    second: Creature_Punisher_17
+  - first:
+      213: 3397055117045215381
+    second: Creature_Punisher_18
+  - first:
+      213: 9141710633146154638
+    second: Creature_Punisher_19
+  - first:
+      213: -7477945316656654032
+    second: Creature_Punisher_20
+  - first:
+      213: -5696105301433572948
+    second: Creature_Punisher_21
+  - first:
+      213: -7291922429448627469
+    second: Creature_Punisher_22
+  - first:
+      213: 2542486175898598063
+    second: Creature_Punisher_23
+  - first:
+      213: 2310433819779774040
+    second: Creature_Punisher_24
+  - first:
+      213: 2538417770628138074
+    second: Creature_Punisher_25
+  - first:
+      213: 7457758327300255548
+    second: Creature_Punisher_26
+  - first:
+      213: -2740972557898989607
+    second: Creature_Punisher_27
+  - first:
+      213: -8521607009964438718
+    second: Creature_Punisher_28
+  - first:
+      213: -4077852812943795463
+    second: Creature_Punisher_29
+  - first:
+      213: 3105123756814522528
+    second: Creature_Punisher_30
+  - first:
+      213: -8583021772742894299
+    second: Creature_Punisher_31
+  - first:
+      213: -716354144596218848
+    second: Creature_Punisher_32
+  - first:
+      213: 777906180263755640
+    second: Creature_Punisher_33
+  - first:
+      213: -709635367575382849
+    second: Creature_Punisher_34
+  - first:
+      213: -3752416839927342639
+    second: Creature_Punisher_35
+  - first:
+      213: -4926783096019107191
+    second: Creature_Punisher_36
+  - first:
+      213: -2601324691709316607
+    second: Creature_Punisher_37
+  - first:
+      213: 7685377858468744814
+    second: Creature_Punisher_38
+  - first:
+      213: 783738299270746323
+    second: Creature_Punisher_39
+  - first:
+      213: 7253471051242594216
+    second: Creature_Punisher_40
+  - first:
+      213: -7239655699977035352
+    second: Creature_Punisher_41
+  - first:
+      213: 5858702647271224933
+    second: Creature_Punisher_42
+  - first:
+      213: -1133627127506114190
+    second: Creature_Punisher_43
+  - first:
+      213: 5026947908442382921
+    second: Creature_Punisher_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_Punisher_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 416
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3bfaf342e49ec0800000000000000
+      internalID: -3560972623741765017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 414
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4d487e28cbdb00800000000000000
+      internalID: 854496656229223457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 414
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b13bd407e843950800000000000000
+      internalID: 6427919181155605329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 415
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc1c52bf2d9a370800000000000000
+      internalID: 8334424561537895790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 313
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956e08c2ea7c5790800000000000000
+      internalID: -7540016561687468650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 417
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433bf6a4828a452c0800000000000000
+      internalID: -4443742041306844364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 410
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e65b4614f77a90800000000000000
+      internalID: -7316110693049638204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 416
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff49156ef50b170800000000000000
+      internalID: 8192153165002768136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 315
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36621aaec2aef6820800000000000000
+      internalID: 2913804962567890531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 315
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036bf1408a54e690800000000000000
+      internalID: -7573829166421023988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 317
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddbd355f8512ac0800000000000000
+      internalID: -3881723593119506996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 315
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ec60a13161db90800000000000000
+      internalID: -7218881861925412474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 319
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed5babe32a1f6ce0800000000000000
+      internalID: -1409879416763621909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 315
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b527a8ed1d5230800000000000000
+      internalID: 3629089759804373322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 345
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd9943cc0143c30800000000000000
+      internalID: 4338110810306502602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_15
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 345
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf3284c5d8a5bc0800000000000000
+      internalID: -3793564308619396080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_16
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 345
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeebd7f1bec5c180800000000000000
+      internalID: -9095636608641929553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 217
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf03031bfbb71fa0800000000000000
+      internalID: -5829984505577664598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 218
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59037ed61a3c42f20800000000000000
+      internalID: 3397055117045215381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 216
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e7610d261edde70800000000000000
+      internalID: 9141710633146154638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 218
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03952e6ba50093890800000000000000
+      internalID: -7477945316656654032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_21
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 234
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca125d8586e53f0b0800000000000000
+      internalID: -5696105301433572948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 237
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad2074f23edca90800000000000000
+      internalID: -7291922429448627469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_23
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 203
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf6c0d4b9b84320800000000000000
+      internalID: 2542486175898598063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 210
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b501615f401020800000000000000
+      internalID: 2310433819779774040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 217
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5444d563854a3320800000000000000
+      internalID: 2538417770628138074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 216
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f617f8fa74f7760800000000000000
+      internalID: 7457758327300255548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 117
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df365b1bfb16f9d0800000000000000
+      internalID: -2740972557898989607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b4797e29b2db980800000000000000
+      internalID: -8521607009964438718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 118
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5826d87e8867c0800000000000000
+      internalID: -4077852812943795463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 116
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85e8cea9d971b20800000000000000
+      internalID: 3105123756814522528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 118
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d57382c2bf2e880800000000000000
+      internalID: -8583021772742894299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 134
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca6fd63bffe06f0800000000000000
+      internalID: -716354144596218848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_33
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 137
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fb337ac8dabca00800000000000000
+      internalID: 777906180263755640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 102
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb49d9b946ed626f0800000000000000
+      internalID: -709635367575382849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 116
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9dfe6e3ccbcebc0800000000000000
+      internalID: -3752416839927342639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_36
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 117
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c16c90ec80abb0800000000000000
+      internalID: -4926783096019107191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b63da9fc36ebd0800000000000000
+      internalID: -2601324691709316607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8ea28172f7aa60800000000000000
+      internalID: 7685377858468744814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d6eca4d560ea00800000000000000
+      internalID: 783738299270746323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_40
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 33
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd4e59d7189a460800000000000000
+      internalID: 7253471051242594216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 37
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1acba8f73978b90800000000000000
+      internalID: -7239655699977035352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566fd37540b4e4150800000000000000
+      internalID: 5858702647271224933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_43
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 10
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279604d322c8440f0800000000000000
+      internalID: -1133627127506114190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Punisher_44
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 13
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e9132d7e43c540800000000000000
+      internalID: 5026947908442382921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

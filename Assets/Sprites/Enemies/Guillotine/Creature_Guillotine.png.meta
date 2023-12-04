@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: e33e91beab0217541a98f6b96eea5e0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412807851419179434
+    second: Creature_Guillotine_0
+  - first:
+      213: 1771973759479277765
+    second: Creature_Guillotine_1
+  - first:
+      213: -7790676466168692371
+    second: Creature_Guillotine_2
+  - first:
+      213: -2806551691921683457
+    second: Creature_Guillotine_3
+  - first:
+      213: 9006218572184857267
+    second: Creature_Guillotine_4
+  - first:
+      213: 8794658746015081179
+    second: Creature_Guillotine_5
+  - first:
+      213: -3722441489991666004
+    second: Creature_Guillotine_6
+  - first:
+      213: 4945470012205557580
+    second: Creature_Guillotine_7
+  - first:
+      213: -130039049895163064
+    second: Creature_Guillotine_8
+  - first:
+      213: -2945902174668986817
+    second: Creature_Guillotine_9
+  - first:
+      213: -1146248448467949178
+    second: Creature_Guillotine_10
+  - first:
+      213: 8713063544161656014
+    second: Creature_Guillotine_11
+  - first:
+      213: -4940561511934760114
+    second: Creature_Guillotine_12
+  - first:
+      213: -5551721489628238034
+    second: Creature_Guillotine_13
+  - first:
+      213: 1993204258454365693
+    second: Creature_Guillotine_14
+  - first:
+      213: -47870132819179584
+    second: Creature_Guillotine_15
+  - first:
+      213: 3214833567052836958
+    second: Creature_Guillotine_16
+  - first:
+      213: -1274986106002923847
+    second: Creature_Guillotine_17
+  - first:
+      213: -8816201417466604768
+    second: Creature_Guillotine_18
+  - first:
+      213: -1897553006953090214
+    second: Creature_Guillotine_19
+  - first:
+      213: 3930721210430036009
+    second: Creature_Guillotine_20
+  - first:
+      213: 3570983740048657535
+    second: Creature_Guillotine_21
+  - first:
+      213: -5031144645826079249
+    second: Creature_Guillotine_22
+  - first:
+      213: -8122704934614565280
+    second: Creature_Guillotine_23
+  - first:
+      213: 726235183159822550
+    second: Creature_Guillotine_24
+  - first:
+      213: -7610656602668646413
+    second: Creature_Guillotine_25
+  - first:
+      213: 4281183266795330345
+    second: Creature_Guillotine_26
+  - first:
+      213: -6507018400531379783
+    second: Creature_Guillotine_27
+  - first:
+      213: -4997140902338193502
+    second: Creature_Guillotine_28
+  - first:
+      213: -5034931115553316305
+    second: Creature_Guillotine_29
+  - first:
+      213: -5309713336465306038
+    second: Creature_Guillotine_30
+  - first:
+      213: -218347767736515326
+    second: Creature_Guillotine_31
+  - first:
+      213: -2532577129837953038
+    second: Creature_Guillotine_32
+  - first:
+      213: 4045449085756703561
+    second: Creature_Guillotine_33
+  - first:
+      213: 3612167974623420831
+    second: Creature_Guillotine_34
+  - first:
+      213: -2800547917356537638
+    second: Creature_Guillotine_35
+  - first:
+      213: 4112884232658648178
+    second: Creature_Guillotine_36
+  - first:
+      213: -380222061955632817
+    second: Creature_Guillotine_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_Guillotine_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1361
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656eeeba88a602990800000000000000
+      internalID: -7412807851419179434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1353
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86315feb0579810800000000000000
+      internalID: 1771973759479277765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1282
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610502e705f1e390800000000000000
+      internalID: -7790676466168692371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1285
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8c3f1b102d09d0800000000000000
+      internalID: -2806551691921683457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1207
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baaa9c03148cfc70800000000000000
+      internalID: 9006218572184857267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1206
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e20d8887ec0a70800000000000000
+      internalID: 8794658746015081179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1128
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fedbef2b375cc0800000000000000
+      internalID: -3722441489991666004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1136
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ebdc16c6d1a440800000000000000
+      internalID: 4945470012205557580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1053
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc1105c22023ef0800000000000000
+      internalID: -130039049895163064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1061
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36edc7849d0e17d0800000000000000
+      internalID: -2945902174668986817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 986
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a9b4fb15b710f0800000000000000
+      internalID: -1146248448467949178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 988
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc592f21250be870800000000000000
+      internalID: 8713063544161656014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 912
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b692a2b799f6bb0800000000000000
+      internalID: -4940561511934760114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 901
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6ece28b254f2b0800000000000000
+      internalID: -5551721489628238034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 838
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e7fd66b849ab10800000000000000
+      internalID: 1993204258454365693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 837
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c746f92e5ee55ff0800000000000000
+      internalID: -47870132819179584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 761
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50bf28a8126d9c20800000000000000
+      internalID: 3214833567052836958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 761
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be132a44e65e4ee0800000000000000
+      internalID: -1274986106002923847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 687
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239b93658f86a580800000000000000
+      internalID: -8816201417466604768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 687
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53361608998aa5e0800000000000000
+      internalID: -1897553006953090214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 611
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92896c27d1abc8630800000000000000
+      internalID: 3930721210430036009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 612
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ccb4caaceae8130800000000000000
+      internalID: 3570983740048657535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 534
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59debc998cd2ab0800000000000000
+      internalID: -5031144645826079249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 535
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7cfcd5ea564f80800000000000000
+      internalID: -8122704934614565280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 457
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c1a32d0b141a00800000000000000
+      internalID: 726235183159822550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 453
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff34729424816690800000000000000
+      internalID: -7610656602668646413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 379
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9eab9f71d96b30800000000000000
+      internalID: 4281183266795330345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 380
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b985698d3d62b5a0800000000000000
+      internalID: -6507018400531379783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 303
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a79e8743d696aab0800000000000000
+      internalID: -4997140902338193502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 311
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2222ec93d4502ab0800000000000000
+      internalID: -5034931115553316305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 236
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec4d04adb1056b0800000000000000
+      internalID: -5309713336465306038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205c092bcd548fcf0800000000000000
+      internalID: -218347767736515326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 153
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fffab1c48a7adcd0800000000000000
+      internalID: -2532577129837953038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 155
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94305718282542830800000000000000
+      internalID: 4045449085756703561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a87482aff02230800000000000000
+      internalID: 3612167974623420831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 86
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e081d1847229d0800000000000000
+      internalID: -2800547917356537638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7ce92b66e31930800000000000000
+      internalID: 4112884232658648178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Guillotine_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413e559c0e29baf0800000000000000
+      internalID: -380222061955632817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

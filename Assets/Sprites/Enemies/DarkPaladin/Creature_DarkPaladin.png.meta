@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: e46a827046680514cbe8eec9930d61b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6817706489480687675
+    second: Creature_DarkPaladin_0
+  - first:
+      213: 8923117610550134866
+    second: Creature_DarkPaladin_1
+  - first:
+      213: -1852668080070835635
+    second: Creature_DarkPaladin_2
+  - first:
+      213: -8888461756570451212
+    second: Creature_DarkPaladin_3
+  - first:
+      213: 5004502530250720156
+    second: Creature_DarkPaladin_4
+  - first:
+      213: 1790935619260683374
+    second: Creature_DarkPaladin_5
+  - first:
+      213: -212430472390849724
+    second: Creature_DarkPaladin_6
+  - first:
+      213: 5072436241530286264
+    second: Creature_DarkPaladin_7
+  - first:
+      213: -262213048118552771
+    second: Creature_DarkPaladin_8
+  - first:
+      213: 763526140013074228
+    second: Creature_DarkPaladin_9
+  - first:
+      213: 3843409785251380530
+    second: Creature_DarkPaladin_10
+  - first:
+      213: -2497272942064140158
+    second: Creature_DarkPaladin_11
+  - first:
+      213: 585298404602846016
+    second: Creature_DarkPaladin_12
+  - first:
+      213: 1249631720581905489
+    second: Creature_DarkPaladin_13
+  - first:
+      213: 9163726083613450022
+    second: Creature_DarkPaladin_14
+  - first:
+      213: 4785505058649904040
+    second: Creature_DarkPaladin_15
+  - first:
+      213: -5873637465703213733
+    second: Creature_DarkPaladin_16
+  - first:
+      213: 6292398723336962218
+    second: Creature_DarkPaladin_17
+  - first:
+      213: 6055600035051118744
+    second: Creature_DarkPaladin_18
+  - first:
+      213: -8695661383961097627
+    second: Creature_DarkPaladin_19
+  - first:
+      213: -1832353713601036743
+    second: Creature_DarkPaladin_20
+  - first:
+      213: 4976404191150763957
+    second: Creature_DarkPaladin_21
+  - first:
+      213: 6637988337306994832
+    second: Creature_DarkPaladin_22
+  - first:
+      213: -9167054841033805680
+    second: Creature_DarkPaladin_23
+  - first:
+      213: -1738354163673658262
+    second: Creature_DarkPaladin_24
+  - first:
+      213: 3011543163893043368
+    second: Creature_DarkPaladin_25
+  - first:
+      213: -2321815278809251692
+    second: Creature_DarkPaladin_26
+  - first:
+      213: -5773872236984417103
+    second: Creature_DarkPaladin_27
+  - first:
+      213: 7251763786638485907
+    second: Creature_DarkPaladin_28
+  - first:
+      213: -3893421950272732413
+    second: Creature_DarkPaladin_29
+  - first:
+      213: -866031436642309514
+    second: Creature_DarkPaladin_30
+  - first:
+      213: -8169630235952238347
+    second: Creature_DarkPaladin_31
+  - first:
+      213: 205986718464744081
+    second: Creature_DarkPaladin_32
+  - first:
+      213: -2309294693812062247
+    second: Creature_DarkPaladin_33
+  - first:
+      213: -2634009991483427049
+    second: Creature_DarkPaladin_34
+  - first:
+      213: 3579785568413520539
+    second: Creature_DarkPaladin_35
+  - first:
+      213: -3168706789703419184
+    second: Creature_DarkPaladin_36
+  - first:
+      213: -5852367287100713474
+    second: Creature_DarkPaladin_37
+  - first:
+      213: 5769131929285223973
+    second: Creature_DarkPaladin_38
+  - first:
+      213: 7764672067503833096
+    second: Creature_DarkPaladin_39
+  - first:
+      213: -1643302920712470488
+    second: Creature_DarkPaladin_40
+  - first:
+      213: 6354315689996053454
+    second: Creature_DarkPaladin_41
+  - first:
+      213: 6355213387733257225
+    second: Creature_DarkPaladin_42
+  - first:
+      213: 5900844817694608892
+    second: Creature_DarkPaladin_43
+  - first:
+      213: 5024673198952304939
+    second: Creature_DarkPaladin_44
+  - first:
+      213: 7835372150636246786
+    second: Creature_DarkPaladin_45
+  - first:
+      213: -6937504600392621722
+    second: Creature_DarkPaladin_46
+  - first:
+      213: 4791247284736997701
+    second: Creature_DarkPaladin_47
+  - first:
+      213: -6239556398920646639
+    second: Creature_DarkPaladin_48
+  - first:
+      213: 4041399701434127831
+    second: Creature_DarkPaladin_49
+  - first:
+      213: 3650073599464259286
+    second: Creature_DarkPaladin_50
+  - first:
+      213: 7703706260522234678
+    second: Creature_DarkPaladin_51
+  - first:
+      213: -134587245157233404
+    second: Creature_DarkPaladin_52
+  - first:
+      213: 4151914970273248561
+    second: Creature_DarkPaladin_53
+  - first:
+      213: 4544773195278377662
+    second: Creature_DarkPaladin_54
+  - first:
+      213: 7939350550110750014
+    second: Creature_DarkPaladin_55
+  - first:
+      213: 4424528887181685676
+    second: Creature_DarkPaladin_56
+  - first:
+      213: 7430853846792536765
+    second: Creature_DarkPaladin_57
+  - first:
+      213: 8943450127335918386
+    second: Creature_DarkPaladin_58
+  - first:
+      213: 2951686788636604951
+    second: Creature_DarkPaladin_59
+  - first:
+      213: 7025584635061699311
+    second: Creature_DarkPaladin_60
+  - first:
+      213: 4217865242192159262
+    second: Creature_DarkPaladin_61
+  - first:
+      213: -5958970445410006934
+    second: Creature_DarkPaladin_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 768
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b303f503eeb5d9e50800000000000000
+      internalID: 6817706489480687675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 768
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2588fd9a03845db70800000000000000
+      internalID: 8923117610550134866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 768
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d424ca072300a46e0800000000000000
+      internalID: -1852668080070835635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 768
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f249ff1027d5a480800000000000000
+      internalID: -8888461756570451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 752
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9343294980937540800000000000000
+      internalID: 5004502530250720156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_5
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 754
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6490a9f47eaad810800000000000000
+      internalID: 1790935619260683374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 768
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcca16c9b4d0df0800000000000000
+      internalID: -212430472390849724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 768
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0fa3203e9e46640800000000000000
+      internalID: 5072436241530286264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 768
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37db6b3f9e6c5cf0800000000000000
+      internalID: -262213048118552771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 768
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375430aaf6989a00800000000000000
+      internalID: 763526140013074228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_10
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 768
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d3b2026d8865530800000000000000
+      internalID: 3843409785251380530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_11
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 768
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28082158d77e75dd0800000000000000
+      internalID: -2497272942064140158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_12
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 768
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b94f54cc56f1800800000000000000
+      internalID: 585298404602846016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_13
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 768
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c3855dd65975110800000000000000
+      internalID: 1249631720581905489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_14
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 768
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fd2c052581c2f70800000000000000
+      internalID: 9163726083613450022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_15
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 768
+        width: 24
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a399a30f77896240800000000000000
+      internalID: 4785505058649904040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 540
+        width: 24
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55955548d5ac7ea0800000000000000
+      internalID: -5873637465703213733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 540
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa00f91ec47135750800000000000000
+      internalID: 6292398723336962218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 561
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890a01fd520d90450800000000000000
+      internalID: 6055600035051118744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 558
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acae9fa0ec25780800000000000000
+      internalID: -8695661383961097627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 540
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e31f5710c2296e0800000000000000
+      internalID: -1832353713601036743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 513
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6e48ee3dbf0540800000000000000
+      internalID: 4976404191150763957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988e54293fde1c50800000000000000
+      internalID: 6637988337306994832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_23
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 541
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b7a3f03418c080800000000000000
+      internalID: -9167054841033805680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_24
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 540
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c096c291020e7e0800000000000000
+      internalID: -1738354163673658262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_25
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 540
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d99d3d862bc920800000000000000
+      internalID: 3011543163893043368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_26
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 540
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49000803e4147cfd0800000000000000
+      internalID: -2321815278809251692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_27
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 540
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4cd00bac51fdfa0800000000000000
+      internalID: -5773872236984417103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_28
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 540
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e0a11eb073a460800000000000000
+      internalID: 7251763786638485907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_29
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 540
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303094d4d59c7f9c0800000000000000
+      internalID: -3893421950272732413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_30
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 540
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2d9e2ffc3bf3f0800000000000000
+      internalID: -866031436642309514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 312
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b6cfb594af9e80800000000000000
+      internalID: -8169630235952238347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1a8e34dfcbd200800000000000000
+      internalID: 205986718464744081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 312
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d733ad06bcb3ffd0800000000000000
+      internalID: -2309294693812062247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 312
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717fcca4edd127bd0800000000000000
+      internalID: -2634009991483427049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 307
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929b590204fda130800000000000000
+      internalID: 3579785568413520539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 312
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dafb5a96fd7604d0800000000000000
+      internalID: -3168706789703419184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_37
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 337
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5de35a5f638cea0800000000000000
+      internalID: -5852367287100713474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_38
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 306
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e86b6ce2101050800000000000000
+      internalID: 5769131929285223973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 308
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c6fc3b18a1cb60800000000000000
+      internalID: 7764672067503833096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_40
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 312
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820429043b0d139e0800000000000000
+      internalID: -1643302920712470488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_41
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 312
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe7e414701f2850800000000000000
+      internalID: 6354315689996053454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 312
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cc5af97e0423850800000000000000
+      internalID: 6355213387733257225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_43
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 312
+        width: 27
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd4461091304e150800000000000000
+      internalID: 5900844817694608892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_44
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 308
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215aff07a93bb540800000000000000
+      internalID: 5024673198952304939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_45
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 300
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20779a91575dcbc60800000000000000
+      internalID: 7835372150636246786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_46
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 276
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a5f9825809bf90800000000000000
+      internalID: -6937504600392621722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_47
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 260
+        width: 28
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549bdc5350eed7240800000000000000
+      internalID: 4791247284736997701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 16
+        width: 28
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c1568384a869a0800000000000000
+      internalID: -6239556398920646639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 28
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d95fbd9fe51830800000000000000
+      internalID: 4041399701434127831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 84
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de391c899aa7a230800000000000000
+      internalID: 3650073599464259286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 84
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337168270019ea60800000000000000
+      internalID: 7703706260522234678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_52
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 84
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dca151d99d12ef0800000000000000
+      internalID: -134587245157233404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_53
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 84
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13573cceaa09e9930800000000000000
+      internalID: 4151914970273248561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_54
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 100
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2e8415427421f30800000000000000
+      internalID: 4544773195278377662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_55
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 100
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3547a6c24d3e2e60800000000000000
+      internalID: 7939350550110750014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_56
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 100
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33beaa495176d30800000000000000
+      internalID: 4424528887181685676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_57
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 102
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db20aeb0432bf1760800000000000000
+      internalID: 7430853846792536765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_58
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 105
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8742a1848d1c70800000000000000
+      internalID: 8943450127335918386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_59
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 85
+        width: 171
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71af5ecde7f76f820800000000000000
+      internalID: 2951686788636604951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_60
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 68
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28b40a004ef7160800000000000000
+      internalID: 7025584635061699311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_61
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 57
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a45f271ed88a30800000000000000
+      internalID: 4217865242192159262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_DarkPaladin_62
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 52
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68094ea3fb7d4da0800000000000000
+      internalID: -5958970445410006934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 0031976bcca3bfb4fb06497b558242b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1123335866228121722
+    second: Creature_Frankenstein_0
+  - first:
+      213: 6420252572618463566
+    second: Creature_Frankenstein_1
+  - first:
+      213: 8214363451345173211
+    second: Creature_Frankenstein_2
+  - first:
+      213: -710294817930741225
+    second: Creature_Frankenstein_3
+  - first:
+      213: -4681769837853514348
+    second: Creature_Frankenstein_4
+  - first:
+      213: -4659103354801491062
+    second: Creature_Frankenstein_5
+  - first:
+      213: -8837887215349455742
+    second: Creature_Frankenstein_6
+  - first:
+      213: -6190070244461336792
+    second: Creature_Frankenstein_7
+  - first:
+      213: 8531316170415989016
+    second: Creature_Frankenstein_8
+  - first:
+      213: -2742832639953216595
+    second: Creature_Frankenstein_9
+  - first:
+      213: 6793982832309954052
+    second: Creature_Frankenstein_10
+  - first:
+      213: 5857221031126455253
+    second: Creature_Frankenstein_11
+  - first:
+      213: -629575445103155373
+    second: Creature_Frankenstein_12
+  - first:
+      213: 9114174730936276012
+    second: Creature_Frankenstein_13
+  - first:
+      213: -7427893930753243322
+    second: Creature_Frankenstein_14
+  - first:
+      213: 105322024981462970
+    second: Creature_Frankenstein_15
+  - first:
+      213: 6144532535670783762
+    second: Creature_Frankenstein_16
+  - first:
+      213: 6041849120304995196
+    second: Creature_Frankenstein_17
+  - first:
+      213: -724533488617953423
+    second: Creature_Frankenstein_18
+  - first:
+      213: -8039682212922201837
+    second: Creature_Frankenstein_19
+  - first:
+      213: 8257640082448567047
+    second: Creature_Frankenstein_20
+  - first:
+      213: 3270468067223956157
+    second: Creature_Frankenstein_21
+  - first:
+      213: 8912212765532882633
+    second: Creature_Frankenstein_22
+  - first:
+      213: 3631563219592774713
+    second: Creature_Frankenstein_23
+  - first:
+      213: 5435396500751392217
+    second: Creature_Frankenstein_24
+  - first:
+      213: -3510393178838595120
+    second: Creature_Frankenstein_25
+  - first:
+      213: -4976722439637074212
+    second: Creature_Frankenstein_26
+  - first:
+      213: 7698288258007209337
+    second: Creature_Frankenstein_27
+  - first:
+      213: 5481856251593538985
+    second: Creature_Frankenstein_28
+  - first:
+      213: 6290128513734805301
+    second: Creature_Frankenstein_29
+  - first:
+      213: 3281445075696252062
+    second: Creature_Frankenstein_30
+  - first:
+      213: 9003542403313112659
+    second: Creature_Frankenstein_31
+  - first:
+      213: 2400908254095951978
+    second: Creature_Frankenstein_32
+  - first:
+      213: 882793880747078676
+    second: Creature_Frankenstein_33
+  - first:
+      213: -9105645286354728044
+    second: Creature_Frankenstein_34
+  - first:
+      213: 8086481808084026270
+    second: Creature_Frankenstein_35
+  - first:
+      213: -8087058728844478484
+    second: Creature_Frankenstein_36
+  - first:
+      213: -1311906100484830125
+    second: Creature_Frankenstein_37
+  - first:
+      213: 6831928047857717643
+    second: Creature_Frankenstein_38
+  - first:
+      213: -8159969337728421725
+    second: Creature_Frankenstein_39
+  - first:
+      213: 6885538078959995809
+    second: Creature_Frankenstein_40
+  - first:
+      213: -2789074243079258403
+    second: Creature_Frankenstein_41
+  - first:
+      213: 5332783111842415361
+    second: Creature_Frankenstein_42
+  - first:
+      213: 7441375288303393907
+    second: Creature_Frankenstein_43
+  - first:
+      213: -3176732656214493248
+    second: Creature_Frankenstein_44
+  - first:
+      213: 824879748978166313
+    second: Creature_Frankenstein_45
+  - first:
+      213: -4611288804281280187
+    second: Creature_Frankenstein_46
+  - first:
+      213: -5359127238697634737
+    second: Creature_Frankenstein_47
+  - first:
+      213: -8425359101030277238
+    second: Creature_Frankenstein_48
+  - first:
+      213: 5327220844346151924
+    second: Creature_Frankenstein_49
+  - first:
+      213: -4503783803488033290
+    second: Creature_Frankenstein_50
+  - first:
+      213: -8505935758640252041
+    second: Creature_Frankenstein_51
+  - first:
+      213: -8814109138009726771
+    second: Creature_Frankenstein_52
+  - first:
+      213: -7724965692107739636
+    second: Creature_Frankenstein_53
+  - first:
+      213: -6406424313713925527
+    second: Creature_Frankenstein_54
+  - first:
+      213: 522967722751324748
+    second: Creature_Frankenstein_55
+  - first:
+      213: -7011156793215028349
+    second: Creature_Frankenstein_56
+  - first:
+      213: -8480883717142500279
+    second: Creature_Frankenstein_57
+  - first:
+      213: -2200908987359845565
+    second: Creature_Frankenstein_58
+  - first:
+      213: 4953162317654681882
+    second: Creature_Frankenstein_59
+  - first:
+      213: -4431948950809225871
+    second: Creature_Frankenstein_60
+  - first:
+      213: 7244005581562942573
+    second: Creature_Frankenstein_61
+  - first:
+      213: 5947410163068550204
+    second: Creature_Frankenstein_62
+  - first:
+      213: -5921771522652282537
+    second: Creature_Frankenstein_63
+  - first:
+      213: 520920717785067846
+    second: Creature_Frankenstein_64
+  - first:
+      213: 4450202775313978886
+    second: Creature_Frankenstein_65
+  - first:
+      213: 7181498613012296416
+    second: Creature_Frankenstein_66
+  - first:
+      213: -1063620541321396295
+    second: Creature_Frankenstein_67
+  - first:
+      213: 5822753723609035134
+    second: Creature_Frankenstein_68
+  - first:
+      213: 372880232000426503
+    second: Creature_Frankenstein_69
+  - first:
+      213: -3207494548298926197
+    second: Creature_Frankenstein_70
+  - first:
+      213: 6840859862654991433
+    second: Creature_Frankenstein_71
+  - first:
+      213: 2994296019837229624
+    second: Creature_Frankenstein_72
+  - first:
+      213: 1718867034980479213
+    second: Creature_Frankenstein_73
+  - first:
+      213: -4850432675835476071
+    second: Creature_Frankenstein_74
+  - first:
+      213: 2146434737290066077
+    second: Creature_Frankenstein_75
+  - first:
+      213: -4085689421361398369
+    second: Creature_Frankenstein_76
+  - first:
+      213: 1489336866855054924
+    second: Creature_Frankenstein_77
+  - first:
+      213: -7669402267606105678
+    second: Creature_Frankenstein_78
+  - first:
+      213: -2301675236418001794
+    second: Creature_Frankenstein_79
+  - first:
+      213: 9039213313389961284
+    second: Creature_Frankenstein_80
+  - first:
+      213: 7429663383985392276
+    second: Creature_Frankenstein_81
+  - first:
+      213: -1439587159391953701
+    second: Creature_Frankenstein_82
+  - first:
+      213: 299078336611781511
+    second: Creature_Frankenstein_83
+  - first:
+      213: -151985989008707397
+    second: Creature_Frankenstein_84
+  - first:
+      213: 28692516667747885
+    second: Creature_Frankenstein_85
+  - first:
+      213: 2896833844257451097
+    second: Creature_Frankenstein_86
+  - first:
+      213: -6492810498032627398
+    second: Creature_Frankenstein_87
+  - first:
+      213: -3982489464611731228
+    second: Creature_Frankenstein_88
+  - first:
+      213: 1958615969681587317
+    second: Creature_Frankenstein_89
+  - first:
+      213: -5582906094760307691
+    second: Creature_Frankenstein_90
+  - first:
+      213: 4223007987757127056
+    second: Creature_Frankenstein_91
+  - first:
+      213: -2997596252206362626
+    second: Creature_Frankenstein_92
+  - first:
+      213: 625144839062935479
+    second: Creature_Frankenstein_93
+  - first:
+      213: 4348877237180624404
+    second: Creature_Frankenstein_94
+  - first:
+      213: 8879142246876652929
+    second: Creature_Frankenstein_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_Frankenstein_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1131
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f540a3bfb1960f0800000000000000
+      internalID: -1123335866228121722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1131
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491637e2b1591950800000000000000
+      internalID: 6420252572618463566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1131
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda716599084ff170800000000000000
+      internalID: 8214363451345173211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1131
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aff6b50a68426f0800000000000000
+      internalID: -710294817930741225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1131
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956a963323070fb0800000000000000
+      internalID: -4681769837853514348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1131
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f93d0f2a875fb0800000000000000
+      internalID: -4659103354801491062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1131
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284212c1764895580800000000000000
+      internalID: -8837887215349455742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1131
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827aa28b8e3781aa0800000000000000
+      internalID: -6190070244461336792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_8
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1131
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e03c2bd2556670800000000000000
+      internalID: 8531316170415989016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1018
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabdd310f308fe9d0800000000000000
+      internalID: -2742832639953216595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1074
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406efe1d363194e50800000000000000
+      internalID: 6793982832309954052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1018
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d35d33be77094150800000000000000
+      internalID: 5857221031126455253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1018
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576153e77c4347f0800000000000000
+      internalID: -629575445103155373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1018
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245c4af0ad0c7e70800000000000000
+      internalID: 9114174730936276012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1018
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474c2c13d1dae890800000000000000
+      internalID: -7427893930753243322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1018
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7b0ed2dd267100800000000000000
+      internalID: 105322024981462970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1057
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fbc7b39c3c54550800000000000000
+      internalID: 6144532535670783762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1057
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b194a83c5f8d350800000000000000
+      internalID: 6041849120304995196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_18
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1055
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776d0f71a0f1f5f0800000000000000
+      internalID: -724533488617953423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 942
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319eeb79f9f4d6090800000000000000
+      internalID: -8039682212922201837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 905
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bcf5577e7099270800000000000000
+      internalID: 8257640082448567047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 905
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba64242169036d20800000000000000
+      internalID: 3270468067223956157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 905
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c60a449a4a8eab70800000000000000
+      internalID: 8912212765532882633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 937
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348333e187e56230800000000000000
+      internalID: 3631563219592774713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_24
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 938
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd10b8c1586e6b40800000000000000
+      internalID: 5435396500751392217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 937
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90f51b004984fc0800000000000000
+      internalID: -3510393178838595120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_26
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 905
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde77b71f412feab0800000000000000
+      internalID: -4976722439637074212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_27
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 936
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97594152260d5da60800000000000000
+      internalID: 7698288258007209337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 792
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbcf97737731c40800000000000000
+      internalID: 5481856251593538985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 724
+        width: 55
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53708b48e860b4750800000000000000
+      internalID: 6290128513734805301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 830
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9474d619e80a8d20800000000000000
+      internalID: 3281445075696252062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_31
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 830
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35615adec1203fc70800000000000000
+      internalID: 9003542403313112659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 828
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6841b7265db15120800000000000000
+      internalID: 2400908254095951978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 826
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41471d77b50504c00800000000000000
+      internalID: 882793880747078676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 824
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bcd181bdf32a180800000000000000
+      internalID: -9105645286354728044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 835
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c1854c54f83070800000000000000
+      internalID: 8086481808084026270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_36
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 792
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b085eeeef4cf80800000000000000
+      internalID: -8087058728844478484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 719
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0fe53a5c2bcde0800000000000000
+      internalID: -1311906100484830125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_38
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 720
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b815697cc52efce50800000000000000
+      internalID: 6831928047857717643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 719
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03e96ee17f1ce80800000000000000
+      internalID: -8159969337728421725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 566
+        width: 62
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab06d3d6685e8f50800000000000000
+      internalID: 6885538078959995809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 679
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeb119c0c73b49d0800000000000000
+      internalID: -2789074243079258403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_42
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 679
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103c1956cf9d10a40800000000000000
+      internalID: 5332783111842415361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_43
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 679
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c91bb0663154760800000000000000
+      internalID: 7441375288303393907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_44
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 679
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b3ffea7af9e3d0800000000000000
+      internalID: -3176732656214493248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 566
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac144e2cf827b00800000000000000
+      internalID: 824879748978166313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_46
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 566
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491410a3496100c0800000000000000
+      internalID: -4611288804281280187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_47
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 566
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44be479b2e80a5b0800000000000000
+      internalID: -5359127238697634737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 654
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5cfd798c131b80800000000000000
+      internalID: -8425359101030277238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_49
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 566
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f31f4312271ee940800000000000000
+      internalID: 5327220844346151924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_50
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 566
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f520f72e785f71c0800000000000000
+      internalID: -4503783803488033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 566
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b74ff6e78d4f980800000000000000
+      internalID: -8505935758640252041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 566
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e769207efda580800000000000000
+      internalID: -8814109138009726771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 566
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ea6d3b1a86bc490800000000000000
+      internalID: -7724965692107739636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 453
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962e7a4870fc717a0800000000000000
+      internalID: -6406424313713925527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 453
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42769f7f54f14700800000000000000
+      internalID: 522967722751324748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_56
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 453
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f9d31b0e53be90800000000000000
+      internalID: -7011156793215028349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_57
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 453
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca3526139dd4a80800000000000000
+      internalID: -8480883717142500279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_58
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 453
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a379dfecc471e0800000000000000
+      internalID: -2200908987359845565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_59
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 453
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1968aa82ea2db440800000000000000
+      internalID: 4953162317654681882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 490
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d95429ed8e72c0800000000000000
+      internalID: -4431948950809225871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_61
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 490
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64910032b0e78460800000000000000
+      internalID: 7244005581562942573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_62
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 491
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbf375802798250800000000000000
+      internalID: 5947410163068550204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_63
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 378
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751694fcc24a1dda0800000000000000
+      internalID: -5921771522652282537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 378
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64178b302aeaa3700800000000000000
+      internalID: 520920717785067846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 378
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6061c0198db42cd30800000000000000
+      internalID: 4450202775313978886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_66
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 340
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2fe8770fec9a360800000000000000
+      internalID: 7181498613012296416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 340
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfbab2c0c24d31f0800000000000000
+      internalID: -1063620541321396295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_68
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 340
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71bc4e49a39ec050800000000000000
+      internalID: 5822753723609035134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_69
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 340
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702962c689cbc2500800000000000000
+      internalID: 372880232000426503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_70
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 340
+        width: 47
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f3adc3b0bc73d0800000000000000
+      internalID: -3207494548298926197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_71
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 340
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c37c7fccd9fee50800000000000000
+      internalID: 6840859862654991433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 227
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a93c69d50ed8920800000000000000
+      internalID: 2994296019837229624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 227
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f32c1674aad710800000000000000
+      internalID: 1718867034980479213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 227
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99701e51e2dcfacb0800000000000000
+      internalID: -4850432675835476071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bbb1750ba9cd10800000000000000
+      internalID: 2146434737290066077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 227
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dbe214e17bc47c0800000000000000
+      internalID: -4085689421361398369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_77
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 227
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee9c35dff2ba410800000000000000
+      internalID: 1489336866855054924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_78
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 227
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b143c7954fc09590800000000000000
+      internalID: -7669402267606105678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_79
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 227
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74edf8319ece00e0800000000000000
+      internalID: -2301675236418001794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_80
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 227
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402791ed9cb17d70800000000000000
+      internalID: 9039213313389961284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a0d23db777b1760800000000000000
+      internalID: 7429663383985392276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 39
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9a351b1f850ce0800000000000000
+      internalID: -1439587159391953701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 152
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b82cd992a862400800000000000000
+      internalID: 299078336611781511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_84
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 152
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0bc4a5c8904edf0800000000000000
+      internalID: -151985989008707397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 152
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e61bf11bfe56000800000000000000
+      internalID: 28692516667747885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_86
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 157
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6b44880f933820800000000000000
+      internalID: 2896833844257451097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_87
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 152
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3196de9047e4e5a0800000000000000
+      internalID: -6492810498032627398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_88
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 152
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8051c9eea5bb8c0800000000000000
+      internalID: -3982489464611731228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_89
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 152
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3744e8d66e2b10800000000000000
+      internalID: 1958615969681587317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 39
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d27f7c788582b0800000000000000
+      internalID: -5582906094760307691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_91
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09596e1f3632b9a30800000000000000
+      internalID: 4223007987757127056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_92
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 39
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff823f27166666d0800000000000000
+      internalID: -2997596252206362626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_93
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 39
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d3814be5fca800800000000000000
+      internalID: 625144839062935479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_94
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 42
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eeeed4ec05a5c30800000000000000
+      internalID: 4348877237180624404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_Frankenstein_95
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 41
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1852f3f64dc093b70800000000000000
+      internalID: 8879142246876652929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

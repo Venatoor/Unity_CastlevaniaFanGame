@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 19451dceb46178346bbb1ca8195d444a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6612784995118036615
+    second: Hazard_IronMaiden_0
+  - first:
+      213: 5105435365639252872
+    second: Hazard_IronMaiden_1
+  - first:
+      213: -1169664428824339872
+    second: Hazard_IronMaiden_2
+  - first:
+      213: 1814016228913825095
+    second: Hazard_IronMaiden_3
+  - first:
+      213: 5270333084517176545
+    second: Hazard_IronMaiden_4
+  - first:
+      213: -2001344628494900422
+    second: Hazard_IronMaiden_5
+  - first:
+      213: 5540494404588221165
+    second: Hazard_IronMaiden_6
+  - first:
+      213: 774869557859226803
+    second: Hazard_IronMaiden_7
+  - first:
+      213: -383477278333432472
+    second: Hazard_IronMaiden_8
+  - first:
+      213: 1217768028915770409
+    second: Hazard_IronMaiden_9
+  - first:
+      213: -7813830441282080009
+    second: Hazard_IronMaiden_10
+  - first:
+      213: 1324453438228630095
+    second: Hazard_IronMaiden_11
+  - first:
+      213: -8653608515178627588
+    second: Hazard_IronMaiden_12
+  - first:
+      213: -3869752355642759199
+    second: Hazard_IronMaiden_13
+  - first:
+      213: -5465643440626810454
+    second: Hazard_IronMaiden_14
+  - first:
+      213: -5048982207346109542
+    second: Hazard_IronMaiden_15
+  - first:
+      213: 4395242136892658046
+    second: Hazard_IronMaiden_16
+  - first:
+      213: 8753178858522248977
+    second: Hazard_IronMaiden_17
+  - first:
+      213: -3307009088894345649
+    second: Hazard_IronMaiden_18
+  - first:
+      213: 8612161832317109427
+    second: Hazard_IronMaiden_19
+  - first:
+      213: -3185944245746339444
+    second: Hazard_IronMaiden_20
+  - first:
+      213: 3893560152231168795
+    second: Hazard_IronMaiden_21
+  - first:
+      213: 7115119312476440970
+    second: Hazard_IronMaiden_22
+  - first:
+      213: -5724171753669381407
+    second: Hazard_IronMaiden_23
+  - first:
+      213: -7135650475890526087
+    second: Hazard_IronMaiden_24
+  - first:
+      213: -5691300495666685784
+    second: Hazard_IronMaiden_25
+  - first:
+      213: -5242561214443722975
+    second: Hazard_IronMaiden_26
+  - first:
+      213: 6558920548409651598
+    second: Hazard_IronMaiden_27
+  - first:
+      213: -3973702731790832313
+    second: Hazard_IronMaiden_28
+  - first:
+      213: 4959693965085063127
+    second: Hazard_IronMaiden_29
+  - first:
+      213: -9172386484144418521
+    second: Hazard_IronMaiden_30
+  - first:
+      213: 5920431948345311318
+    second: Hazard_IronMaiden_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1856
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c4fd351baa34a0800000000000000
+      internalID: -6612784995118036615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1779
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be4a05a662ad640800000000000000
+      internalID: 5105435365639252872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1779
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad38d266484cfe0800000000000000
+      internalID: -1169664428824339872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1699
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c33d262eac2910800000000000000
+      internalID: 1814016228913825095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1699
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e492a6540cf32940800000000000000
+      internalID: 5270333084517176545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1619
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33ec69f9abc934e0800000000000000
+      internalID: -2001344628494900422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1619
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de235816e4ac3ec40800000000000000
+      internalID: 5540494404588221165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1539
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49677e1c3e0ca00800000000000000
+      internalID: 774869557859226803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1539
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8085727d9daaf0800000000000000
+      internalID: -383477278333432472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1459
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242a5ef19166e010800000000000000
+      internalID: 1217768028915770409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1459
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27f34fc92bf8390800000000000000
+      internalID: -7813830441282080009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1379
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a89238267616210800000000000000
+      internalID: 1324453438228630095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1379
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7b7b77e438e780800000000000000
+      internalID: -8653608515178627588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1299
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ae214cb0eb4ac0800000000000000
+      internalID: -3869752355642759199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1299
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ce7cbf322624b0800000000000000
+      internalID: -5465643440626810454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1219
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a931eddde696ee9b0800000000000000
+      internalID: -5048982207346109542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1219
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d05fbf690ffc30800000000000000
+      internalID: 4395242136892658046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1139
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178da5abc9897970800000000000000
+      internalID: 8753178858522248977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1139
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed67341c42b12d0800000000000000
+      internalID: -3307009088894345649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1059
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4407bae8b848770800000000000000
+      internalID: 8612161832317109427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 979
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81f61e969049c3d0800000000000000
+      internalID: -3185944245746339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 899
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bca595454b80630800000000000000
+      internalID: 3893560152231168795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 819
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890ea2315bfdb260800000000000000
+      internalID: 7115119312476440970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 736
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e236353e18af80b0800000000000000
+      internalID: -5724171753669381407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 659
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978b23fc2b319fc90800000000000000
+      internalID: -7135650475890526087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 560
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a858cd5a507401b0800000000000000
+      internalID: -5691300495666685784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 415
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12767db0a5eae37b0800000000000000
+      internalID: -5242561214443722975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 334
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b7f5fc77f50b50800000000000000
+      internalID: 6558920548409651598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 253
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dab944b629ad8c0800000000000000
+      internalID: -3973702731790832313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 171
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73b87326f54d440800000000000000
+      internalID: 4959693965085063127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 89
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215afd071325b080800000000000000
+      internalID: -9172386484144418521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_IronMaiden_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500ffd3d79992250800000000000000
+      internalID: 5920431948345311318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

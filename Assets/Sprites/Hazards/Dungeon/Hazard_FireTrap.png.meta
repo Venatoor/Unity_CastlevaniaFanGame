@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 012751f94f375994cb868744e8bae701
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -824926138219164253
+    second: Hazard_FireTrap_0
+  - first:
+      213: 101658073880503475
+    second: Hazard_FireTrap_1
+  - first:
+      213: 3788325538545305743
+    second: Hazard_FireTrap_2
+  - first:
+      213: 3593089864794075120
+    second: Hazard_FireTrap_3
+  - first:
+      213: 8434882776392522368
+    second: Hazard_FireTrap_4
+  - first:
+      213: -2854056736727236518
+    second: Hazard_FireTrap_5
+  - first:
+      213: 3823664722145629295
+    second: Hazard_FireTrap_6
+  - first:
+      213: 2960578282046436992
+    second: Hazard_FireTrap_7
+  - first:
+      213: -3759183408501478220
+    second: Hazard_FireTrap_8
+  - first:
+      213: 4025752754803733527
+    second: Hazard_FireTrap_9
+  - first:
+      213: 4799162466814543213
+    second: Hazard_FireTrap_10
+  - first:
+      213: 5804121239705410393
+    second: Hazard_FireTrap_11
+  - first:
+      213: -501723599640438879
+    second: Hazard_FireTrap_12
+  - first:
+      213: 29776590736357424
+    second: Hazard_FireTrap_13
+  - first:
+      213: 3265709315440183577
+    second: Hazard_FireTrap_14
+  - first:
+      213: 1878894539541048462
+    second: Hazard_FireTrap_15
+  - first:
+      213: -8665357894131624514
+    second: Hazard_FireTrap_16
+  - first:
+      213: 7315489476029497815
+    second: Hazard_FireTrap_17
+  - first:
+      213: 3375763810809455303
+    second: Hazard_FireTrap_18
+  - first:
+      213: 8851690082135550484
+    second: Hazard_FireTrap_19
+  - first:
+      213: 6730645374338162471
+    second: Hazard_FireTrap_20
+  - first:
+      213: 8234290619430006994
+    second: Hazard_FireTrap_21
+  - first:
+      213: -38509338796647136
+    second: Hazard_FireTrap_22
+  - first:
+      213: -5153443979855232202
+    second: Hazard_FireTrap_23
+  - first:
+      213: -8021533327596399854
+    second: Hazard_FireTrap_24
+  - first:
+      213: 4131290106940958339
+    second: Hazard_FireTrap_25
+  - first:
+      213: 7638019624919516172
+    second: Hazard_FireTrap_26
+  - first:
+      213: 740036367469386121
+    second: Hazard_FireTrap_27
+  - first:
+      213: 2541575573825263677
+    second: Hazard_FireTrap_28
+  - first:
+      213: -5933680464744674590
+    second: Hazard_FireTrap_29
+  - first:
+      213: -6279189001696663081
+    second: Hazard_FireTrap_30
+  - first:
+      213: -3149899621874095866
+    second: Hazard_FireTrap_31
+  - first:
+      213: -9101859059589609475
+    second: Hazard_FireTrap_32
+  - first:
+      213: -2272602131339937862
+    second: Hazard_FireTrap_33
+  - first:
+      213: -3365866816466082805
+    second: Hazard_FireTrap_34
+  - first:
+      213: -6150346005472593547
+    second: Hazard_FireTrap_35
+  - first:
+      213: 7338354851269243443
+    second: Hazard_FireTrap_36
+  - first:
+      213: -922152920370014528
+    second: Hazard_FireTrap_37
+  - first:
+      213: 2536532839313513789
+    second: Hazard_FireTrap_38
+  - first:
+      213: 5591900576820201490
+    second: Hazard_FireTrap_39
+  - first:
+      213: -6364014863143198704
+    second: Hazard_FireTrap_40
+  - first:
+      213: 7620045275605038345
+    second: Hazard_FireTrap_41
+  - first:
+      213: 2418760431284275100
+    second: Hazard_FireTrap_42
+  - first:
+      213: 4122344460595187065
+    second: Hazard_FireTrap_43
+  - first:
+      213: 1819644400670173801
+    second: Hazard_FireTrap_44
+  - first:
+      213: -3363940041632143888
+    second: Hazard_FireTrap_45
+  - first:
+      213: -2875275975595322975
+    second: Hazard_FireTrap_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazard_FireTrap_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1137
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad03854c064d84f0800000000000000
+      internalID: -824926138219164253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a236ca79296100800000000000000
+      internalID: 101658073880503475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1137
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8888828106d29430800000000000000
+      internalID: 3788325538545305743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 897
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff6b1de1383dd130800000000000000
+      internalID: 3593089864794075120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 897
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08adfe8f139be0570800000000000000
+      internalID: 8434882776392522368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 657
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a500096f48a5468d0800000000000000
+      internalID: -2854056736727236518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 657
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64deaf5ec2601530800000000000000
+      internalID: 3823664722145629295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 417
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863d1ff246161920800000000000000
+      internalID: 2960578282046436992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 417
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc2ab26b92b4dbc0800000000000000
+      internalID: -3759183408501478220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 177
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71470a71dc85ed730800000000000000
+      internalID: 4025752754803733527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654ed526dc0a9240800000000000000
+      internalID: 4799162466814543213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd0f514816c8050800000000000000
+      internalID: 5804121239705410393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_12
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7500c5b058909f0800000000000000
+      internalID: -501723599640438879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387679c6a9c96000800000000000000
+      internalID: 29776590736357424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9190f76e151225d20800000000000000
+      internalID: 3265709315440183577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_15
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce3cff0ac231a10800000000000000
+      internalID: 1878894539541048462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_16
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb558a408e67eb780800000000000000
+      internalID: -8665357894131624514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_17
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c8d85be6d58560800000000000000
+      internalID: 7315489476029497815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_18
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2aae4ec4f19de20800000000000000
+      internalID: 3375763810809455303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_19
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa98f3b3587da70800000000000000
+      internalID: 8851690082135550484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_20
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5d86be4e086d50800000000000000
+      internalID: 6730645374338162471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_21
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 145
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f474f0b3164270800000000000000
+      internalID: 8234290619430006994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 113
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9d7cd5ff277ff0800000000000000
+      internalID: -38509338796647136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_23
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 121
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338ad2210a4b78b0800000000000000
+      internalID: -5153443979855232202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_24
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 121
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d8ae30f9cda090800000000000000
+      internalID: -8021533327596399854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 121
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3862d48b67a455930800000000000000
+      internalID: 4131290106940958339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_26
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c044ac28162bff960800000000000000
+      internalID: 7638019624919516172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_27
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98912e3c723254a00800000000000000
+      internalID: 740036367469386121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_28
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381aafb48d754320800000000000000
+      internalID: 2541575573825263677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_29
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea08382e0557ada0800000000000000
+      internalID: -5933680464744674590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_30
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 65
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9a45c1fd6dbd8a0800000000000000
+      internalID: -6279189001696663081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_31
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 73
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ae089bfe4944d0800000000000000
+      internalID: -3149899621874095866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 17
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78d75b863bfa180800000000000000
+      internalID: -9101859059589609475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_33
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 17
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ffadf6681670e0800000000000000
+      internalID: -2272602131339937862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_34
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 17
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a34ba6f90a41d0800000000000000
+      internalID: -3365866816466082805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_35
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579301ad4e495aaa0800000000000000
+      internalID: -6150346005472593547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_36
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332faa16bd217d560800000000000000
+      internalID: 7338354851269243443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_37
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c691c00ecad333f0800000000000000
+      internalID: -922152920370014528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_38
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1560ad23933320800000000000000
+      internalID: 2536532839313513789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_39
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188bac82fb6a9d40800000000000000
+      internalID: 5591900576820201490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_40
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0102b01333a7ea7a0800000000000000
+      internalID: -6364014863143198704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_41
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f4d03ec6dfb960800000000000000
+      internalID: 7620045275605038345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_42
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97487f0cc9219120800000000000000
+      internalID: 2418760431284275100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_43
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d439f1272853930800000000000000
+      internalID: 4122344460595187065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_44
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a697701fca04910800000000000000
+      internalID: 1819644400670173801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_45
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5adc4ea52e051d0800000000000000
+      internalID: -3363940041632143888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazard_FireTrap_46
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11d6bebb7f818d0800000000000000
+      internalID: -2875275975595322975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

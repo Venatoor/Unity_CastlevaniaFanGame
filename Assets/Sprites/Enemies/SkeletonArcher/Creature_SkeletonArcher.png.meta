@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: f8bb08e409b640446bda11d27dc44428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4680690659578379259
+    second: Creature_SkeletonArcher_0
+  - first:
+      213: 8086049901490733244
+    second: Creature_SkeletonArcher_1
+  - first:
+      213: 546032578368331260
+    second: Creature_SkeletonArcher_2
+  - first:
+      213: -494399396938059315
+    second: Creature_SkeletonArcher_3
+  - first:
+      213: 1409808895008823907
+    second: Creature_SkeletonArcher_4
+  - first:
+      213: -6999860365357623170
+    second: Creature_SkeletonArcher_5
+  - first:
+      213: -5933119766312616752
+    second: Creature_SkeletonArcher_6
+  - first:
+      213: -3861458922503810885
+    second: Creature_SkeletonArcher_7
+  - first:
+      213: 8287637003315427136
+    second: Creature_SkeletonArcher_8
+  - first:
+      213: -6958016898991275930
+    second: Creature_SkeletonArcher_9
+  - first:
+      213: -8915190800439012587
+    second: Creature_SkeletonArcher_10
+  - first:
+      213: 215787915918434802
+    second: Creature_SkeletonArcher_11
+  - first:
+      213: -3726117049925807945
+    second: Creature_SkeletonArcher_12
+  - first:
+      213: 6532739641064150827
+    second: Creature_SkeletonArcher_13
+  - first:
+      213: -1624538769133892019
+    second: Creature_SkeletonArcher_14
+  - first:
+      213: -1277790517115683943
+    second: Creature_SkeletonArcher_15
+  - first:
+      213: 3130464556148151383
+    second: Creature_SkeletonArcher_16
+  - first:
+      213: -2888572681285216401
+    second: Creature_SkeletonArcher_17
+  - first:
+      213: 185249249197828635
+    second: Creature_SkeletonArcher_18
+  - first:
+      213: 3394297747388231399
+    second: Creature_SkeletonArcher_19
+  - first:
+      213: -902645694446213209
+    second: Creature_SkeletonArcher_20
+  - first:
+      213: 928956683001976433
+    second: Creature_SkeletonArcher_21
+  - first:
+      213: -906057846683934605
+    second: Creature_SkeletonArcher_22
+  - first:
+      213: -2406298293210484801
+    second: Creature_SkeletonArcher_23
+  - first:
+      213: 8200823623589900834
+    second: Creature_SkeletonArcher_24
+  - first:
+      213: -3168719133770148555
+    second: Creature_SkeletonArcher_25
+  - first:
+      213: -1886786385683690786
+    second: Creature_SkeletonArcher_26
+  - first:
+      213: -534802260662558995
+    second: Creature_SkeletonArcher_27
+  - first:
+      213: 1787079821459685287
+    second: Creature_SkeletonArcher_28
+  - first:
+      213: -5993699429660263983
+    second: Creature_SkeletonArcher_29
+  - first:
+      213: -1922302460120686590
+    second: Creature_SkeletonArcher_30
+  - first:
+      213: 3928421443205235759
+    second: Creature_SkeletonArcher_31
+  - first:
+      213: 4081768329936752462
+    second: Creature_SkeletonArcher_32
+  - first:
+      213: 3466974022120522357
+    second: Creature_SkeletonArcher_33
+  - first:
+      213: 600498110030228021
+    second: Creature_SkeletonArcher_34
+  - first:
+      213: -3172186611885152082
+    second: Creature_SkeletonArcher_35
+  - first:
+      213: -1690419864546191143
+    second: Creature_SkeletonArcher_36
+  - first:
+      213: 1879990170105745760
+    second: Creature_SkeletonArcher_37
+  - first:
+      213: -6756262779572570866
+    second: Creature_SkeletonArcher_38
+  - first:
+      213: -1400811831264102373
+    second: Creature_SkeletonArcher_39
+  - first:
+      213: -1629789957077494049
+    second: Creature_SkeletonArcher_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1220
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb78a30b5725f040800000000000000
+      internalID: 4680690659578379259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1220
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0007e2b8b673070800000000000000
+      internalID: 8086049901490733244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1156
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5f6dacb5e39700800000000000000
+      internalID: 546032578368331260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1156
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f6503e5a8329f0800000000000000
+      internalID: -494399396938059315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1089
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36adf2478b5a09310800000000000000
+      internalID: 1409808895008823907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1092
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d585a5108bde90800000000000000
+      internalID: -6999860365357623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1028
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc761fe10359ada0800000000000000
+      internalID: -5933119766312616752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1028
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d561a197596ac0800000000000000
+      internalID: -3861458922503810885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 967
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047bff9d1f9930370800000000000000
+      internalID: 8287637003315427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 964
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c57ade78207f90800000000000000
+      internalID: -6958016898991275930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 930
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5139003a331e64480800000000000000
+      internalID: -8915190800439012587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 900
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e32b57f1aef200800000000000000
+      internalID: 215787915918434802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 858
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b055afe84c2a4cc0800000000000000
+      internalID: -3726117049925807945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 850
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27ddb37714f8aa50800000000000000
+      internalID: 6532739641064150827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 772
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e8cedb89a7479e0800000000000000
+      internalID: -1624538769133892019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 772
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf4f17b40644ee0800000000000000
+      internalID: -1277790517115683943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 708
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754592b8de4a17b20800000000000000
+      internalID: 3130464556148151383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 708
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d810637ab9e7d0800000000000000
+      internalID: -2888572681285216401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 644
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a285de533229200800000000000000
+      internalID: 185249249197828635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 647
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeebf641d7fa1f20800000000000000
+      internalID: 3394297747388231399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 644
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a76f78f5882973f0800000000000000
+      internalID: -902645694446213209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 580
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176de0e6e2154ec00800000000000000
+      internalID: 928956683001976433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 580
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370e27e50390d63f0800000000000000
+      internalID: -906057846683934605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 516
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6f81937c1b9ed0800000000000000
+      internalID: -2406298293210484801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 516
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22235b5c2ad2fc170800000000000000
+      internalID: 8200823623589900834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 452
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53595a68cb27604d0800000000000000
+      internalID: -3168719133770148555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 452
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac74267c9c0d5e0800000000000000
+      internalID: -1886786385683690786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 388
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed12c6d200498f0800000000000000
+      internalID: -534802260662558995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 401
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af7f5711abfcc810800000000000000
+      internalID: 1787079821459685287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_29
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 337
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d973acef1a12dca0800000000000000
+      internalID: -5993699429660263983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 337
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a5a9e81c9255e0800000000000000
+      internalID: -1922302460120686590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 260
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24864a2d7e848630800000000000000
+      internalID: 3928421443205235759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 274
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc1518baa55a830800000000000000
+      internalID: 4081768329936752462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572400a118a2d1030800000000000000
+      internalID: 3466974022120522357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_34
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 196
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a25a879d5655800800000000000000
+      internalID: 600498110030228021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e55d55112af3d0800000000000000
+      internalID: -3172186611885152082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d574e61c6a88e0800000000000000
+      internalID: -1690419864546191143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061116e5911171a10800000000000000
+      internalID: 1879990170105745760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 68
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0532665cceec32a0800000000000000
+      internalID: -6756262779572570866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b650bf015f8ce0800000000000000
+      internalID: -1400811831264102373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_SkeletonArcher_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd695e54ba2d169e0800000000000000
+      internalID: -1629789957077494049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

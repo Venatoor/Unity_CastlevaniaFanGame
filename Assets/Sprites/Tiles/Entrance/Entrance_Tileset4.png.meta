@@ -1,0 +1,7620 @@
+fileFormatVersion: 2
+guid: 52a5dcfd5a3b526488bd23f336740ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7736688646259519961
+    second: Entrance_Tileset4_0
+  - first:
+      213: 7612618125756864730
+    second: Entrance_Tileset4_1
+  - first:
+      213: 5875106300507069067
+    second: Entrance_Tileset4_2
+  - first:
+      213: -3516262437556374465
+    second: Entrance_Tileset4_3
+  - first:
+      213: 5355191332057136656
+    second: Entrance_Tileset4_4
+  - first:
+      213: 5433908003457518730
+    second: Entrance_Tileset4_5
+  - first:
+      213: 6587354899289673768
+    second: Entrance_Tileset4_6
+  - first:
+      213: 2614542842373745572
+    second: Entrance_Tileset4_7
+  - first:
+      213: 1174152102232355858
+    second: Entrance_Tileset4_8
+  - first:
+      213: 6104468160892682015
+    second: Entrance_Tileset4_9
+  - first:
+      213: -1703087715572053260
+    second: Entrance_Tileset4_10
+  - first:
+      213: 6807061740656309773
+    second: Entrance_Tileset4_11
+  - first:
+      213: -9025921472519214532
+    second: Entrance_Tileset4_12
+  - first:
+      213: -370218925029087439
+    second: Entrance_Tileset4_13
+  - first:
+      213: 3042612050744597225
+    second: Entrance_Tileset4_14
+  - first:
+      213: 4768995015955580054
+    second: Entrance_Tileset4_15
+  - first:
+      213: 6050383082526755656
+    second: Entrance_Tileset4_16
+  - first:
+      213: 1093503325770559085
+    second: Entrance_Tileset4_17
+  - first:
+      213: -3561188785376059962
+    second: Entrance_Tileset4_18
+  - first:
+      213: 8436579693573020362
+    second: Entrance_Tileset4_19
+  - first:
+      213: -2657567795636404518
+    second: Entrance_Tileset4_20
+  - first:
+      213: 7289674636876206265
+    second: Entrance_Tileset4_21
+  - first:
+      213: 4009547273435887942
+    second: Entrance_Tileset4_22
+  - first:
+      213: 5092668118145743578
+    second: Entrance_Tileset4_23
+  - first:
+      213: -4437457622688720443
+    second: Entrance_Tileset4_24
+  - first:
+      213: -1073928926538699264
+    second: Entrance_Tileset4_25
+  - first:
+      213: 4060618578198907795
+    second: Entrance_Tileset4_26
+  - first:
+      213: -7563359924121437017
+    second: Entrance_Tileset4_27
+  - first:
+      213: 143239338153558943
+    second: Entrance_Tileset4_28
+  - first:
+      213: -4162064093084982358
+    second: Entrance_Tileset4_29
+  - first:
+      213: -7241575905107311225
+    second: Entrance_Tileset4_30
+  - first:
+      213: -7756755878687325163
+    second: Entrance_Tileset4_31
+  - first:
+      213: -7875076854517075246
+    second: Entrance_Tileset4_32
+  - first:
+      213: 8112667370454682111
+    second: Entrance_Tileset4_33
+  - first:
+      213: -9065099784226335642
+    second: Entrance_Tileset4_34
+  - first:
+      213: 4469272170111888144
+    second: Entrance_Tileset4_35
+  - first:
+      213: -5567098076196325098
+    second: Entrance_Tileset4_36
+  - first:
+      213: -4820134370758311312
+    second: Entrance_Tileset4_37
+  - first:
+      213: 8139068261361501852
+    second: Entrance_Tileset4_38
+  - first:
+      213: -7322676238503455539
+    second: Entrance_Tileset4_39
+  - first:
+      213: 5723839808182910698
+    second: Entrance_Tileset4_40
+  - first:
+      213: 8073141848497547125
+    second: Entrance_Tileset4_41
+  - first:
+      213: 4676559363512125845
+    second: Entrance_Tileset4_42
+  - first:
+      213: 3007459161133479566
+    second: Entrance_Tileset4_43
+  - first:
+      213: 1423180980368507644
+    second: Entrance_Tileset4_44
+  - first:
+      213: -3431044709199421206
+    second: Entrance_Tileset4_45
+  - first:
+      213: -1956998153856520347
+    second: Entrance_Tileset4_46
+  - first:
+      213: -4104497223852348468
+    second: Entrance_Tileset4_47
+  - first:
+      213: -6159424750651811978
+    second: Entrance_Tileset4_48
+  - first:
+      213: -6978059047535978201
+    second: Entrance_Tileset4_49
+  - first:
+      213: -8620583485538802281
+    second: Entrance_Tileset4_50
+  - first:
+      213: -6277718505409258317
+    second: Entrance_Tileset4_51
+  - first:
+      213: -578938903603210161
+    second: Entrance_Tileset4_52
+  - first:
+      213: 2910696687719682108
+    second: Entrance_Tileset4_53
+  - first:
+      213: 858347247940285734
+    second: Entrance_Tileset4_54
+  - first:
+      213: 1203542464383991521
+    second: Entrance_Tileset4_55
+  - first:
+      213: -141526968971362013
+    second: Entrance_Tileset4_56
+  - first:
+      213: 6254873502394268062
+    second: Entrance_Tileset4_57
+  - first:
+      213: -4569166201221724553
+    second: Entrance_Tileset4_58
+  - first:
+      213: -521589133722676733
+    second: Entrance_Tileset4_59
+  - first:
+      213: -8134655293714099147
+    second: Entrance_Tileset4_60
+  - first:
+      213: -314642651161169257
+    second: Entrance_Tileset4_61
+  - first:
+      213: 3538744959940333199
+    second: Entrance_Tileset4_62
+  - first:
+      213: -3434896521542550121
+    second: Entrance_Tileset4_63
+  - first:
+      213: -1582106124874820781
+    second: Entrance_Tileset4_64
+  - first:
+      213: 8436007418008589013
+    second: Entrance_Tileset4_65
+  - first:
+      213: -6425361824208421574
+    second: Entrance_Tileset4_66
+  - first:
+      213: 443098816958836575
+    second: Entrance_Tileset4_67
+  - first:
+      213: -8809532334174451706
+    second: Entrance_Tileset4_68
+  - first:
+      213: 2714893600858718992
+    second: Entrance_Tileset4_69
+  - first:
+      213: 752201613074006831
+    second: Entrance_Tileset4_70
+  - first:
+      213: -4801625066356362595
+    second: Entrance_Tileset4_71
+  - first:
+      213: -5383857782129035914
+    second: Entrance_Tileset4_72
+  - first:
+      213: 2987152841128208428
+    second: Entrance_Tileset4_73
+  - first:
+      213: -2699710290213518137
+    second: Entrance_Tileset4_74
+  - first:
+      213: 8314007031919393351
+    second: Entrance_Tileset4_75
+  - first:
+      213: -4391639494923402821
+    second: Entrance_Tileset4_76
+  - first:
+      213: 177818076540350470
+    second: Entrance_Tileset4_77
+  - first:
+      213: -6544205655402444867
+    second: Entrance_Tileset4_78
+  - first:
+      213: -4549248381105360285
+    second: Entrance_Tileset4_79
+  - first:
+      213: -8736102530724565685
+    second: Entrance_Tileset4_80
+  - first:
+      213: -7750184836964925468
+    second: Entrance_Tileset4_81
+  - first:
+      213: -1524997534750670698
+    second: Entrance_Tileset4_82
+  - first:
+      213: 4404263869053459423
+    second: Entrance_Tileset4_83
+  - first:
+      213: -5984304410767206566
+    second: Entrance_Tileset4_84
+  - first:
+      213: -8107934429766783668
+    second: Entrance_Tileset4_85
+  - first:
+      213: -4899546628797449321
+    second: Entrance_Tileset4_86
+  - first:
+      213: -817062045296219531
+    second: Entrance_Tileset4_87
+  - first:
+      213: 1701824461711800309
+    second: Entrance_Tileset4_88
+  - first:
+      213: 5158715820578582574
+    second: Entrance_Tileset4_89
+  - first:
+      213: 1134264202193120538
+    second: Entrance_Tileset4_90
+  - first:
+      213: -7158530473158812300
+    second: Entrance_Tileset4_91
+  - first:
+      213: -7388520220359539609
+    second: Entrance_Tileset4_92
+  - first:
+      213: 8032532672624107082
+    second: Entrance_Tileset4_93
+  - first:
+      213: 9123237826109523608
+    second: Entrance_Tileset4_94
+  - first:
+      213: 5674641329640344928
+    second: Entrance_Tileset4_95
+  - first:
+      213: 2518888060203928394
+    second: Entrance_Tileset4_96
+  - first:
+      213: 1469330863111578937
+    second: Entrance_Tileset4_97
+  - first:
+      213: -6899084334357951792
+    second: Entrance_Tileset4_98
+  - first:
+      213: -3917253761920529888
+    second: Entrance_Tileset4_99
+  - first:
+      213: -1312897571140757813
+    second: Entrance_Tileset4_100
+  - first:
+      213: 3644346968702221248
+    second: Entrance_Tileset4_101
+  - first:
+      213: 7997595327124978181
+    second: Entrance_Tileset4_102
+  - first:
+      213: 2461525212614063162
+    second: Entrance_Tileset4_103
+  - first:
+      213: -5199045173695126282
+    second: Entrance_Tileset4_104
+  - first:
+      213: -8994074122738189943
+    second: Entrance_Tileset4_105
+  - first:
+      213: -403769242606585714
+    second: Entrance_Tileset4_106
+  - first:
+      213: -1958768594685205587
+    second: Entrance_Tileset4_107
+  - first:
+      213: -4689481302610621854
+    second: Entrance_Tileset4_108
+  - first:
+      213: 7703729794165931856
+    second: Entrance_Tileset4_109
+  - first:
+      213: 4581372915777176383
+    second: Entrance_Tileset4_110
+  - first:
+      213: -867615699781748149
+    second: Entrance_Tileset4_111
+  - first:
+      213: -4503900351344354105
+    second: Entrance_Tileset4_112
+  - first:
+      213: -2896431633229664674
+    second: Entrance_Tileset4_113
+  - first:
+      213: 417045474233534370
+    second: Entrance_Tileset4_114
+  - first:
+      213: 1608935595579843747
+    second: Entrance_Tileset4_115
+  - first:
+      213: 4033149948547528265
+    second: Entrance_Tileset4_116
+  - first:
+      213: 227853589864417149
+    second: Entrance_Tileset4_117
+  - first:
+      213: -8106326273841065454
+    second: Entrance_Tileset4_118
+  - first:
+      213: -4428595846695402095
+    second: Entrance_Tileset4_119
+  - first:
+      213: 7042457180408055678
+    second: Entrance_Tileset4_120
+  - first:
+      213: -8943101779823349603
+    second: Entrance_Tileset4_121
+  - first:
+      213: 8923560377488158395
+    second: Entrance_Tileset4_122
+  - first:
+      213: 9021797153510753206
+    second: Entrance_Tileset4_123
+  - first:
+      213: -2752398651135109662
+    second: Entrance_Tileset4_124
+  - first:
+      213: -406335789471362177
+    second: Entrance_Tileset4_125
+  - first:
+      213: 8593056212828258836
+    second: Entrance_Tileset4_126
+  - first:
+      213: 4176226521389668516
+    second: Entrance_Tileset4_127
+  - first:
+      213: 88093112007682777
+    second: Entrance_Tileset4_128
+  - first:
+      213: 1226346772146181651
+    second: Entrance_Tileset4_129
+  - first:
+      213: -2191712874903325220
+    second: Entrance_Tileset4_130
+  - first:
+      213: 8170779826929969290
+    second: Entrance_Tileset4_131
+  - first:
+      213: 5159967565914696520
+    second: Entrance_Tileset4_132
+  - first:
+      213: -1513532119382658410
+    second: Entrance_Tileset4_133
+  - first:
+      213: 3558699714267555555
+    second: Entrance_Tileset4_134
+  - first:
+      213: -8451801736194623159
+    second: Entrance_Tileset4_135
+  - first:
+      213: 3285646028412424750
+    second: Entrance_Tileset4_136
+  - first:
+      213: 710520407904533686
+    second: Entrance_Tileset4_137
+  - first:
+      213: -2786333996701837144
+    second: Entrance_Tileset4_138
+  - first:
+      213: 6497454139749887437
+    second: Entrance_Tileset4_139
+  - first:
+      213: -75072281219989593
+    second: Entrance_Tileset4_140
+  - first:
+      213: 8600688320158088877
+    second: Entrance_Tileset4_141
+  - first:
+      213: -3588579476941783836
+    second: Entrance_Tileset4_142
+  - first:
+      213: -1190614115774799889
+    second: Entrance_Tileset4_143
+  - first:
+      213: -8801163917258376530
+    second: Entrance_Tileset4_144
+  - first:
+      213: -5427336435113205871
+    second: Entrance_Tileset4_145
+  - first:
+      213: 4159489033653924416
+    second: Entrance_Tileset4_146
+  - first:
+      213: -2924364674211507950
+    second: Entrance_Tileset4_147
+  - first:
+      213: 4418643186324616844
+    second: Entrance_Tileset4_148
+  - first:
+      213: -6359565851277393740
+    second: Entrance_Tileset4_149
+  - first:
+      213: 982025316048644970
+    second: Entrance_Tileset4_150
+  - first:
+      213: -5254038839590650111
+    second: Entrance_Tileset4_151
+  - first:
+      213: -4713616169568127817
+    second: Entrance_Tileset4_152
+  - first:
+      213: 2229120486555936994
+    second: Entrance_Tileset4_153
+  - first:
+      213: -8126839465655237137
+    second: Entrance_Tileset4_154
+  - first:
+      213: 1639455147142948275
+    second: Entrance_Tileset4_155
+  - first:
+      213: 7085782019348098194
+    second: Entrance_Tileset4_156
+  - first:
+      213: -4075271763821989380
+    second: Entrance_Tileset4_157
+  - first:
+      213: 5100885950382649508
+    second: Entrance_Tileset4_158
+  - first:
+      213: -4210708636366790978
+    second: Entrance_Tileset4_159
+  - first:
+      213: -4568109135459520140
+    second: Entrance_Tileset4_160
+  - first:
+      213: 7970440338480956282
+    second: Entrance_Tileset4_161
+  - first:
+      213: -1648784002124129813
+    second: Entrance_Tileset4_162
+  - first:
+      213: 2358770403121581009
+    second: Entrance_Tileset4_163
+  - first:
+      213: -1268178844422717781
+    second: Entrance_Tileset4_164
+  - first:
+      213: 6280471705562543672
+    second: Entrance_Tileset4_165
+  - first:
+      213: -6835571290180697920
+    second: Entrance_Tileset4_166
+  - first:
+      213: -7233047519727569867
+    second: Entrance_Tileset4_167
+  - first:
+      213: -1635367323728701635
+    second: Entrance_Tileset4_168
+  - first:
+      213: -7964920336866013711
+    second: Entrance_Tileset4_169
+  - first:
+      213: -5924762182630817181
+    second: Entrance_Tileset4_170
+  - first:
+      213: 2741219311714116287
+    second: Entrance_Tileset4_171
+  - first:
+      213: 2140460151212955395
+    second: Entrance_Tileset4_172
+  - first:
+      213: 3460732720702379721
+    second: Entrance_Tileset4_173
+  - first:
+      213: 5485558008181326266
+    second: Entrance_Tileset4_174
+  - first:
+      213: 5119071459223684469
+    second: Entrance_Tileset4_175
+  - first:
+      213: 3468663547862875650
+    second: Entrance_Tileset4_176
+  - first:
+      213: 2505124112385176807
+    second: Entrance_Tileset4_177
+  - first:
+      213: 3898222209917301109
+    second: Entrance_Tileset4_178
+  - first:
+      213: 3541730735795896826
+    second: Entrance_Tileset4_179
+  - first:
+      213: 7950973367588516348
+    second: Entrance_Tileset4_180
+  - first:
+      213: 7908918979175402835
+    second: Entrance_Tileset4_181
+  - first:
+      213: -6639900897839217278
+    second: Entrance_Tileset4_182
+  - first:
+      213: 6246252864316785964
+    second: Entrance_Tileset4_183
+  - first:
+      213: 4739832239487538511
+    second: Entrance_Tileset4_184
+  - first:
+      213: -6767057493190730098
+    second: Entrance_Tileset4_185
+  - first:
+      213: 1238001547079415320
+    second: Entrance_Tileset4_186
+  - first:
+      213: -1428449548666387826
+    second: Entrance_Tileset4_187
+  - first:
+      213: -6234217562845576990
+    second: Entrance_Tileset4_188
+  - first:
+      213: 5248461570466770063
+    second: Entrance_Tileset4_189
+  - first:
+      213: 5152626560941727628
+    second: Entrance_Tileset4_190
+  - first:
+      213: 7989951409801550200
+    second: Entrance_Tileset4_191
+  - first:
+      213: 1655050516545758115
+    second: Entrance_Tileset4_192
+  - first:
+      213: -241232723816655208
+    second: Entrance_Tileset4_193
+  - first:
+      213: 5926871696024872908
+    second: Entrance_Tileset4_194
+  - first:
+      213: -3966000740388839755
+    second: Entrance_Tileset4_195
+  - first:
+      213: -2871319328769932058
+    second: Entrance_Tileset4_196
+  - first:
+      213: -2818915323183200200
+    second: Entrance_Tileset4_197
+  - first:
+      213: -8528010691518102637
+    second: Entrance_Tileset4_198
+  - first:
+      213: 7604675994975968157
+    second: Entrance_Tileset4_199
+  - first:
+      213: -5568024436336126194
+    second: Entrance_Tileset4_200
+  - first:
+      213: 6475879667802056775
+    second: Entrance_Tileset4_201
+  - first:
+      213: -2291631944719168080
+    second: Entrance_Tileset4_202
+  - first:
+      213: -7615344265212533282
+    second: Entrance_Tileset4_203
+  - first:
+      213: -4664871259485312098
+    second: Entrance_Tileset4_204
+  - first:
+      213: -3283853414311517907
+    second: Entrance_Tileset4_205
+  - first:
+      213: -6289355810303308534
+    second: Entrance_Tileset4_206
+  - first:
+      213: -4062205213626597053
+    second: Entrance_Tileset4_207
+  - first:
+      213: -6343343272772501504
+    second: Entrance_Tileset4_208
+  - first:
+      213: -3330945279657194569
+    second: Entrance_Tileset4_209
+  - first:
+      213: 9222692172041110166
+    second: Entrance_Tileset4_210
+  - first:
+      213: 5197371687857185659
+    second: Entrance_Tileset4_211
+  - first:
+      213: -6029285152394957854
+    second: Entrance_Tileset4_212
+  - first:
+      213: 6669518253802487754
+    second: Entrance_Tileset4_213
+  - first:
+      213: -8535815719096421196
+    second: Entrance_Tileset4_214
+  - first:
+      213: 1079661418413009491
+    second: Entrance_Tileset4_215
+  - first:
+      213: -5761521835130282789
+    second: Entrance_Tileset4_216
+  - first:
+      213: -1690824755503769000
+    second: Entrance_Tileset4_217
+  - first:
+      213: -4480260714253313828
+    second: Entrance_Tileset4_218
+  - first:
+      213: 2444034862898374903
+    second: Entrance_Tileset4_219
+  - first:
+      213: 2409729648570530261
+    second: Entrance_Tileset4_220
+  - first:
+      213: -4315040355956954879
+    second: Entrance_Tileset4_221
+  - first:
+      213: 2994165980452616300
+    second: Entrance_Tileset4_222
+  - first:
+      213: 9076933919595046883
+    second: Entrance_Tileset4_223
+  - first:
+      213: 5787923113860699752
+    second: Entrance_Tileset4_224
+  - first:
+      213: -726253900455182876
+    second: Entrance_Tileset4_225
+  - first:
+      213: 8034656395264868736
+    second: Entrance_Tileset4_226
+  - first:
+      213: 4455728312964060910
+    second: Entrance_Tileset4_227
+  - first:
+      213: 7339762599375384266
+    second: Entrance_Tileset4_228
+  - first:
+      213: 8397328631004411605
+    second: Entrance_Tileset4_229
+  - first:
+      213: 167594242798261904
+    second: Entrance_Tileset4_230
+  - first:
+      213: 7935146940112754566
+    second: Entrance_Tileset4_231
+  - first:
+      213: 6496519233579702815
+    second: Entrance_Tileset4_232
+  - first:
+      213: -1139584703250197069
+    second: Entrance_Tileset4_233
+  - first:
+      213: -1299709098104245183
+    second: Entrance_Tileset4_234
+  - first:
+      213: 4917419860671163726
+    second: Entrance_Tileset4_235
+  - first:
+      213: 187193513179290562
+    second: Entrance_Tileset4_236
+  - first:
+      213: -8817919204462665370
+    second: Entrance_Tileset4_237
+  - first:
+      213: 8028591255207106824
+    second: Entrance_Tileset4_238
+  - first:
+      213: 3511323144349656887
+    second: Entrance_Tileset4_239
+  - first:
+      213: 701362129068551748
+    second: Entrance_Tileset4_240
+  - first:
+      213: 2451739356017973008
+    second: Entrance_Tileset4_241
+  - first:
+      213: -4695244047723773437
+    second: Entrance_Tileset4_242
+  - first:
+      213: -7037739880050545439
+    second: Entrance_Tileset4_243
+  - first:
+      213: 296741672065802533
+    second: Entrance_Tileset4_244
+  - first:
+      213: 5997795142077289526
+    second: Entrance_Tileset4_245
+  - first:
+      213: 8255498175973645997
+    second: Entrance_Tileset4_246
+  - first:
+      213: -2518579110477471212
+    second: Entrance_Tileset4_247
+  - first:
+      213: 4097811552351140817
+    second: Entrance_Tileset4_248
+  - first:
+      213: 3026976620205271477
+    second: Entrance_Tileset4_249
+  - first:
+      213: -9046010341588950446
+    second: Entrance_Tileset4_250
+  - first:
+      213: 7858231497124712967
+    second: Entrance_Tileset4_251
+  - first:
+      213: -2805311403372336569
+    second: Entrance_Tileset4_252
+  - first:
+      213: 3149392588881738980
+    second: Entrance_Tileset4_253
+  - first:
+      213: 3933303308902437799
+    second: Entrance_Tileset4_254
+  - first:
+      213: -1226897345551062344
+    second: Entrance_Tileset4_255
+  - first:
+      213: -7736299947739146229
+    second: Entrance_Tileset4_256
+  - first:
+      213: 5180722238856036915
+    second: Entrance_Tileset4_257
+  - first:
+      213: -8503914278051808326
+    second: Entrance_Tileset4_258
+  - first:
+      213: 8120894747911871163
+    second: Entrance_Tileset4_259
+  - first:
+      213: 163829459733321588
+    second: Entrance_Tileset4_260
+  - first:
+      213: -5808090787976333041
+    second: Entrance_Tileset4_261
+  - first:
+      213: -1229696360207411985
+    second: Entrance_Tileset4_262
+  - first:
+      213: 8361390727427547896
+    second: Entrance_Tileset4_263
+  - first:
+      213: -7049719542249163340
+    second: Entrance_Tileset4_264
+  - first:
+      213: -4859206376478986292
+    second: Entrance_Tileset4_265
+  - first:
+      213: -2219986807689828320
+    second: Entrance_Tileset4_266
+  - first:
+      213: 5447782465622712692
+    second: Entrance_Tileset4_267
+  - first:
+      213: 1881388229932184518
+    second: Entrance_Tileset4_268
+  - first:
+      213: -2535193693152771512
+    second: Entrance_Tileset4_269
+  - first:
+      213: 1364966794654491115
+    second: Entrance_Tileset4_270
+  - first:
+      213: 5265007116947572188
+    second: Entrance_Tileset4_271
+  - first:
+      213: 5146224295610136757
+    second: Entrance_Tileset4_272
+  - first:
+      213: -6177365434925471325
+    second: Entrance_Tileset4_273
+  - first:
+      213: -3318005820904739301
+    second: Entrance_Tileset4_274
+  - first:
+      213: 1225485873619145015
+    second: Entrance_Tileset4_275
+  - first:
+      213: -2877449112854225279
+    second: Entrance_Tileset4_276
+  - first:
+      213: -6347894617865793319
+    second: Entrance_Tileset4_277
+  - first:
+      213: 6033803696454879608
+    second: Entrance_Tileset4_278
+  - first:
+      213: -7823029657203854149
+    second: Entrance_Tileset4_279
+  - first:
+      213: 4824490489641544090
+    second: Entrance_Tileset4_280
+  - first:
+      213: -2913973026838466414
+    second: Entrance_Tileset4_281
+  - first:
+      213: -8424486599008735668
+    second: Entrance_Tileset4_282
+  - first:
+      213: -4138710534214620012
+    second: Entrance_Tileset4_283
+  - first:
+      213: 7032544607544937565
+    second: Entrance_Tileset4_284
+  - first:
+      213: 2299093649674255600
+    second: Entrance_Tileset4_285
+  - first:
+      213: -3309850699743124630
+    second: Entrance_Tileset4_286
+  - first:
+      213: 4934481815635085681
+    second: Entrance_Tileset4_287
+  - first:
+      213: -5047359093583881780
+    second: Entrance_Tileset4_288
+  - first:
+      213: 4295203143408653651
+    second: Entrance_Tileset4_289
+  - first:
+      213: 8707177510784855381
+    second: Entrance_Tileset4_290
+  - first:
+      213: 1652233079605040485
+    second: Entrance_Tileset4_291
+  - first:
+      213: -4889319467749583019
+    second: Entrance_Tileset4_292
+  - first:
+      213: 6903540903447360485
+    second: Entrance_Tileset4_293
+  - first:
+      213: -644229547089747184
+    second: Entrance_Tileset4_294
+  - first:
+      213: -4713307085690434110
+    second: Entrance_Tileset4_295
+  - first:
+      213: -3311542578831779415
+    second: Entrance_Tileset4_296
+  - first:
+      213: -1806671048580853242
+    second: Entrance_Tileset4_297
+  - first:
+      213: 773166458097829971
+    second: Entrance_Tileset4_298
+  - first:
+      213: -3733112298266724302
+    second: Entrance_Tileset4_299
+  - first:
+      213: 5755632753125242826
+    second: Entrance_Tileset4_300
+  - first:
+      213: -3538456384491611585
+    second: Entrance_Tileset4_301
+  - first:
+      213: 7530514577066610972
+    second: Entrance_Tileset4_302
+  - first:
+      213: 828960981960709982
+    second: Entrance_Tileset4_303
+  - first:
+      213: 7372521605257369850
+    second: Entrance_Tileset4_304
+  - first:
+      213: 4419634718173785058
+    second: Entrance_Tileset4_305
+  - first:
+      213: 8147349234340852359
+    second: Entrance_Tileset4_306
+  - first:
+      213: 6592136529482224059
+    second: Entrance_Tileset4_307
+  - first:
+      213: -8399245310700966010
+    second: Entrance_Tileset4_308
+  - first:
+      213: 4671691869284055646
+    second: Entrance_Tileset4_309
+  - first:
+      213: -5182404551427069552
+    second: Entrance_Tileset4_310
+  - first:
+      213: 1010532657142640362
+    second: Entrance_Tileset4_311
+  - first:
+      213: -1366188478155871959
+    second: Entrance_Tileset4_312
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 14
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrance_Tileset4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b812455d3e5b60800000000000000
+      internalID: 7736688646259519961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8107c1ad375a960800000000000000
+      internalID: 7612618125756864730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a126b7d02988150800000000000000
+      internalID: 5875106300507069067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34376861f9b33fc0800000000000000
+      internalID: -3516262437556374465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e348bb426715a40800000000000000
+      internalID: 5355191332057136656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ccc300a8e196b40800000000000000
+      internalID: 5433908003457518730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820179d216cfa6b50800000000000000
+      internalID: 6587354899289673768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab2ab9dcd8b84420800000000000000
+      internalID: 2614542842373745572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21476d5bd1d6b4010800000000000000
+      internalID: 1174152102232355858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb0b0137d67b450800000000000000
+      internalID: 6104468160892682015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa0ffbfeba6d58e0800000000000000
+      internalID: -1703087715572053260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06b8f7769a877e50800000000000000
+      internalID: 6807061740656309773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aebebfd3c7db280800000000000000
+      internalID: -9025921472519214532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 404.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137a38469d7bcdaf0800000000000000
+      internalID: -370218925029087439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea54f92a87893a20800000000000000
+      internalID: 3042612050744597225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69404a523bfde2240800000000000000
+      internalID: 4768995015955580054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b4a057b5747f350800000000000000
+      internalID: 6050383082526755656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e234d2b77ec2f00800000000000000
+      internalID: 1093503325770559085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1e8deaad149ec0800000000000000
+      internalID: -3561188785376059962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca91ba4880c41570800000000000000
+      internalID: 8436579693573020362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef2969b2c6e1bd0800000000000000
+      internalID: -2657567795636404518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05e2bb5702a2560800000000000000
+      internalID: 7289674636876206265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649384f6006c4a730800000000000000
+      internalID: 4009547273435887942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab80ddbaacca640800000000000000
+      internalID: 5092668118145743578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_24
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91ac58dcbfa62c0800000000000000
+      internalID: -4437457622688720443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ee4abc453a811f0800000000000000
+      internalID: -1073928926538699264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc5e135173a5830800000000000000
+      internalID: 4060618578198907795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 390.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf05ea83c890790800000000000000
+      internalID: -7563359924121437017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93418c4b63ecf100800000000000000
+      internalID: 143239338153558943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e24742c06d36c0800000000000000
+      internalID: -4162064093084982358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7850d02f411c08b90800000000000000
+      internalID: -7241575905107311225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144b6910a77a5490800000000000000
+      internalID: -7756755878687325163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2fb93235b16b290800000000000000
+      internalID: -7875076854517075246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_33
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98adc9dfbf59070800000000000000
+      internalID: 8112667370454682111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66418b376cb423280800000000000000
+      internalID: -9065099784226335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bee080c5b060e30800000000000000
+      internalID: 4469272170111888144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619be82abc1bdb2b0800000000000000
+      internalID: -5567098076196325098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072cc45f3517b1db0800000000000000
+      internalID: -4820134370758311312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96cb190677c3f070800000000000000
+      internalID: 8139068261361501852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4dece12c0a06a90800000000000000
+      internalID: -7322676238503455539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee7bf5baf92f6f40800000000000000
+      internalID: 5723839808182910698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 376.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776905ecbf890070800000000000000
+      internalID: 8073141848497547125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ca21b6f976e040800000000000000
+      internalID: 4676559363512125845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fadf3c24acb920800000000000000
+      internalID: 3007459161133479566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf205f1bf8720c310800000000000000
+      internalID: 1423180980368507644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06fa3f30b7260d0800000000000000
+      internalID: -3431044709199421206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f69453c8857d4e0800000000000000
+      internalID: -1956998153856520347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb24be7585e907c0800000000000000
+      internalID: -4104497223852348468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67756a4c2d3558aa0800000000000000
+      internalID: -6159424750651811978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729dae18444f82f90800000000000000
+      internalID: -6978059047535978201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7956cd36ef88d5880800000000000000
+      internalID: -8620583485538802281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc5f25b74011e8a0800000000000000
+      internalID: -6277718505409258317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f489310722237f7f0800000000000000
+      internalID: -578938903603210161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301078473fd46820800000000000000
+      internalID: 2910696687719682108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253a67364679eb00800000000000000
+      internalID: 858347247940285734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 362.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb4b5ae77d3b010800000000000000
+      internalID: 1203542464383991521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210358b8f1390ef0800000000000000
+      internalID: -141526968971362013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b6398f46cdc650800000000000000
+      internalID: 6254873502394268062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77645786c8f0790c0800000000000000
+      internalID: -4569166201221724553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30291c54271f2c8f0800000000000000
+      internalID: -521589133722676733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5349bef0c16eb1f80800000000000000
+      internalID: -8134655293714099147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f9520d2a22abf0800000000000000
+      internalID: -314642651161169257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e82ffbac52c1130800000000000000
+      internalID: 3538744959940333199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d3b3100dbc450d0800000000000000
+      internalID: -3434896521542550121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dddd9cda3b0ae0800000000000000
+      internalID: -1582106124874820781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d256f00d08b21570800000000000000
+      internalID: 8436007418008589013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d73b2c67784d6a0800000000000000
+      internalID: -6425361824208421574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2a31c604362600800000000000000
+      internalID: 443098816958836575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608c63854014eb580800000000000000
+      internalID: -8809532334174451706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_69
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 348.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0134a2a885d3da520800000000000000
+      internalID: 2714893600858718992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2380cab16b507a00800000000000000
+      internalID: 752201613074006831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b73731733d5db0800000000000000
+      internalID: -4801625066356362595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f9fe3fd1b845b0800000000000000
+      internalID: -5383857782129035914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ee31beaf747920800000000000000
+      internalID: 2987152841128208428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44b537bc3b88ad0800000000000000
+      internalID: -2699710290213518137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_75
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab7a59859416370800000000000000
+      internalID: 8314007031919393351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_76
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c383b523cd03c0800000000000000
+      internalID: -4391639494923402821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_77
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b4d6399cb77200800000000000000
+      internalID: 177818076540350470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db782ac01af4e25a0800000000000000
+      internalID: -6544205655402444867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b13943b2ddd0c0800000000000000
+      internalID: -4549248381105360285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d65ceb80123c680800000000000000
+      internalID: -8736102530724565685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3619f3ffc17490800000000000000
+      internalID: -7750184836964925468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69007d962de16dae0800000000000000
+      internalID: -1524997534750670698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 334.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbd40477a61f1d30800000000000000
+      internalID: 4404263869053459423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57da6838da73fca0800000000000000
+      internalID: -5984304410767206566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d67930894da7f80800000000000000
+      internalID: -8107934429766783668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_86
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb01ecc40510cb0800000000000000
+      internalID: -4899546628797449321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_87
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2aa6166639a4f0800000000000000
+      internalID: -817062045296219531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f66ec4581e9710800000000000000
+      internalID: 1701824461711800309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2036cee4b0779740800000000000000
+      internalID: 5158715820578582574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_90
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da9254847bdbf00800000000000000
+      internalID: 1134264202193120538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5f81567ac7ac90800000000000000
+      internalID: -7158530473158812300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cda17104b67990800000000000000
+      internalID: -7388520220359539609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e9a7658e9497f60800000000000000
+      internalID: 8032532672624107082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_94
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964aa247704c9e70800000000000000
+      internalID: 9123237826109523608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d86f8493060ce40800000000000000
+      internalID: 5674641329640344928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_96
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b8d695853e4f220800000000000000
+      internalID: 2518888060203928394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 320.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935a84992ac146410800000000000000
+      internalID: 1469330863111578937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac12fc9578140a0800000000000000
+      internalID: -6899084334357951792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_99
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0aa1457e13a9c0800000000000000
+      internalID: -3917253761920529888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_100
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69ea57d96a7cde0800000000000000
+      internalID: -1312897571140757813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_101
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb74cb6242539230800000000000000
+      internalID: 3644346968702221248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abb92b39a2dfe60800000000000000
+      internalID: 7997595327124978181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_103
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34778f9328192220800000000000000
+      internalID: 2461525212614063162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_104
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f461b2d5f749d7b0800000000000000
+      internalID: -5199045173695126282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98938aeec31ae2380800000000000000
+      internalID: -8994074122738189943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b43b5306856af0800000000000000
+      internalID: -403769242606585714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_107
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e894575e01d4e0800000000000000
+      internalID: -1958768594685205587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_108
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ace09e99d9beeb0800000000000000
+      internalID: -4689481302610621854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_109
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f7ad28e6529ea60800000000000000
+      internalID: 7703729794165931856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_110
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f338e7cc46e449f30800000000000000
+      internalID: 4581372915777176383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 306.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af4fc2e1c95f3f0800000000000000
+      internalID: -867615699781748149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdc5e3e7eee71c0800000000000000
+      internalID: -4503900351344354105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_113
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e242986cecdc7d0800000000000000
+      internalID: -2896431633229664674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_114
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7cfd236a4a9c500800000000000000
+      internalID: 417045474233534370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_115
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a4015666145610800000000000000
+      internalID: 1608935595579843747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_116
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9467f097280a8f730800000000000000
+      internalID: 4033149948547528265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778aacf1af792300800000000000000
+      internalID: 227853589864417149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_118
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212994ef33b808f80800000000000000
+      internalID: -8106326273841065454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_119
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19543f78a877a82c0800000000000000
+      internalID: -4428595846695402095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_120
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770f183e75dbb160800000000000000
+      internalID: 7042457180408055678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_121
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9037775058b3e380800000000000000
+      internalID: -8943101779823349603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_122
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeaeef52ead6db70800000000000000
+      internalID: 8923560377488158395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b383aa26bcd33d70800000000000000
+      internalID: 9021797153510753206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_124
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d3d672048dc9d0800000000000000
+      internalID: -2752398651135109662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_125
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 292.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73180990c76c5af0800000000000000
+      internalID: -406335789471362177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412879cf81ba04770800000000000000
+      internalID: 8593056212828258836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81ff405efe4f930800000000000000
+      internalID: 4176226521389668516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6068f738f83100800000000000000
+      internalID: 88093112007682777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_129
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316583d44ebd40110800000000000000
+      internalID: 1226346772146181651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_130
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bcb1a0c87591e0800000000000000
+      internalID: -2191712874903325220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a61246f0746170800000000000000
+      internalID: 8170779826929969290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84be1ea9923eb9740800000000000000
+      internalID: 5159967565914696520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_133
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927d047e8adefae0800000000000000
+      internalID: -1513532119382658410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a33b098a036130800000000000000
+      internalID: 3558699714267555555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_135
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f61ab91b25ba80800000000000000
+      internalID: -8451801736194623159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_136
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22123d97a5f89d20800000000000000
+      internalID: 3285646028412424750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_137
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb0d6eb864cd900800000000000000
+      internalID: 710520407904533686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_138
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a81efc1ef3f459d0800000000000000
+      internalID: -2786333996701837144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_139
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 278.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdee287d189b2a50800000000000000
+      internalID: 6497454139749887437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af7761782a45fef0800000000000000
+      internalID: -75072281219989593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_141
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daebfd27578cb5770800000000000000
+      internalID: 8600688320158088877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_142
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecb0a49afdc23ec0800000000000000
+      internalID: -3588579476941783836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_143
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef5da415c61a7fe0800000000000000
+      internalID: -1190614115774799889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa34dd3c0cfbd580800000000000000
+      internalID: -8801163917258376530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_145
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fda8c744a3ea4b0800000000000000
+      internalID: -5427336435113205871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_146
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042331afc3979b930800000000000000
+      internalID: 4159489033653924416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_147
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2111cef92d19a67d0800000000000000
+      internalID: -2924364674211507950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_148
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863416219c225d30800000000000000
+      internalID: 4418643186324616844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b008ec7d884eb7a0800000000000000
+      internalID: -6359565851277393740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_150
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b258b62dad0ad00800000000000000
+      internalID: 982025316048644970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_151
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff7123387e517b0800000000000000
+      internalID: -5254038839590650111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_152
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ba5d411fd59eb0800000000000000
+      internalID: -4713616169568127817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_153
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 264.56668
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e866baa54d6fee10800000000000000
+      internalID: 2229120486555936994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe58ef6509aa73f80800000000000000
+      internalID: -8126839465655237137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_155
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b524a625c380c610800000000000000
+      internalID: 1639455147142948275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_156
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce71b5431c55260800000000000000
+      internalID: 7085782019348098194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_157
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f53a2ce9b177c0800000000000000
+      internalID: -4075271763821989380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_158
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0b6580fbcf9c640800000000000000
+      internalID: 5100885950382649508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_159
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe10b4fdce8095c0800000000000000
+      internalID: -4210708636366790978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_160
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f7b5b1f0da90c0800000000000000
+      internalID: -4568109135459520140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_161
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730a963241bc9e60800000000000000
+      internalID: 7970440338480956282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_162
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95b0a8fa75e19e0800000000000000
+      internalID: -1648784002124129813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_163
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db44c03f290cb020800000000000000
+      internalID: 2358770403121581009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_164
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb4826f06866ee0800000000000000
+      internalID: -1268178844422717781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_165
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83672f7adb7b82750800000000000000
+      internalID: 6280471705562543672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_166
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0cbe3c02c2321a0800000000000000
+      internalID: -6835571290180697920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_167
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 250.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343e176a9d0f9b90800000000000000
+      internalID: -7233047519727569867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379ed765120e49e0800000000000000
+      internalID: -1635367323728701635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_169
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd01d0572be67190800000000000000
+      internalID: -7964920336866013711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_170
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624f958f2407cda0800000000000000
+      internalID: -5924762182630817181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_171
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2292eb074ca0620800000000000000
+      internalID: 2741219311714116287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_172
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3075de8ba2174bd10800000000000000
+      internalID: 2140460151212955395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_173
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c65900e21ef60030800000000000000
+      internalID: 3460732720702379721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_174
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18278d1fd902c40800000000000000
+      internalID: 5485558008181326266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_175
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754ed2ce589a0740800000000000000
+      internalID: 5119071459223684469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_176
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e76b77e1b232030800000000000000
+      internalID: 3468663547862875650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_177
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4fbf48b1df3c220800000000000000
+      internalID: 2505124112385176807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_178
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571b8ad3274491630800000000000000
+      internalID: 3898222209917301109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_179
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1823dd651c62130800000000000000
+      internalID: 3541730735795896826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_180
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 236.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf174b9d628875e60800000000000000
+      internalID: 7950973367588516348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_181
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d481788ef12cd60800000000000000
+      internalID: 7908918979175402835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_182
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850f7820555ad3a0800000000000000
+      internalID: -6639900897839217278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_183
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c254ed2d2e52fa650800000000000000
+      internalID: 6246252864316785964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_184
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4559912f4447c140800000000000000
+      internalID: 4739832239487538511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_185
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e98b730159612a0800000000000000
+      internalID: -6767057493190730098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_186
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167d0d09d34e2110800000000000000
+      internalID: 1238001547079415320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_187
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824c2824b02d2ce0800000000000000
+      internalID: -1428449548666387826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_188
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0861a282c9b79a0800000000000000
+      internalID: -6234217562845576990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_189
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce5f4adf746d840800000000000000
+      internalID: 5248461570466770063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_190
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9c21be8ec18740800000000000000
+      internalID: 5152626560941727628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_191
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 222.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795ad1897202ee60800000000000000
+      internalID: 7989951409801550200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3690c0dabe7f610800000000000000
+      internalID: 1655050516545758115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_193
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89655b4ad18f6acf0800000000000000
+      internalID: -241232723816655208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_194
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc721e6d76a704250800000000000000
+      internalID: 5926871696024872908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_195
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bedf22e65fe5f8c0800000000000000
+      internalID: -3966000740388839755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_196
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e484fb88460728d0800000000000000
+      internalID: -2871319328769932058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_197
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83882c5e27331e8d0800000000000000
+      internalID: -2818915323183200200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_198
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393845b957b66a980800000000000000
+      internalID: -8528010691518102637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_199
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b9b70b68c398960800000000000000
+      internalID: 7604675994975968157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_200
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e079d7b96476ab2b0800000000000000
+      internalID: -5568024436336126194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_201
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74824874f32fed950800000000000000
+      internalID: 6475879667802056775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_202
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd831b43ec7230e0800000000000000
+      internalID: -2291631944719168080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_203
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e2b51dbcd05690800000000000000
+      internalID: -7615344265212533282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_204
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be2771e4c034fb0800000000000000
+      internalID: -4664871259485312098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_205
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 208.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212281e7b86d62d0800000000000000
+      internalID: -3283853414311517907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d05d48638b7b8a0800000000000000
+      internalID: -6289355810303308534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_207
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3410c0571e520a7c0800000000000000
+      internalID: -4062205213626597053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_208
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000802e6eae7f7a0800000000000000
+      internalID: -6343343272772501504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_209
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc4cf8aea16c1d0800000000000000
+      internalID: -3330945279657194569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_210
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924943aaa59dff70800000000000000
+      internalID: 9222692172041110166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_211
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7366646306c02840800000000000000
+      internalID: 5197371687857185659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_212
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb26f1391da35ca0800000000000000
+      internalID: -6029285152394957854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_213
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf71e4e383ee8c50800000000000000
+      internalID: 6669518253802487754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_214
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ff0304d0ba8980800000000000000
+      internalID: -8535815719096421196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_215
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa33af65abbfe00800000000000000
+      internalID: 1079661418413009491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_216
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc1763ba66fa00b0800000000000000
+      internalID: -5761521835130282789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_217
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ad2ced7dbf888e0800000000000000
+      internalID: -1690824755503769000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_218
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd81bc92e9ae2d1c0800000000000000
+      internalID: -4480260714253313828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_219
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 194.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f86abd32c4fae120800000000000000
+      internalID: 2444034862898374903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f5cb1954117120800000000000000
+      internalID: 2409729648570530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_221
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e5b788a5ed14c0800000000000000
+      internalID: -4315040355956954879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_222
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68ff6f681a6d8920800000000000000
+      internalID: 2994165980452616300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_223
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72827ee4fb7fd70800000000000000
+      internalID: 9076933919595046883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_224
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86690f40865d25050800000000000000
+      internalID: 5787923113860699752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_225
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed70a6ece3dbe5f0800000000000000
+      internalID: -726253900455182876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_226
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081451c0c65d08f60800000000000000
+      internalID: 8034656395264868736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_227
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69fdd0b4de5dd30800000000000000
+      internalID: 4455728312964060910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_228
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea77742331cd560800000000000000
+      internalID: 7339762599375384266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_229
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d63c3126ed498470800000000000000
+      internalID: 8397328631004411605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_230
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096146c631a635200800000000000000
+      internalID: 167594242798261904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_231
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687d2fd891e4f1e60800000000000000
+      internalID: 7935146940112754566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_232
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ad20aa2d5482a50800000000000000
+      internalID: 6496519233579702815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_233
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 180.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59d4b00c16f20f0800000000000000
+      internalID: -1139584703250197069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443720267186fde0800000000000000
+      internalID: -1299709098104245183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_235
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d61c64f4f2e3440800000000000000
+      internalID: 4917419860671163726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_236
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1f49228b099200800000000000000
+      internalID: 187193513179290562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_237
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66168efe33570a580800000000000000
+      internalID: -8817919204462665370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_238
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095d6595394b6f60800000000000000
+      internalID: 8028591255207106824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_239
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737a196cbc9bab030800000000000000
+      internalID: 3511323144349656887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_240
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eea02f32dbbb900800000000000000
+      internalID: 701362129068551748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_241
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017db4554f3560220800000000000000
+      internalID: 2451739356017973008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_242
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30248a14a6427deb0800000000000000
+      internalID: -4695244047723773437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_243
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecacfbdddce45e90800000000000000
+      internalID: -7037739880050545439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_244
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a9818afc3e1400800000000000000
+      internalID: 296741672065802533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_245
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634941f67e27c3350800000000000000
+      internalID: 5997795142077289526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_246
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae5bcef9db619270800000000000000
+      internalID: 8255498175973645997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_247
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 166.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412654d94a53c0dd0800000000000000
+      internalID: -2518579110477471212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb16e45e95ed830800000000000000
+      internalID: 4097811552351140817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_249
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96fbec23bf10a20800000000000000
+      internalID: 3026976620205271477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_250
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a41ba58d167280800000000000000
+      internalID: -9046010341588950446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_251
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70297e479eb0e0d60800000000000000
+      internalID: 7858231497124712967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_252
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa3ad44288119d0800000000000000
+      internalID: -2805311403372336569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_253
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3b869fd3e4bb20800000000000000
+      internalID: 3149392588881738980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_254
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39ff81586e59630800000000000000
+      internalID: 3933303308902437799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_255
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2f865d5f29fee0800000000000000
+      internalID: -1226897345551062344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_256
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08922baf2423a490800000000000000
+      internalID: -7736299947739146229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_257
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3320bf67d6f95e740800000000000000
+      internalID: 5180722238856036915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_258
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb795015070cf980800000000000000
+      internalID: -8503914278051808326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_259
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5f933fb633b070800000000000000
+      internalID: 8120894747911871163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_260
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477162f860a064200800000000000000
+      internalID: 163829459733321588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_261
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 152.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09b37f6334856fa0800000000000000
+      internalID: -5808090787976333041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_262
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41f34fcad3feee0800000000000000
+      internalID: -1229696360207411985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_263
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26098e090a90470800000000000000
+      internalID: 8361390727427547896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_264
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fb166d6d5a2e90800000000000000
+      internalID: -7049719542249163340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_265
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf28a7bb81a09cb0800000000000000
+      internalID: -4859206376478986292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_266
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0282899a2c50131e0800000000000000
+      internalID: -2219986807689828320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_267
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4712b05f9496a9b40800000000000000
+      internalID: 5447782465622712692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_268
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c375b980a80c1a10800000000000000
+      internalID: 1881388229932184518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_269
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84281d2a4ce21dcd0800000000000000
+      internalID: -2535193693152771512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_270
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a59d511651f210800000000000000
+      internalID: 1364966794654491115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_271
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54091e310111940800000000000000
+      internalID: 5265007116947572188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_272
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8b3522bbf0b6740800000000000000
+      internalID: 5146224295610136757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_273
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ad73bdd6954aa0800000000000000
+      internalID: -6177365434925471325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_274
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 138.56667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6b42194314f1d0800000000000000
+      internalID: -3318005820904739301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731145eb8ecc10110800000000000000
+      internalID: 1225485873619145015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_276
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9f09f64f3118d0800000000000000
+      internalID: -2877449112854225279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_277
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0de764a7fb7e7a0800000000000000
+      internalID: -6347894617865793319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_278
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c1a35e706cb350800000000000000
+      internalID: 6033803696454879608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_279
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b40799f30f6390800000000000000
+      internalID: -7823029657203854149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_280
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a5510a8804f240800000000000000
+      internalID: 4824490489641544090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_281
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290393298fc7f87d0800000000000000
+      internalID: -2913973026838466414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_282
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eab03b216361b80800000000000000
+      internalID: -8424486599008735668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_283
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c68fb62b85096c0800000000000000
+      internalID: -4138710534214620012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_284
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c0ecf7f0e989160800000000000000
+      internalID: 7032544607544937565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_285
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb0364e7508ef10800000000000000
+      internalID: 2299093649674255600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_286
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ab3e235c0112d0800000000000000
+      internalID: -3309850699743124630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_287
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 124.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179cd8b311dca7440800000000000000
+      internalID: 4934481815635085681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_288
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9581d75ad24f9b0800000000000000
+      internalID: -5047359093583881780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_289
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35593018080ab9b30800000000000000
+      internalID: 4295203143408653651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_290
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 110.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de99e30db16d870800000000000000
+      internalID: 8707177510784855381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_291
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 110.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56512046b39ede610800000000000000
+      internalID: 1652233079605040485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_292
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 96.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557526b49d5a52cb0800000000000000
+      internalID: -4889319467749583019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_293
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 96.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fb5a00ed4ecf50800000000000000
+      internalID: 6903540903447360485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_294
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a7e3e3ac3f07f0800000000000000
+      internalID: -644229547089747184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_295
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 96.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd07108d28f69eb0800000000000000
+      internalID: -4713307085690434110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_296
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 82.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99622e1990b02d0800000000000000
+      internalID: -3311542578831779415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_297
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021b53e04a6de6e0800000000000000
+      internalID: -1806671048580853242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_298
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 82.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580b271cc6daba00800000000000000
+      internalID: 773166458097829971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_299
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 82.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387b23c422513cc0800000000000000
+      internalID: -3733112298266724302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_300
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac732ab8e7d10ef40800000000000000
+      internalID: 5755632753125242826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_301
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a1a257aa0e4eec0800000000000000
+      internalID: -3538456384491611585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_302
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 68.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11d4f50c13c18860800000000000000
+      internalID: 7530514577066610972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_303
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 54.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575d6efe9f018b00800000000000000
+      internalID: 828960981960709982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_304
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 54.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81244b655705660800000000000000
+      internalID: 7372521605257369850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_305
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 54.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6bb52c52b55d30800000000000000
+      internalID: 4419634718173785058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_306
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ffed46f2311170800000000000000
+      internalID: 8147349234340852359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_307
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 26.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11aa63f39fb7b50800000000000000
+      internalID: 6592136529482224059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_308
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fad4a14e2ef6b80800000000000000
+      internalID: -8399245310700966010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_309
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 26.566666
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab1c0e00f25d040800000000000000
+      internalID: 4671691869284055646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_310
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12.566667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09962dd94866418b0800000000000000
+      internalID: -5182404551427069552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_311
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12.566667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2beef812260e00800000000000000
+      internalID: 1010532657142640362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entrance_Tileset4_312
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 12.566667
+        width: 19
+        height: 14.433333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929a94741d25a0de0800000000000000
+      internalID: -1366188478155871959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

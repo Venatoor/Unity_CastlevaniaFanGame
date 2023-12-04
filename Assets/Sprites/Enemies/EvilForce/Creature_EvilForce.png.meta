@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: c70ff2d79a6069a4386ea6edaefd4087
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7188681833275020879
+    second: Creature_EvilForce_0
+  - first:
+      213: 6681758393060782381
+    second: Creature_EvilForce_1
+  - first:
+      213: 8020683956816497823
+    second: Creature_EvilForce_2
+  - first:
+      213: 4004310164844183800
+    second: Creature_EvilForce_3
+  - first:
+      213: 2647788632015565372
+    second: Creature_EvilForce_4
+  - first:
+      213: 7071891095239183296
+    second: Creature_EvilForce_5
+  - first:
+      213: -4858230152837821346
+    second: Creature_EvilForce_6
+  - first:
+      213: -8179932198387635161
+    second: Creature_EvilForce_7
+  - first:
+      213: 113294521089896851
+    second: Creature_EvilForce_8
+  - first:
+      213: 4209227456643397862
+    second: Creature_EvilForce_9
+  - first:
+      213: -5471897695869890119
+    second: Creature_EvilForce_10
+  - first:
+      213: 4631626124561394436
+    second: Creature_EvilForce_11
+  - first:
+      213: 5497555704932541866
+    second: Creature_EvilForce_12
+  - first:
+      213: -9122203599048719875
+    second: Creature_EvilForce_13
+  - first:
+      213: -3125451985479343624
+    second: Creature_EvilForce_14
+  - first:
+      213: 5250004232430588196
+    second: Creature_EvilForce_15
+  - first:
+      213: -6559186698020040829
+    second: Creature_EvilForce_16
+  - first:
+      213: -1029519492946718664
+    second: Creature_EvilForce_17
+  - first:
+      213: 8728587172662913912
+    second: Creature_EvilForce_18
+  - first:
+      213: -7908733634267167735
+    second: Creature_EvilForce_19
+  - first:
+      213: -353424489109679116
+    second: Creature_EvilForce_20
+  - first:
+      213: -3533077368910179973
+    second: Creature_EvilForce_21
+  - first:
+      213: -7712744279353366795
+    second: Creature_EvilForce_22
+  - first:
+      213: 7249459879464976635
+    second: Creature_EvilForce_23
+  - first:
+      213: 5206752603084217889
+    second: Creature_EvilForce_24
+  - first:
+      213: 7281708495549559365
+    second: Creature_EvilForce_25
+  - first:
+      213: 1724310846912475955
+    second: Creature_EvilForce_26
+  - first:
+      213: -5282011171003900332
+    second: Creature_EvilForce_27
+  - first:
+      213: -9167167327830298019
+    second: Creature_EvilForce_28
+  - first:
+      213: -7310075349608877570
+    second: Creature_EvilForce_29
+  - first:
+      213: 6038683953576659133
+    second: Creature_EvilForce_30
+  - first:
+      213: -4069532999482893321
+    second: Creature_EvilForce_31
+  - first:
+      213: -3453403432472575647
+    second: Creature_EvilForce_32
+  - first:
+      213: 7809732219183651954
+    second: Creature_EvilForce_33
+  - first:
+      213: 3280209680860110532
+    second: Creature_EvilForce_34
+  - first:
+      213: 7808650620362206271
+    second: Creature_EvilForce_35
+  - first:
+      213: 4676634623047445564
+    second: Creature_EvilForce_36
+  - first:
+      213: -7975084172427822450
+    second: Creature_EvilForce_37
+  - first:
+      213: -8731061515316224589
+    second: Creature_EvilForce_38
+  - first:
+      213: -1045925427072651184
+    second: Creature_EvilForce_39
+  - first:
+      213: 592456640107864158
+    second: Creature_EvilForce_40
+  - first:
+      213: -5735153571719323775
+    second: Creature_EvilForce_41
+  - first:
+      213: 2651987674025335263
+    second: Creature_EvilForce_42
+  - first:
+      213: -4832380317421299093
+    second: Creature_EvilForce_43
+  - first:
+      213: -8893500508718402628
+    second: Creature_EvilForce_44
+  - first:
+      213: -113147724339528091
+    second: Creature_EvilForce_45
+  - first:
+      213: 3475021528457886362
+    second: Creature_EvilForce_46
+  - first:
+      213: -69885929084086526
+    second: Creature_EvilForce_47
+  - first:
+      213: -8501823497902662066
+    second: Creature_EvilForce_48
+  - first:
+      213: 3585752230431873029
+    second: Creature_EvilForce_49
+  - first:
+      213: 4500749459676824431
+    second: Creature_EvilForce_50
+  - first:
+      213: 1808945705275730582
+    second: Creature_EvilForce_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_EvilForce_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1606
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4659a34a0453c360800000000000000
+      internalID: 7188681833275020879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1521
+        width: 59
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217f556bdf5abc50800000000000000
+      internalID: 6681758393060782381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1523
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cc8b530913f4f60800000000000000
+      internalID: 8020683956816497823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1432
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0060211ea229730800000000000000
+      internalID: 4004310164844183800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1431
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32fa937bb5deb420800000000000000
+      internalID: 2647788632015565372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1354
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbcafd8b77642260800000000000000
+      internalID: 7071891095239183296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1354
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c820f7a69149cb0800000000000000
+      internalID: -4858230152837821346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1297
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c2354310b0b7e80800000000000000
+      internalID: -8179932198387635161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1303
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391bf8444c0829100800000000000000
+      internalID: 113294521089896851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1300
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fc04021e2a6a30800000000000000
+      internalID: 4209227456643397862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1296
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19566790aef04b0800000000000000
+      internalID: -5471897695869890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1211
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba6eebb67d64040800000000000000
+      internalID: 4631626124561394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52d6d49cd3b4c40800000000000000
+      internalID: 5497555704932541866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1215
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df149ed782c676180800000000000000
+      internalID: -9122203599048719875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1210
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e6f28af920a4d0800000000000000
+      internalID: -3125451985479343624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1129
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421925f9803cbd840800000000000000
+      internalID: 5250004232430588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1104
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f4c01437619f4a0800000000000000
+      internalID: -6559186698020040829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1018
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830129dc97966b1f0800000000000000
+      internalID: -1029519492946718664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1018
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87baa9999cb222970800000000000000
+      internalID: 8728587172662913912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 934
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904425279a88e3290800000000000000
+      internalID: -7908733634267167735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 934
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f391b7bc42681bf0800000000000000
+      internalID: -353424489109679116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 798
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71132e1adcf7fec0800000000000000
+      internalID: -3533077368910179973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 850
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f667b911f3d6f490800000000000000
+      internalID: -7712744279353366795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 797
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c4f0e9514b9460800000000000000
+      internalID: 7249459879464976635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 797
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12edc2ce7e9124840800000000000000
+      internalID: 5206752603084217889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 676
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542fc2beb43dd0560800000000000000
+      internalID: 7281708495549559365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 676
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333298549bfde710800000000000000
+      internalID: 1724310846912475955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 592
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edaa443d682b6b0800000000000000
+      internalID: -5282011171003900332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 618
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52bb1492eda7c080800000000000000
+      internalID: -9167167327830298019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_29
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 538
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1393133356d8a90800000000000000
+      internalID: -7310075349608877570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 548
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c9cbbf07bdc350800000000000000
+      internalID: 6038683953576659133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_31
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 542
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb971c5c4d1687c0800000000000000
+      internalID: -4069532999482893321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 534
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618b5500eb0310d0800000000000000
+      internalID: -3453403432472575647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 448
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5d5b531eb16c60800000000000000
+      internalID: 7809732219183651954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 467
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced6705355a58d20800000000000000
+      internalID: 3280209680860110532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 462
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca2d10e56ed5c60800000000000000
+      internalID: 7808650620362206271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 451
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c290b696eb6e040800000000000000
+      internalID: 4676634623047445564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_37
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 460
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a7990f23fc25190800000000000000
+      internalID: -7975084172427822450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 379
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1e7b9fc905d680800000000000000
+      internalID: -8731061515316224589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 369
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05039c99d502c71f0800000000000000
+      internalID: -1045925427072651184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 376
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50637adc24d83800800000000000000
+      internalID: 592456640107864158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 372
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f5b517634a860b0800000000000000
+      internalID: -5735153571719323775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd99efa1db0cdc420800000000000000
+      internalID: 2651987674025335263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 289
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a938054bfefecb0800000000000000
+      internalID: -4832380317421299093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 211
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb375183860f39480800000000000000
+      internalID: -8893500508718402628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 203
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e39938eb40e6ef0800000000000000
+      internalID: -113147724339528091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 212
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a319e2ba1c93030800000000000000
+      internalID: 3475021528457886362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 204
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20715262e17b70ff0800000000000000
+      internalID: -69885929084086526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5170c294730a80800000000000000
+      internalID: -8501823497902662066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d47bc7a623c130800000000000000
+      internalID: 3585752230431873029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 38
+        width: 11
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63811f99cfd57e30800000000000000
+      internalID: 4500749459676824431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EvilForce_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 121
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aade4e88aaa1910800000000000000
+      internalID: 1808945705275730582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

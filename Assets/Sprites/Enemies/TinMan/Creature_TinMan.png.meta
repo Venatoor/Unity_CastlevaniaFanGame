@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: 3513010c5d2ea014cb24caf015637ec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2056380266132033000
+    second: Creature_TinMan_0
+  - first:
+      213: -2877087144370976553
+    second: Creature_TinMan_1
+  - first:
+      213: 2368695625766931147
+    second: Creature_TinMan_2
+  - first:
+      213: -561841353347057020
+    second: Creature_TinMan_3
+  - first:
+      213: 3187295766727730245
+    second: Creature_TinMan_4
+  - first:
+      213: -2100015272135113211
+    second: Creature_TinMan_5
+  - first:
+      213: 8871062076390758321
+    second: Creature_TinMan_6
+  - first:
+      213: 1365997649418302635
+    second: Creature_TinMan_7
+  - first:
+      213: 2455981700351616414
+    second: Creature_TinMan_8
+  - first:
+      213: 7641513912877940997
+    second: Creature_TinMan_9
+  - first:
+      213: 6126759555478073176
+    second: Creature_TinMan_10
+  - first:
+      213: -5900458855704945031
+    second: Creature_TinMan_11
+  - first:
+      213: 4008227711809556508
+    second: Creature_TinMan_12
+  - first:
+      213: 4159532249401231694
+    second: Creature_TinMan_13
+  - first:
+      213: 8710978190884365172
+    second: Creature_TinMan_14
+  - first:
+      213: 1844682203162448479
+    second: Creature_TinMan_15
+  - first:
+      213: -5916684884730558562
+    second: Creature_TinMan_16
+  - first:
+      213: 7727658359084782326
+    second: Creature_TinMan_17
+  - first:
+      213: 3988372306931444204
+    second: Creature_TinMan_18
+  - first:
+      213: -1846731717310107871
+    second: Creature_TinMan_19
+  - first:
+      213: -2079139318560988698
+    second: Creature_TinMan_20
+  - first:
+      213: 7623981231188075137
+    second: Creature_TinMan_21
+  - first:
+      213: 165827348908870826
+    second: Creature_TinMan_22
+  - first:
+      213: -3467779712046956534
+    second: Creature_TinMan_23
+  - first:
+      213: 1681844951776245159
+    second: Creature_TinMan_24
+  - first:
+      213: -6833114860140740756
+    second: Creature_TinMan_25
+  - first:
+      213: 5078049279523535698
+    second: Creature_TinMan_26
+  - first:
+      213: -533346226363864439
+    second: Creature_TinMan_27
+  - first:
+      213: -5719769075205235377
+    second: Creature_TinMan_28
+  - first:
+      213: -2875640535895384676
+    second: Creature_TinMan_29
+  - first:
+      213: 5624148754477690709
+    second: Creature_TinMan_30
+  - first:
+      213: 2871699276183969404
+    second: Creature_TinMan_31
+  - first:
+      213: 8237194404931155652
+    second: Creature_TinMan_32
+  - first:
+      213: 318474665448895230
+    second: Creature_TinMan_33
+  - first:
+      213: -8860981432885862388
+    second: Creature_TinMan_34
+  - first:
+      213: 7447659550404960133
+    second: Creature_TinMan_35
+  - first:
+      213: -5902199857290500129
+    second: Creature_TinMan_36
+  - first:
+      213: 3337948700815315291
+    second: Creature_TinMan_37
+  - first:
+      213: -7503935809804946241
+    second: Creature_TinMan_38
+  - first:
+      213: -6087371617021478632
+    second: Creature_TinMan_39
+  - first:
+      213: 5239012226294271734
+    second: Creature_TinMan_40
+  - first:
+      213: -8694255680049599466
+    second: Creature_TinMan_41
+  - first:
+      213: 275812902044871507
+    second: Creature_TinMan_42
+  - first:
+      213: 8617497662528154348
+    second: Creature_TinMan_43
+  - first:
+      213: -8533787785540091633
+    second: Creature_TinMan_44
+  - first:
+      213: 5417990508498223036
+    second: Creature_TinMan_45
+  - first:
+      213: -5670243961403794682
+    second: Creature_TinMan_46
+  - first:
+      213: -24742751666309920
+    second: Creature_TinMan_47
+  - first:
+      213: 4572571871796077597
+    second: Creature_TinMan_48
+  - first:
+      213: -2507572246469587626
+    second: Creature_TinMan_49
+  - first:
+      213: -5509339927083641262
+    second: Creature_TinMan_50
+  - first:
+      213: 987904424407748380
+    second: Creature_TinMan_51
+  - first:
+      213: -7065908793988896822
+    second: Creature_TinMan_52
+  - first:
+      213: -1252291374212805335
+    second: Creature_TinMan_53
+  - first:
+      213: -8627267333585424459
+    second: Creature_TinMan_54
+  - first:
+      213: -2342111766949860469
+    second: Creature_TinMan_55
+  - first:
+      213: 7114086492803089046
+    second: Creature_TinMan_56
+  - first:
+      213: 8201186880432576812
+    second: Creature_TinMan_57
+  - first:
+      213: -1251523738678200442
+    second: Creature_TinMan_58
+  - first:
+      213: 8993793441705948741
+    second: Creature_TinMan_59
+  - first:
+      213: -5586031445699701713
+    second: Creature_TinMan_60
+  - first:
+      213: -4511849876511505306
+    second: Creature_TinMan_61
+  - first:
+      213: 178488949013871376
+    second: Creature_TinMan_62
+  - first:
+      213: -6166453328868457929
+    second: Creature_TinMan_63
+  - first:
+      213: -1215804628511635824
+    second: Creature_TinMan_64
+  - first:
+      213: 245342354162539796
+    second: Creature_TinMan_65
+  - first:
+      213: 6916713148676059589
+    second: Creature_TinMan_66
+  - first:
+      213: 4578814417356587535
+    second: Creature_TinMan_67
+  - first:
+      213: -3603063911542225411
+    second: Creature_TinMan_68
+  - first:
+      213: 1274719204077533086
+    second: Creature_TinMan_69
+  - first:
+      213: -5847017166703952390
+    second: Creature_TinMan_70
+  - first:
+      213: -4636978817569176752
+    second: Creature_TinMan_71
+  - first:
+      213: -2424267698853281104
+    second: Creature_TinMan_72
+  - first:
+      213: 7724970095858889594
+    second: Creature_TinMan_73
+  - first:
+      213: 9125290125745755836
+    second: Creature_TinMan_74
+  - first:
+      213: -5259866856421844014
+    second: Creature_TinMan_75
+  - first:
+      213: -4157222607272790525
+    second: Creature_TinMan_76
+  - first:
+      213: -4198854942382911986
+    second: Creature_TinMan_77
+  - first:
+      213: 5917925207641768730
+    second: Creature_TinMan_78
+  - first:
+      213: 162482500651632908
+    second: Creature_TinMan_79
+  - first:
+      213: -1728311736353260591
+    second: Creature_TinMan_80
+  - first:
+      213: 7020563244852310974
+    second: Creature_TinMan_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Creature_TinMan_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1004
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b31a0b054673e0800000000000000
+      internalID: -2056380266132033000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1004
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8cce35c788218d0800000000000000
+      internalID: -2877087144370976553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1004
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0cda2f1c4fd020800000000000000
+      internalID: 2368695625766931147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1004
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48abf911440f338f0800000000000000
+      internalID: -561841353347057020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1004
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a9e1ec9c8b3c20800000000000000
+      internalID: 3187295766727730245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 979
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506cd718c3f3bd2e0800000000000000
+      internalID: -2100015272135113211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 982
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d5b325f75c1b70800000000000000
+      internalID: 8871062076390758321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 927
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b891ff9ff4f210800000000000000
+      internalID: 1365997649418302635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 927
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9561581856651220800000000000000
+      internalID: 2455981700351616414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 927
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018b43da6c1c0a60800000000000000
+      internalID: 7641513912877940997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 927
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2080da5f960550800000000000000
+      internalID: 6126759555478073176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 938
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e16e5ceeb5d1ea0800000000000000
+      internalID: -5900458855704945031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 927
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10194d0ed510a730800000000000000
+      internalID: 4008227711809556508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 938
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49875dea80a9b930800000000000000
+      internalID: 4159532249401231694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 905
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47366d9038c93e870800000000000000
+      internalID: 8710978190884365172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 908
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529bf2b0b0a99910800000000000000
+      internalID: 1844682203162448479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 909
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9746bdf176b3eda0800000000000000
+      internalID: -5916684884730558562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 805
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f293dea5582e3b60800000000000000
+      internalID: 7727658359084782326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 862
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce967aa5b7b895730800000000000000
+      internalID: 3988372306931444204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 805
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa84a99471f56e0800000000000000
+      internalID: -1846731717310107871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 861
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ef963ec96523e0800000000000000
+      internalID: -2079139318560988698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 868
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e5334982ddc960800000000000000
+      internalID: 7623981231188075137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 805
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac02c168132d4200800000000000000
+      internalID: 165827348908870826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 805
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00822899b8ffdfc0800000000000000
+      internalID: -3467779712046956534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 850
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a538e5a21d175710800000000000000
+      internalID: 1681844951776245159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_25
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f3ed3fc36eb21a0800000000000000
+      internalID: -6833114860140740756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 696
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bbde14aead87640800000000000000
+      internalID: 5078049279523535698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 733
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6943de6c2998f0800000000000000
+      internalID: -533346226363864439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 726
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d902ba45c4f90b0800000000000000
+      internalID: -5719769075205235377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 696
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddd3c1b2ca718d0800000000000000
+      internalID: -2875640535895384676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 712
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f29928e7dfc0e40800000000000000
+      internalID: 5624148754477690709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 635
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e11bad6435ad720800000000000000
+      internalID: 2871699276183969404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 625
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b1c33ba4605270800000000000000
+      internalID: 8237194404931155652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 635
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2fa0855037b6400800000000000000
+      internalID: 318474665448895230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_34
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 620
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a1839558770580800000000000000
+      internalID: -8860981432885862388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 619
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdee5d6e66b5760800000000000000
+      internalID: 7447659550404960133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 542
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a6d0408c271ea0800000000000000
+      internalID: -5902199857290500129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 542
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d29e78a6c25e20800000000000000
+      internalID: 3337948700815315291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 542
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb43e37732aacd790800000000000000
+      internalID: -7503935809804946241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 542
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b3af34cf458ba0800000000000000
+      internalID: -6087371617021478632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 542
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec232ccd5b4b840800000000000000
+      internalID: 5239012226294271734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 465
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ca83ce58cc75780800000000000000
+      internalID: -8694255680049599466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 465
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35baad28f52e3d300800000000000000
+      internalID: 275812902044871507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 465
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaefb37770879770800000000000000
+      internalID: 8617497662528154348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 465
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c0561935e19980800000000000000
+      internalID: -8533787785540091633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 465
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf797769a1903b40800000000000000
+      internalID: 5417990508498223036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 388
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b19bac82f3f41b0800000000000000
+      internalID: -5670243961403794682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f924399818aff0800000000000000
+      internalID: -24742751666309920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 437
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14295014e9057f30800000000000000
+      internalID: 4572571871796077597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 439
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d4d88d350533dd0800000000000000
+      internalID: -2507572246469587626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2569d4ba684ea83b0800000000000000
+      internalID: -5509339927083641262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_51
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 388
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f4cd007ddb5bd00800000000000000
+      internalID: 987904424407748380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7abfe7369d0fd90800000000000000
+      internalID: -7065908793988896822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 388
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d82cc41a7fe9ee0800000000000000
+      internalID: -1252291374212805335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 403
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2f4fb11ac54880800000000000000
+      internalID: -8627267333585424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 388
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be0bac1c52f7fd0800000000000000
+      internalID: -2342111766949860469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_56
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 401
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692cee029ff4ab260800000000000000
+      internalID: 7114086492803089046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_57
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 414
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2917c8140870d170800000000000000
+      internalID: 8201186880432576812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687fd106ac1b1aee0800000000000000
+      internalID: -1251523738678200442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 341
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fe1ceb7f50dc70800000000000000
+      internalID: 8993793441705948741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_60
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 343
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2458e60ffd6a72b0800000000000000
+      internalID: -5586031445699701713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_61
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 344
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66444ae2170b261c0800000000000000
+      internalID: -4511849876511505306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_62
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bfd42e0ce1a7200800000000000000
+      internalID: 178488949013871376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 270
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73245c06e5b5c6aa0800000000000000
+      internalID: -6166453328868457929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 274
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c949c128902fe0800000000000000
+      internalID: -1215804628511635824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 266
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d573c3291a76300800000000000000
+      internalID: 245342354162539796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 266
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c13c1066f91dff50800000000000000
+      internalID: 6916713148676059589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020af6f3773b8f30800000000000000
+      internalID: 4578814417356587535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_68
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 187
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df50f7956785ffdc0800000000000000
+      internalID: -3603063911542225411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_69
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97f863cc56b0b110800000000000000
+      internalID: 1274719204077533086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_70
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 187
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfffe9dd83bdea0800000000000000
+      internalID: -5847017166703952390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_71
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 157
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05347cb455426afb0800000000000000
+      internalID: -4636978817569176752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 157
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b285694f554b5ed0800000000000000
+      internalID: -2424267698853281104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a733f20af5b943b60800000000000000
+      internalID: 7724970095858889594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb69471850b83ae70800000000000000
+      internalID: 9125290125745755836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 80
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db102946f23107b0800000000000000
+      internalID: -5259866856421844014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 80
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306384980149e46c0800000000000000
+      internalID: -4157222607272790525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_77
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8fd72dabaab5c0800000000000000
+      internalID: -4198854942382911986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_78
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1341d03f91b02250800000000000000
+      internalID: 5917925207641768730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 38
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ce8539f0414200800000000000000
+      internalID: 162482500651632908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db768df1adc308e0800000000000000
+      internalID: -1728311736353260591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_TinMan_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3f59c131d0e6160800000000000000
+      internalID: 7020563244852310974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
